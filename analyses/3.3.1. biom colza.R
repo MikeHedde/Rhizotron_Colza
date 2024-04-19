@@ -7,7 +7,7 @@
   mybiom_Ind <- read.csv("data/derived-data/pl_biom_Ind.csv", h = T, sep = ",")
   ## Date de germination
   myBnGerm <- read.csv("data/derived-data/pl_Bn_germ.csv", h = T, sep = ",")
-
+  
 # Source des fonctions stats et graphiques
 source("analyses/1.0. fonctions stats.R")
 source("analyses/1.1. fonctions graphiques.R")

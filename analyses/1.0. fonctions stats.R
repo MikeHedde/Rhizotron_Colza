@@ -4,6 +4,9 @@
 #     et de representation graphique de sortie des modeles
 #------------------------------------------------------------
 
+librarian::shelf(car, lme4)
+
+
 # fonction pour ajouter le facteur id_loca
 myloca <- function(X){
   # on introduit une colonne loc
