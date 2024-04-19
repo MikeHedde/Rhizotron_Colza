@@ -17,12 +17,11 @@
 
 ## Overview
 
-This research compendium… **{{ DESCRIBE YOUR PROJECT }}**
+This research compendium describe the data obtained during an experiment on how earthworm functional diversity influences crops and weeds.
 
 ## Features
 
-The main purpose of this compendium is to… **{{ DESCRIBE THE MAIN
-FEATURES }}**
+The main purpose of this compendium is to store all data and the associated scripts for statistical analyses and plots.
 
 ## Content
 
@@ -31,7 +30,7 @@ This repository is structured as follow:
 -   [`DESCRIPTION`](https://github.com/MikeHedde/Rhizotron_Colza/tree/main/DESCRIPTION):
     contains project metadata (authors, date, dependencies, etc.)
 
--   [`make.R`](https://github.com/MikeHedde/Rhizotron_Colza/tree/main/make.R):
+-   [`analyses`](https://github.com/MikeHedde/Rhizotron_Colza/tree/main/make.R):
     main R script to run the entire project
 
 -   [`R/`](https://github.com/MikeHedde/Rhizotron_Colza/tree/main/R):
@@ -46,14 +45,6 @@ To install this compendium:
 -   open [RStudio
     IDE](https://posit.co/products/open-source/rstudio/) and create a
     New Project from Version Control.
-
-## Usage
-
-Launch the
-[`make.R`](https://github.com/MikeHedde/Rhizotron_Colza/tree/main/make.R)
-file with:
-
-    source("make.R")
 
 **Notes**
 
@@ -80,8 +71,8 @@ By contributing to this project, you agree to abide by its terms.
 
 ## Acknowledgments
 
-**{{ OPTIONAL SECTION }}**
+This work was funded in part by the Labex BASC. We acknowledge students (Clara Rochefort, Adrien de Villenault, Raphaelle Peguillhan and Camille Zwicke) and the staff of Ecosys (Alain Fortineau , Jean-Pierre Pétraud, Virginie Grondin, Christelle Marrault, Amélie Trouvé, Véronique, Jodie Thénard, Sylvain Bart, Florence Lafouge ,Michel Burban, Julie Rodriguez) for their participation to data collections, and experimental surveillance. We also acknowledge AnaEE and the Biochemenv Platform for their soil analysis.
 
 ## References
 
-**{{ OPTIONAL SECTION }}**
+M Zwicke, A Gardarin, C Richard-Molard, M Hedde (2016) How does earthworm functional diversity affect rapeseed-weeds interactions? International Conference of Ecological Sciences Sfécologie, Marseille, France.
