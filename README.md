@@ -43,11 +43,7 @@ This repository is structured as follow:
 
 To install this compendium:
 
--   [Fork](https://docs.github.com/en/get-started/quickstart/contributing-to-projects)
-    this repository using the GitHub interface.
--   [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-    your fork using `git clone fork-url` (replace `fork-url` by the URL
-    of your fork). Alternatively, open [RStudio
+-   open [RStudio
     IDE](https://posit.co/products/open-source/rstudio/) and create a
     New Project from Version Control.
 
