@@ -1,0 +1,1104 @@
+RT;leg;div;id_taxo;distance;id_loca;org;N
+10;Leg-;Div1;Lol_peren;-24;RT10_d-24;Leaf3;1.4253
+1;Leg-;Div0;Bra_napus;-15;RT01_d-15;Fine roots;2.0184
+1;Leg-;Div0;Bra_napus;-15;RT01_d-15;Leaf3;2.4297
+1;Leg-;Div0;Bra_napus;-15;RT01_d-15;Other leaves;2.2377
+1;Leg-;Div0;Bra_napus;-15;RT01_d-15;Stem;2.1354
+1;Leg-;Div0;Bra_napus;-15;RT01_d-15;Taproot;1.9229
+2;Leg-;Div1;Bra_napus;-15;RT02_d-15;Fine roots;2.4832
+2;Leg-;Div1;Bra_napus;-15;RT02_d-15;Leaf3;4.44385
+2;Leg-;Div1;Bra_napus;-15;RT02_d-15;Other leaves;3.692
+2;Leg-;Div1;Bra_napus;-15;RT02_d-15;Taproot;2.0534
+3;Leg-;Div2;Bra_napus;-15;RT03_d-15;Fine roots;2.06555
+3;Leg-;Div2;Bra_napus;-15;RT03_d-15;Leaf2;1.737
+3;Leg-;Div2;Bra_napus;-15;RT03_d-15;Other leaves;1.8475
+3;Leg-;Div2;Bra_napus;-15;RT03_d-15;Stem;1.7871
+3;Leg-;Div2;Bra_napus;-15;RT03_d-15;Taproot;1.576
+4;Leg-;Div3;Bra_napus;-15;RT04_d-15;Fine roots;1.89345
+4;Leg-;Div3;Bra_napus;-15;RT04_d-15;Leaf3;1.4185
+4;Leg-;Div3;Bra_napus;-15;RT04_d-15;Other leaves;1.1
+4;Leg-;Div3;Bra_napus;-15;RT04_d-15;Stem;1.2616
+4;Leg-;Div3;Bra_napus;-15;RT04_d-15;Taproot;1.6483
+6;Leg-;Div1;Bra_napus;-15;RT06_d-15;Fine roots;1.8042
+6;Leg-;Div1;Bra_napus;-15;RT06_d-15;Leaf2;2.7898
+6;Leg-;Div1;Bra_napus;-15;RT06_d-15;Other leaves;2.5046
+6;Leg-;Div1;Bra_napus;-15;RT06_d-15;Stem;2.2694
+6;Leg-;Div1;Bra_napus;-15;RT06_d-15;Taproot;1.9297
+7;Leg-;Div2;Bra_napus;-15;RT07_d-15;Fine roots;2.0456
+7;Leg-;Div2;Bra_napus;-15;RT07_d-15;Leaf3;1.4538
+7;Leg-;Div2;Bra_napus;-15;RT07_d-15;Other leaves;1.8213
+7;Leg-;Div2;Bra_napus;-15;RT07_d-15;Stem;1.621
+7;Leg-;Div2;Bra_napus;-15;RT07_d-15;Taproot;1.5804
+8;Leg-;Div3;Bra_napus;-15;RT08_d-15;Fine roots;1.7716
+8;Leg-;Div3;Bra_napus;-15;RT08_d-15;Leaf3;2.0865
+8;Leg-;Div3;Bra_napus;-15;RT08_d-15;Other leaves;2.3181
+8;Leg-;Div3;Bra_napus;-15;RT08_d-15;Stem;2.1973
+8;Leg-;Div3;Bra_napus;-15;RT08_d-15;Taproot;2.0935
+9;Leg-;Div0;Bra_napus;-15;RT09_d-15;Fine roots;1.6782
+9;Leg-;Div0;Bra_napus;-15;RT09_d-15;Leaf3;2.8796
+9;Leg-;Div0;Bra_napus;-15;RT09_d-15;Other leaves;3.1885
+9;Leg-;Div0;Bra_napus;-15;RT09_d-15;Stem;2.5994
+9;Leg-;Div0;Bra_napus;-15;RT09_d-15;Taproot;2.4154
+10;Leg-;Div1;Bra_napus;-15;RT10_d-15;Fine roots;2.29485
+10;Leg-;Div1;Bra_napus;-15;RT10_d-15;Leaf3;1.2338
+10;Leg-;Div1;Bra_napus;-15;RT10_d-15;Other leaves;1.25645
+10;Leg-;Div1;Bra_napus;-15;RT10_d-15;Stem;1.4048
+10;Leg-;Div1;Bra_napus;-15;RT10_d-15;Taproot;1.6893
+11;Leg+;Div0;Bra_napus;-15;RT11_d-15;Fine roots;1.2994
+11;Leg+;Div0;Bra_napus;-15;RT11_d-15;Leaf2;0.9486
+11;Leg+;Div0;Bra_napus;-15;RT11_d-15;Other leaves;0.8978
+12;Leg+;Div1;Bra_napus;-15;RT12_d-15;Fine roots;2.2789
+12;Leg+;Div1;Bra_napus;-15;RT12_d-15;Leaf3;0.8317
+12;Leg+;Div1;Bra_napus;-15;RT12_d-15;Other leaves;0.9335
+12;Leg+;Div1;Bra_napus;-15;RT12_d-15;Stem;1.209
+12;Leg+;Div1;Bra_napus;-15;RT12_d-15;Taproot;1.427
+13;Leg+;Div2;Bra_napus;-15;RT13_d-15;Fine roots;2.0717
+13;Leg+;Div2;Bra_napus;-15;RT13_d-15;Leaf3;0.906
+13;Leg+;Div2;Bra_napus;-15;RT13_d-15;Other leaves;1.3784
+13;Leg+;Div2;Bra_napus;-15;RT13_d-15;Stem;1.5085
+13;Leg+;Div2;Bra_napus;-15;RT13_d-15;Taproot;1.6441
+14;Leg+;Div3;Bra_napus;-15;RT14_d-15;Fine roots;2.1898
+14;Leg+;Div3;Bra_napus;-15;RT14_d-15;Leaf3;3.0224
+14;Leg+;Div3;Bra_napus;-15;RT14_d-15;Other leaves;2.9579
+14;Leg+;Div3;Bra_napus;-15;RT14_d-15;Stem;2.5927
+15;Leg+;Div0;Bra_napus;-15;RT15_d-15;Fine roots;1.85205
+15;Leg+;Div0;Bra_napus;-15;RT15_d-15;Leaf2;0.9435
+15;Leg+;Div0;Bra_napus;-15;RT15_d-15;Other leaves;1.2244
+15;Leg+;Div0;Bra_napus;-15;RT15_d-15;Stem;1.4129
+15;Leg+;Div0;Bra_napus;-15;RT15_d-15;Taproot;1.41275
+17;Leg+;Div2;Bra_napus;-15;RT17_d-15;Fine roots;2.3165
+17;Leg+;Div2;Bra_napus;-15;RT17_d-15;Leaf3;2.3925
+17;Leg+;Div2;Bra_napus;-15;RT17_d-15;Other leaves;2.6226
+17;Leg+;Div2;Bra_napus;-15;RT17_d-15;Stem;2.5064
+17;Leg+;Div2;Bra_napus;-15;RT17_d-15;Taproot;1.8851
+18;Leg+;Div3;Bra_napus;-15;RT18_d-15;Fine roots;2.113
+18;Leg+;Div3;Bra_napus;-15;RT18_d-15;Leaf3;2.2024
+18;Leg+;Div3;Bra_napus;-15;RT18_d-15;Other leaves;3.0849
+18;Leg+;Div3;Bra_napus;-15;RT18_d-15;Stem;2.0516
+18;Leg+;Div3;Bra_napus;-15;RT18_d-15;Taproot;1.946
+19;Leg+;Div0;Bra_napus;-15;RT19_d-15;Fine roots;2.1573
+19;Leg+;Div0;Bra_napus;-15;RT19_d-15;Leaf3;1.1938
+19;Leg+;Div0;Bra_napus;-15;RT19_d-15;Other leaves;1.92265
+19;Leg+;Div0;Bra_napus;-15;RT19_d-15;Stem;1.7288
+19;Leg+;Div0;Bra_napus;-15;RT19_d-15;Taproot;1.9974
+20;Leg+;Div1;Bra_napus;-15;RT20_d-15;Fine roots;2.2139
+20;Leg+;Div1;Bra_napus;-15;RT20_d-15;Leaf3;2.1534
+20;Leg+;Div1;Bra_napus;-15;RT20_d-15;Other leaves;2.4718
+20;Leg+;Div1;Bra_napus;-15;RT20_d-15;Stem;2.4225
+20;Leg+;Div1;Bra_napus;-15;RT20_d-15;Taproot;2.0285
+21;Leg-;Div2;Bra_napus;-15;RT21_d-15;Fine roots;1.8605
+21;Leg-;Div2;Bra_napus;-15;RT21_d-15;Limb;1.6001
+21;Leg-;Div2;Bra_napus;-15;RT21_d-15;Other leaves;2.3426
+21;Leg-;Div2;Bra_napus;-15;RT21_d-15;Stem;2.0542
+21;Leg-;Div2;Bra_napus;-15;RT21_d-15;Taproot;1.90465
+22;Leg-;Div3;Bra_napus;-15;RT22_d-15;Fine roots;2.0769
+22;Leg-;Div3;Bra_napus;-15;RT22_d-15;Limb;3.4895
+22;Leg-;Div3;Bra_napus;-15;RT22_d-15;Other leaves;3.42055
+22;Leg-;Div3;Bra_napus;-15;RT22_d-15;Stem;2.3026
+22;Leg-;Div3;Bra_napus;-15;RT22_d-15;Taproot;2.998
+23;Leg-;Div0;Bra_napus;-15;RT23_d-15;Fine roots;12.5259
+23;Leg-;Div0;Bra_napus;-15;RT23_d-15;Limb;0.8675
+23;Leg-;Div0;Bra_napus;-15;RT23_d-15;Other leaves;1.0059
+24;Leg-;Div1;Bra_napus;-15;RT24_d-15;Fine roots;2.3207
+24;Leg-;Div1;Bra_napus;-15;RT24_d-15;Limb;2.2198
+24;Leg-;Div1;Bra_napus;-15;RT24_d-15;Other leaves;2.9393
+24;Leg-;Div1;Bra_napus;-15;RT24_d-15;Stem;2.25
+24;Leg-;Div1;Bra_napus;-15;RT24_d-15;Taproot;2.1452
+25;Leg-;Div2;Bra_napus;-15;RT25_d-15;Fine roots;2.5432
+25;Leg-;Div2;Bra_napus;-15;RT25_d-15;Limb;2.7648
+25;Leg-;Div2;Bra_napus;-15;RT25_d-15;Other leaves;3.6756
+25;Leg-;Div2;Bra_napus;-15;RT25_d-15;Stem;3.0231
+25;Leg-;Div2;Bra_napus;-15;RT25_d-15;Taproot;2.4934
+26;Leg-;Div3;Bra_napus;-15;RT26_d-15;Fine roots;2.05985
+26;Leg-;Div3;Bra_napus;-15;RT26_d-15;Limb;1.5871
+26;Leg-;Div3;Bra_napus;-15;RT26_d-15;Other leaves;1.4821
+26;Leg-;Div3;Bra_napus;-15;RT26_d-15;Stem;2.0689
+26;Leg-;Div3;Bra_napus;-15;RT26_d-15;Taproot;2.1648
+27;Leg-;Div0;Bra_napus;-15;RT27_d-15;Fine roots;2.1047
+27;Leg-;Div0;Bra_napus;-15;RT27_d-15;Limb;2.702
+27;Leg-;Div0;Bra_napus;-15;RT27_d-15;Other leaves;2.5889
+27;Leg-;Div0;Bra_napus;-15;RT27_d-15;Stem;2.9769
+27;Leg-;Div0;Bra_napus;-15;RT27_d-15;Taproot;2.0086
+28;Leg-;Div1;Bra_napus;-15;RT28_d-15;Fine roots;2.1276
+28;Leg-;Div1;Bra_napus;-15;RT28_d-15;Limb;3.069
+28;Leg-;Div1;Bra_napus;-15;RT28_d-15;Other leaves;3.5068
+28;Leg-;Div1;Bra_napus;-15;RT28_d-15;Stem;3.1172
+28;Leg-;Div1;Bra_napus;-15;RT28_d-15;Taproot;2.4349
+29;Leg-;Div2;Bra_napus;-15;RT29_d-15;Fine roots;2.066
+29;Leg-;Div2;Bra_napus;-15;RT29_d-15;Limb;2.3937
+29;Leg-;Div2;Bra_napus;-15;RT29_d-15;Other leaves;2.7319
+29;Leg-;Div2;Bra_napus;-15;RT29_d-15;Stem;2.5247
+29;Leg-;Div2;Bra_napus;-15;RT29_d-15;Taproot;2.2558
+30;Leg-;Div3;Bra_napus;-15;RT30_d-15;Fine roots;2.4406
+30;Leg-;Div3;Bra_napus;-15;RT30_d-15;Limb;3.69
+30;Leg-;Div3;Bra_napus;-15;RT30_d-15;Other leaves;3.4158
+30;Leg-;Div3;Bra_napus;-15;RT30_d-15;Stem;3.388
+30;Leg-;Div3;Bra_napus;-15;RT30_d-15;Taproot;2.4959
+31;Leg+;Div2;Bra_napus;-15;RT31_d-15;Fine roots;2.2046
+31;Leg+;Div2;Bra_napus;-15;RT31_d-15;Limb;2.1336
+31;Leg+;Div2;Bra_napus;-15;RT31_d-15;Other leaves;3.2996
+31;Leg+;Div2;Bra_napus;-15;RT31_d-15;Stem;2.7859
+31;Leg+;Div2;Bra_napus;-15;RT31_d-15;Taproot;2.3817
+32;Leg+;Div3;Bra_napus;-15;RT32_d-15;Fine roots;2.0692
+32;Leg+;Div3;Bra_napus;-15;RT32_d-15;Limb;2.5063
+32;Leg+;Div3;Bra_napus;-15;RT32_d-15;Other leaves;3.2211
+32;Leg+;Div3;Bra_napus;-15;RT32_d-15;Stem;2.9236
+32;Leg+;Div3;Bra_napus;-15;RT32_d-15;Taproot;2.2556
+33;Leg+;Div0;Bra_napus;-15;RT33_d-15;Fine roots;2.2304
+33;Leg+;Div0;Bra_napus;-15;RT33_d-15;Limb;2.8195
+33;Leg+;Div0;Bra_napus;-15;RT33_d-15;Other leaves;2.9
+33;Leg+;Div0;Bra_napus;-15;RT33_d-15;Stem;2.7485
+33;Leg+;Div0;Bra_napus;-15;RT33_d-15;Taproot;2.2823
+34;Leg+;Div1;Bra_napus;-15;RT34_d-15;Fine roots;2.2868
+34;Leg+;Div1;Bra_napus;-15;RT34_d-15;Limb;2.5946
+34;Leg+;Div1;Bra_napus;-15;RT34_d-15;Other leaves;3.7651
+34;Leg+;Div1;Bra_napus;-15;RT34_d-15;Stem;3.5501
+34;Leg+;Div1;Bra_napus;-15;RT34_d-15;Taproot;2.5853
+35;Leg+;Div2;Bra_napus;-15;RT35_d-15;Fine roots;2.0844
+35;Leg+;Div2;Bra_napus;-15;RT35_d-15;Limb;2.0495
+35;Leg+;Div2;Bra_napus;-15;RT35_d-15;Other leaves;3.159
+35;Leg+;Div2;Bra_napus;-15;RT35_d-15;Stem;2.207
+35;Leg+;Div2;Bra_napus;-15;RT35_d-15;Taproot;2.5601
+36;Leg+;Div3;Bra_napus;-15;RT36_d-15;Fine roots;2.3798
+36;Leg+;Div3;Bra_napus;-15;RT36_d-15;Limb;2.8454
+36;Leg+;Div3;Bra_napus;-15;RT36_d-15;Other leaves;3.6186
+36;Leg+;Div3;Bra_napus;-15;RT36_d-15;Stem;2.6492
+36;Leg+;Div3;Bra_napus;-15;RT36_d-15;Taproot;2.3882
+37;Leg+;Div0;Bra_napus;-15;RT37_d-15;Fine roots;2.17575
+37;Leg+;Div0;Bra_napus;-15;RT37_d-15;Limb;1.3115
+37;Leg+;Div0;Bra_napus;-15;RT37_d-15;Other leaves;1.3478
+37;Leg+;Div0;Bra_napus;-15;RT37_d-15;Stem;1.4649
+37;Leg+;Div0;Bra_napus;-15;RT37_d-15;Taproot;2.0623
+38;Leg+;Div1;Bra_napus;-15;RT38_d-15;Fine roots;2.1726
+38;Leg+;Div1;Bra_napus;-15;RT38_d-15;Limb;1.5253
+38;Leg+;Div1;Bra_napus;-15;RT38_d-15;Other leaves;1.9917
+38;Leg+;Div1;Bra_napus;-15;RT38_d-15;Stem;1.7997
+38;Leg+;Div1;Bra_napus;-15;RT38_d-15;Taproot;2.024
+39;Leg+;Div2;Bra_napus;-15;RT39_d-15;Fine roots;2.1732
+39;Leg+;Div2;Bra_napus;-15;RT39_d-15;Limb;2.6789
+39;Leg+;Div2;Bra_napus;-15;RT39_d-15;Other leaves;3.2964
+39;Leg+;Div2;Bra_napus;-15;RT39_d-15;Stem;2.5998
+39;Leg+;Div2;Bra_napus;-15;RT39_d-15;Taproot;2.5603
+40;Leg+;Div3;Bra_napus;-15;RT40_d-15;Fine roots;1.7984
+40;Leg+;Div3;Bra_napus;-15;RT40_d-15;Limb;3.4002
+40;Leg+;Div3;Bra_napus;-15;RT40_d-15;Other leaves;3.8564
+40;Leg+;Div3;Bra_napus;-15;RT40_d-15;Stem;2.2132
+40;Leg+;Div3;Bra_napus;-15;RT40_d-15;Taproot;2.5039
+41;Leg-;Div1;Bra_napus;-15;RT41_d-15;Fine roots;2.2301
+41;Leg-;Div1;Bra_napus;-15;RT41_d-15;Limb;2.621
+41;Leg-;Div1;Bra_napus;-15;RT41_d-15;Other leaves;2.7331
+41;Leg-;Div1;Bra_napus;-15;RT41_d-15;Stem;2.2094
+41;Leg-;Div1;Bra_napus;-15;RT41_d-15;Taproot;2.33905
+42;Leg+;Div2;Bra_napus;-15;RT42_d-15;Fine roots;2.2132
+42;Leg+;Div2;Bra_napus;-15;RT42_d-15;Limb;3.7336
+42;Leg+;Div2;Bra_napus;-15;RT42_d-15;Other leaves;4.0151
+42;Leg+;Div2;Bra_napus;-15;RT42_d-15;Stem;3.3555
+42;Leg+;Div2;Bra_napus;-15;RT42_d-15;Taproot;2.8427
+1;Leg-;Div0;Lol_peren;-12;RT01_d-12;Fine roots;1.1991
+1;Leg-;Div0;Lol_peren;-12;RT01_d-12;Leaf3;1.158
+1;Leg-;Div0;Lol_peren;-12;RT01_d-12;Other leaves;0.8835
+2;Leg-;Div1;Lol_peren;-12;RT02_d-12;Fine roots;1.4015
+2;Leg-;Div1;Lol_peren;-12;RT02_d-12;Leaf2;3.5573
+2;Leg-;Div1;Lol_peren;-12;RT02_d-12;Other leaves;2.4439
+3;Leg-;Div2;Lol_peren;-12;RT03_d-12;Fine roots;1.3922
+3;Leg-;Div2;Lol_peren;-12;RT03_d-12;Leaf5;1.0159
+3;Leg-;Div2;Lol_peren;-12;RT03_d-12;Other leaves;1.1177
+4;Leg-;Div3;Lol_peren;-12;RT04_d-12;Fine roots;0.9797
+4;Leg-;Div3;Lol_peren;-12;RT04_d-12;Leaf4;0.9652
+4;Leg-;Div3;Lol_peren;-12;RT04_d-12;Other leaves;0.9752
+5;Leg-;Div0;Lol_peren;-12;RT05_d-12;Fine roots;0.9045
+5;Leg-;Div0;Lol_peren;-12;RT05_d-12;Leaf5;0.8338
+5;Leg-;Div0;Lol_peren;-12;RT05_d-12;Other leaves;0.9106
+6;Leg-;Div1;Lol_peren;-12;RT06_d-12;Fine roots;1.019
+6;Leg-;Div1;Lol_peren;-12;RT06_d-12;Leaf4;0.9296
+6;Leg-;Div1;Lol_peren;-12;RT06_d-12;Other leaves;0.9838
+7;Leg-;Div2;Lol_peren;-12;RT07_d-12;Fine roots;0.8791
+7;Leg-;Div2;Lol_peren;-12;RT07_d-12;Leaf4;0.836
+7;Leg-;Div2;Lol_peren;-12;RT07_d-12;Other leaves;0.9214
+8;Leg-;Div3;Lol_peren;-12;RT08_d-12;Leaf3;1.1867
+8;Leg-;Div3;Lol_peren;-12;RT08_d-12;Other leaves;1.2051
+9;Leg-;Div0;Lol_peren;-12;RT09_d-12;Fine roots;0.9004
+9;Leg-;Div0;Lol_peren;-12;RT09_d-12;Leaf3;0.8814
+9;Leg-;Div0;Lol_peren;-12;RT09_d-12;Other leaves;0.8948
+10;Leg-;Div1;Lol_peren;-12;RT10_d-12;Fine roots;1.0281
+10;Leg-;Div1;Lol_peren;-12;RT10_d-12;Leaf3;0.8087
+10;Leg-;Div1;Lol_peren;-12;RT10_d-12;Other leaves;0.9408
+11;Leg+;Div0;Lol_peren;-12;RT11_d-12;Fine roots;1.5147
+11;Leg+;Div0;Lol_peren;-12;RT11_d-12;Other leaves;0.862
+12;Leg+;Div1;Lol_peren;-12;RT12_d-12;Fine roots;1.1148
+12;Leg+;Div1;Lol_peren;-12;RT12_d-12;Leaf3;0.8667
+12;Leg+;Div1;Lol_peren;-12;RT12_d-12;Other leaves;0.7244
+13;Leg+;Div2;Lol_peren;-12;RT13_d-12;Fine roots;1.0873
+13;Leg+;Div2;Lol_peren;-12;RT13_d-12;Other leaves;0.8161
+14;Leg+;Div3;Lol_peren;-12;RT14_d-12;Fine roots;1.4291
+14;Leg+;Div3;Lol_peren;-12;RT14_d-12;Leaf3;1.1685
+14;Leg+;Div3;Lol_peren;-12;RT14_d-12;Other leaves;1.0705
+15;Leg+;Div0;Lol_peren;-12;RT15_d-12;Fine roots;1.058
+15;Leg+;Div0;Lol_peren;-12;RT15_d-12;Leaf3;1.1458
+15;Leg+;Div0;Lol_peren;-12;RT15_d-12;Other leaves;0.9603
+16;Leg+;Div1;Lol_peren;-12;RT16_d-12;Other leaves;1.27
+17;Leg+;Div2;Lol_peren;-12;RT17_d-12;Fine roots;1.0478
+17;Leg+;Div2;Lol_peren;-12;RT17_d-12;Leaf4;1.4723
+17;Leg+;Div2;Lol_peren;-12;RT17_d-12;Other leaves;1.4384
+18;Leg+;Div3;Lol_peren;-12;RT18_d-12;Leaf3;1.4618
+19;Leg+;Div0;Lol_peren;-12;RT19_d-12;Fine roots;1.2795
+19;Leg+;Div0;Lol_peren;-12;RT19_d-12;Leaf3;0.8495
+19;Leg+;Div0;Lol_peren;-12;RT19_d-12;Other leaves;0.7878
+20;Leg+;Div1;Lol_peren;-12;RT20_d-12;Fine roots;1.0844
+20;Leg+;Div1;Lol_peren;-12;RT20_d-12;Leaf3;0.7142
+20;Leg+;Div1;Lol_peren;-12;RT20_d-12;Other leaves;0.8298
+21;Leg-;Div2;Lol_peren;-12;RT21_d-12;Fine roots;1.0012
+21;Leg-;Div2;Lol_peren;-12;RT21_d-12;Other leaves;0.7288
+22;Leg-;Div3;Lol_peren;-12;RT22_d-12;Fine roots;0.6752
+22;Leg-;Div3;Lol_peren;-12;RT22_d-12;Limb;1.4976
+22;Leg-;Div3;Lol_peren;-12;RT22_d-12;Other leaves;1.5377
+23;Leg-;Div0;Lol_peren;-12;RT23_d-12;Fine roots;0.8853
+23;Leg-;Div0;Lol_peren;-12;RT23_d-12;Limb;0.992
+23;Leg-;Div0;Lol_peren;-12;RT23_d-12;Other leaves;1.2481
+24;Leg-;Div1;Lol_peren;-12;RT24_d-12;Fine roots;0.876
+24;Leg-;Div1;Lol_peren;-12;RT24_d-12;Limb;0.6751
+24;Leg-;Div1;Lol_peren;-12;RT24_d-12;Other leaves;0.8241
+25;Leg-;Div2;Lol_peren;-12;RT25_d-12;Fine roots;1.0089
+25;Leg-;Div2;Lol_peren;-12;RT25_d-12;Limb;1.2073
+25;Leg-;Div2;Lol_peren;-12;RT25_d-12;Other leaves;1.3373
+26;Leg-;Div3;Lol_peren;-12;RT26_d-12;Fine roots;1.1119
+26;Leg-;Div3;Lol_peren;-12;RT26_d-12;Limb;2.3383
+26;Leg-;Div3;Lol_peren;-12;RT26_d-12;Other leaves;1.6084
+27;Leg-;Div0;Lol_peren;-12;RT27_d-12;Fine roots;0.9213
+27;Leg-;Div0;Lol_peren;-12;RT27_d-12;Limb;1.1433
+27;Leg-;Div0;Lol_peren;-12;RT27_d-12;Other leaves;1.2263
+28;Leg-;Div1;Lol_peren;-12;RT28_d-12;Fine roots;0.9169
+28;Leg-;Div1;Lol_peren;-12;RT28_d-12;Limb;1.2848
+28;Leg-;Div1;Lol_peren;-12;RT28_d-12;Other leaves;1.2421
+29;Leg-;Div2;Lol_peren;-12;RT29_d-12;Fine roots;0.7743
+29;Leg-;Div2;Lol_peren;-12;RT29_d-12;Limb;1.0241
+29;Leg-;Div2;Lol_peren;-12;RT29_d-12;Other leaves;0.7881
+30;Leg-;Div3;Lol_peren;-12;RT30_d-12;Fine roots;0.9409
+30;Leg-;Div3;Lol_peren;-12;RT30_d-12;Limb;3.0746
+30;Leg-;Div3;Lol_peren;-12;RT30_d-12;Other leaves;2.4366
+31;Leg+;Div2;Lol_peren;-12;RT31_d-12;Fine roots;0.8068
+31;Leg+;Div2;Lol_peren;-12;RT31_d-12;Limb;0.9403
+31;Leg+;Div2;Lol_peren;-12;RT31_d-12;Other leaves;0.8975
+32;Leg+;Div3;Lol_peren;-12;RT32_d-12;Fine roots;0.718
+32;Leg+;Div3;Lol_peren;-12;RT32_d-12;Limb;1.195
+32;Leg+;Div3;Lol_peren;-12;RT32_d-12;Other leaves;1.2291
+33;Leg+;Div0;Lol_peren;-12;RT33_d-12;Fine roots;0.9146
+33;Leg+;Div0;Lol_peren;-12;RT33_d-12;Limb;1.0564
+33;Leg+;Div0;Lol_peren;-12;RT33_d-12;Other leaves;1.0667
+34;Leg+;Div1;Lol_peren;-12;RT34_d-12;Fine roots;0.8152
+34;Leg+;Div1;Lol_peren;-12;RT34_d-12;Limb;0.9885
+34;Leg+;Div1;Lol_peren;-12;RT34_d-12;Other leaves;1.0394
+35;Leg+;Div2;Lol_peren;-12;RT35_d-12;Fine roots;0.8802
+35;Leg+;Div2;Lol_peren;-12;RT35_d-12;Limb;1.5961
+35;Leg+;Div2;Lol_peren;-12;RT35_d-12;Other leaves;1.6983
+36;Leg+;Div3;Lol_peren;-12;RT36_d-12;Fine roots;1.07895
+36;Leg+;Div3;Lol_peren;-12;RT36_d-12;Limb;1.7753
+36;Leg+;Div3;Lol_peren;-12;RT36_d-12;Other leaves;1.881
+37;Leg+;Div0;Lol_peren;-12;RT37_d-12;Fine roots;1.2378
+37;Leg+;Div0;Lol_peren;-12;RT37_d-12;Limb;1.0285
+37;Leg+;Div0;Lol_peren;-12;RT37_d-12;Other leaves;1.1611
+38;Leg+;Div1;Lol_peren;-12;RT38_d-12;Fine roots;1.1295
+38;Leg+;Div1;Lol_peren;-12;RT38_d-12;Limb;1.5226
+38;Leg+;Div1;Lol_peren;-12;RT38_d-12;Other leaves;1.4322
+39;Leg+;Div2;Lol_peren;-12;RT39_d-12;Fine roots;1.11605
+39;Leg+;Div2;Lol_peren;-12;RT39_d-12;Limb;1.2398
+39;Leg+;Div2;Lol_peren;-12;RT39_d-12;Other leaves;1.1628
+40;Leg+;Div3;Lol_peren;-12;RT40_d-12;Fine roots;0.9501
+40;Leg+;Div3;Lol_peren;-12;RT40_d-12;Limb;1.6802
+40;Leg+;Div3;Lol_peren;-12;RT40_d-12;Other leaves;1.6143
+41;Leg-;Div1;Lol_peren;-12;RT41_d-12;Fine roots;1.3307
+41;Leg-;Div1;Lol_peren;-12;RT41_d-12;Limb;2.6577
+41;Leg-;Div1;Lol_peren;-12;RT41_d-12;Other leaves;2.1351
+42;Leg+;Div2;Lol_peren;-12;RT42_d-12;Fine roots;0.8012
+42;Leg+;Div2;Lol_peren;-12;RT42_d-12;Limb;1.5584
+42;Leg+;Div2;Lol_peren;-12;RT42_d-12;Other leaves;1.7962
+11;Leg+;Div0;Tri_alexa;-9;RT11_d-9;Fine roots;2.9349
+11;Leg+;Div0;Tri_alexa;-9;RT11_d-9;Leaf5;3.0531
+11;Leg+;Div0;Tri_alexa;-9;RT11_d-9;Other leaves;2.3877
+11;Leg+;Div0;Tri_alexa;-9;RT11_d-9;Stem;2.4812
+12;Leg+;Div1;Tri_alexa;-9;RT12_d-9;Fine roots;2.7294
+12;Leg+;Div1;Tri_alexa;-9;RT12_d-9;Other leaves;2.1364
+12;Leg+;Div1;Tri_alexa;-9;RT12_d-9;Stem;1.9238
+13;Leg+;Div2;Tri_alexa;-9;RT13_d-9;Fine roots;2.2975
+13;Leg+;Div2;Tri_alexa;-9;RT13_d-9;Leaf4;1.9986
+13;Leg+;Div2;Tri_alexa;-9;RT13_d-9;Other leaves;1.7163
+13;Leg+;Div2;Tri_alexa;-9;RT13_d-9;Stem;1.8236
+14;Leg+;Div3;Tri_alexa;-9;RT14_d-9;Fine roots;3.1824
+14;Leg+;Div3;Tri_alexa;-9;RT14_d-9;Leaf4;2.9793
+14;Leg+;Div3;Tri_alexa;-9;RT14_d-9;Other leaves;3.1112
+14;Leg+;Div3;Tri_alexa;-9;RT14_d-9;Stem;2.1921
+15;Leg+;Div0;Tri_alexa;-9;RT15_d-9;Other leaves;2.6344
+15;Leg+;Div0;Tri_alexa;-9;RT15_d-9;Stem;2.092
+17;Leg+;Div2;Tri_alexa;-9;RT17_d-9;Fine roots;2.2743
+17;Leg+;Div2;Tri_alexa;-9;RT17_d-9;Other leaves;2.4521
+17;Leg+;Div2;Tri_alexa;-9;RT17_d-9;Stem;1.8356
+19;Leg+;Div0;Tri_alexa;-9;RT19_d-9;Fine roots;2.834
+19;Leg+;Div0;Tri_alexa;-9;RT19_d-9;Other leaves;2.5194
+19;Leg+;Div0;Tri_alexa;-9;RT19_d-9;Stem;2.379
+20;Leg+;Div1;Tri_alexa;-9;RT20_d-9;Leaf4;1.2187
+20;Leg+;Div1;Tri_alexa;-9;RT20_d-9;Other leaves;1.5172
+31;Leg+;Div2;Tri_alexa;-9;RT31_d-9;Limb;2.4055
+31;Leg+;Div2;Tri_alexa;-9;RT31_d-9;Other leaves;2.2984
+31;Leg+;Div2;Tri_alexa;-9;RT31_d-9;Stem;2.7283
+32;Leg+;Div3;Tri_alexa;-9;RT32_d-9;Fine roots;2.5601
+32;Leg+;Div3;Tri_alexa;-9;RT32_d-9;Limb;3.2003
+32;Leg+;Div3;Tri_alexa;-9;RT32_d-9;Other leaves;3.2628
+32;Leg+;Div3;Tri_alexa;-9;RT32_d-9;Stem;2.3358
+33;Leg+;Div0;Tri_alexa;-9;RT33_d-9;Other leaves;1.9794
+33;Leg+;Div0;Tri_alexa;-9;RT33_d-9;Stem;2.0471
+34;Leg+;Div1;Tri_alexa;-9;RT34_d-9;Fine roots;2.7739
+34;Leg+;Div1;Tri_alexa;-9;RT34_d-9;Other leaves;2.3872
+34;Leg+;Div1;Tri_alexa;-9;RT34_d-9;Stem;2.83
+35;Leg+;Div2;Tri_alexa;-9;RT35_d-9;Fine roots;2.3225
+35;Leg+;Div2;Tri_alexa;-9;RT35_d-9;Limb;1.9666
+35;Leg+;Div2;Tri_alexa;-9;RT35_d-9;Other leaves;2.2256
+35;Leg+;Div2;Tri_alexa;-9;RT35_d-9;Stem;1.9368
+36;Leg+;Div3;Tri_alexa;-9;RT36_d-9;Fine roots;2.8046
+36;Leg+;Div3;Tri_alexa;-9;RT36_d-9;Limb;2.55765
+36;Leg+;Div3;Tri_alexa;-9;RT36_d-9;Stem;1.7772
+37;Leg+;Div0;Tri_alexa;-9;RT37_d-9;Fine roots;2.7978
+37;Leg+;Div0;Tri_alexa;-9;RT37_d-9;Other leaves;3.1403
+37;Leg+;Div0;Tri_alexa;-9;RT37_d-9;Stem;2.0903
+38;Leg+;Div1;Tri_alexa;-9;RT38_d-9;Other leaves;2.2871
+38;Leg+;Div1;Tri_alexa;-9;RT38_d-9;Stem;1.9208
+39;Leg+;Div2;Tri_alexa;-9;RT39_d-9;Fine roots;2.1827
+39;Leg+;Div2;Tri_alexa;-9;RT39_d-9;Other leaves;2.878
+39;Leg+;Div2;Tri_alexa;-9;RT39_d-9;Stem;2.1151
+40;Leg+;Div3;Tri_alexa;-9;RT40_d-9;Fine roots;2.5147
+40;Leg+;Div3;Tri_alexa;-9;RT40_d-9;Other leaves;3.2336
+40;Leg+;Div3;Tri_alexa;-9;RT40_d-9;Stem;1.9463
+42;Leg+;Div2;Tri_alexa;-9;RT42_d-9;Fine roots;2.6626
+42;Leg+;Div2;Tri_alexa;-9;RT42_d-9;Limb;2.4057
+42;Leg+;Div2;Tri_alexa;-9;RT42_d-9;Other leaves;2.4271
+42;Leg+;Div2;Tri_alexa;-9;RT42_d-9;Stem;2.241
+1;Leg-;Div0;Lol_peren;-3;RT01_d-3;Fine roots;1.0963
+1;Leg-;Div0;Lol_peren;-3;RT01_d-3;Leaf3;1.0866
+1;Leg-;Div0;Lol_peren;-3;RT01_d-3;Other leaves;0.8845
+2;Leg-;Div1;Lol_peren;-3;RT02_d-3;Fine roots;1.5463
+2;Leg-;Div1;Lol_peren;-3;RT02_d-3;Leaf4;2.9667
+2;Leg-;Div1;Lol_peren;-3;RT02_d-3;Other leaves;2.3985
+3;Leg-;Div2;Lol_peren;-3;RT03_d-3;Fine roots;0.8401
+3;Leg-;Div2;Lol_peren;-3;RT03_d-3;Other leaves;1.5868
+4;Leg-;Div3;Lol_peren;-3;RT04_d-3;Fine roots;0.9814
+4;Leg-;Div3;Lol_peren;-3;RT04_d-3;Leaf3;1.2332
+4;Leg-;Div3;Lol_peren;-3;RT04_d-3;Other leaves;1.2646
+5;Leg-;Div0;Lol_peren;-3;RT05_d-3;Fine roots;0.9207
+5;Leg-;Div0;Lol_peren;-3;RT05_d-3;Leaf4;1.0229
+5;Leg-;Div0;Lol_peren;-3;RT05_d-3;Other leaves;1.0948
+6;Leg-;Div1;Lol_peren;-3;RT06_d-3;Fine roots;1.019
+6;Leg-;Div1;Lol_peren;-3;RT06_d-3;Leaf3;2.588
+6;Leg-;Div1;Lol_peren;-3;RT06_d-3;Other leaves;1.2378
+7;Leg-;Div2;Lol_peren;-3;RT07_d-3;Fine roots;0.9659
+7;Leg-;Div2;Lol_peren;-3;RT07_d-3;Leaf3;1.2058
+7;Leg-;Div2;Lol_peren;-3;RT07_d-3;Other leaves;1.1129
+8;Leg-;Div3;Lol_peren;-3;RT08_d-3;Fine roots;0.8857
+8;Leg-;Div3;Lol_peren;-3;RT08_d-3;Leaf3;1.1086
+8;Leg-;Div3;Lol_peren;-3;RT08_d-3;Other leaves;0.9014
+9;Leg-;Div0;Lol_peren;-3;RT09_d-3;Fine roots;1.1204
+9;Leg-;Div0;Lol_peren;-3;RT09_d-3;Leaf3;1.1924
+9;Leg-;Div0;Lol_peren;-3;RT09_d-3;Other leaves;1.0482
+10;Leg-;Div1;Lol_peren;-3;RT10_d-3;Fine roots;0.9937
+10;Leg-;Div1;Lol_peren;-3;RT10_d-3;Leaf3;0.8861
+10;Leg-;Div1;Lol_peren;-3;RT10_d-3;Other leaves;1.0806
+10;Leg-;Div1;Lol_peren;-3;RT10_d-3;Stem;0.6885
+11;Leg+;Div0;Tri_alexa;-3;RT11_d-3;Fine roots;2.9078
+11;Leg+;Div0;Tri_alexa;-3;RT11_d-3;Leaf4;2.8097
+11;Leg+;Div0;Tri_alexa;-3;RT11_d-3;Other leaves;2.1498
+11;Leg+;Div0;Tri_alexa;-3;RT11_d-3;Stem;3.2117
+12;Leg+;Div1;Tri_alexa;-3;RT12_d-3;Fine roots;2.4147
+12;Leg+;Div1;Tri_alexa;-3;RT12_d-3;Leaf3;2.2302
+12;Leg+;Div1;Tri_alexa;-3;RT12_d-3;Other leaves;2.3818
+12;Leg+;Div1;Tri_alexa;-3;RT12_d-3;Stem;2.5242
+13;Leg+;Div2;Tri_alexa;-3;RT13_d-3;Fine roots;2.1153
+13;Leg+;Div2;Tri_alexa;-3;RT13_d-3;Other leaves;1.847
+13;Leg+;Div2;Tri_alexa;-3;RT13_d-3;Stem;2.1551
+14;Leg+;Div3;Tri_alexa;-3;RT14_d-3;Fine roots;2.7369
+14;Leg+;Div3;Tri_alexa;-3;RT14_d-3;Other leaves;2.2372
+14;Leg+;Div3;Tri_alexa;-3;RT14_d-3;Stem;2.4639
+15;Leg+;Div0;Tri_alexa;-3;RT15_d-3;Fine roots;2.937
+15;Leg+;Div0;Tri_alexa;-3;RT15_d-3;Other leaves;2.6073
+15;Leg+;Div0;Tri_alexa;-3;RT15_d-3;Stem;2.4895
+17;Leg+;Div2;Tri_alexa;-3;RT17_d-3;Fine roots;2.8282
+17;Leg+;Div2;Tri_alexa;-3;RT17_d-3;Leaf5;3.1155
+17;Leg+;Div2;Tri_alexa;-3;RT17_d-3;Other leaves;3.1667
+17;Leg+;Div2;Tri_alexa;-3;RT17_d-3;Stem;2.3359
+18;Leg+;Div3;Tri_alexa;-3;RT18_d-3;Fine roots;2.5864
+18;Leg+;Div3;Tri_alexa;-3;RT18_d-3;Other leaves;2.9348
+18;Leg+;Div3;Tri_alexa;-3;RT18_d-3;Stem;2.365
+19;Leg+;Div0;Tri_alexa;-3;RT19_d-3;Fine roots;2.2139
+19;Leg+;Div0;Tri_alexa;-3;RT19_d-3;Other leaves;3.2064
+19;Leg+;Div0;Tri_alexa;-3;RT19_d-3;Stem;2.4138
+20;Leg+;Div1;Tri_alexa;-3;RT20_d-3;Other leaves;2.6787
+20;Leg+;Div1;Tri_alexa;-3;RT20_d-3;Stem;2.3575
+21;Leg-;Div2;Lol_peren;-3;RT21_d-3;Fine roots;0.8433
+21;Leg-;Div2;Lol_peren;-3;RT21_d-3;Limb;1.0424
+21;Leg-;Div2;Lol_peren;-3;RT21_d-3;Other leaves;1.1153
+22;Leg-;Div3;Lol_peren;-3;RT22_d-3;Fine roots;1.0627
+22;Leg-;Div3;Lol_peren;-3;RT22_d-3;Limb;1.403
+22;Leg-;Div3;Lol_peren;-3;RT22_d-3;Other leaves;1.5615
+23;Leg-;Div0;Lol_peren;-3;RT23_d-3;Fine roots;1.2052
+23;Leg-;Div0;Lol_peren;-3;RT23_d-3;Limb;1.9768
+23;Leg-;Div0;Lol_peren;-3;RT23_d-3;Other leaves;1.9753
+24;Leg-;Div1;Lol_peren;-3;RT24_d-3;Fine roots;1.0888
+24;Leg-;Div1;Lol_peren;-3;RT24_d-3;Other leaves;1.6337
+25;Leg-;Div2;Lol_peren;-3;RT25_d-3;Fine roots;0.8284
+25;Leg-;Div2;Lol_peren;-3;RT25_d-3;Limb;0.8457
+25;Leg-;Div2;Lol_peren;-3;RT25_d-3;Other leaves;0.7975
+26;Leg-;Div3;Lol_peren;-3;RT26_d-3;Fine roots;1.1509
+26;Leg-;Div3;Lol_peren;-3;RT26_d-3;Limb;1.5481
+26;Leg-;Div3;Lol_peren;-3;RT26_d-3;Other leaves;1.384
+27;Leg-;Div0;Lol_peren;-3;RT27_d-3;Fine roots;0.9732
+27;Leg-;Div0;Lol_peren;-3;RT27_d-3;Limb;1.0142
+27;Leg-;Div0;Lol_peren;-3;RT27_d-3;Other Leaves;1.43305
+28;Leg-;Div1;Lol_peren;-3;RT28_d-3;Fine roots;1.015
+28;Leg-;Div1;Lol_peren;-3;RT28_d-3;Limb;1.1563
+28;Leg-;Div1;Lol_peren;-3;RT28_d-3;Other leaves;1.22
+29;Leg-;Div2;Lol_peren;-3;RT29_d-3;Fine roots;1.0702
+29;Leg-;Div2;Lol_peren;-3;RT29_d-3;Limb;2.0145
+29;Leg-;Div2;Lol_peren;-3;RT29_d-3;Other leaves;1.6802
+30;Leg-;Div3;Lol_peren;-3;RT30_d-3;Fine roots;1.2745
+30;Leg-;Div3;Lol_peren;-3;RT30_d-3;Limb;1.1237
+30;Leg-;Div3;Lol_peren;-3;RT30_d-3;Other leaves;1.2889
+31;Leg+;Div2;Tri_alexa;-3;RT31_d-3;Other leaves;2.3887
+31;Leg+;Div2;Tri_alexa;-3;RT31_d-3;Stem;3.2792
+33;Leg+;Div0;Tri_alexa;-3;RT33_d-3;Fine roots;3.0508
+33;Leg+;Div0;Tri_alexa;-3;RT33_d-3;Limb;2.1597
+33;Leg+;Div0;Tri_alexa;-3;RT33_d-3;Other leaves;2.1784
+33;Leg+;Div0;Tri_alexa;-3;RT33_d-3;Stem;2.7587
+35;Leg+;Div2;Tri_alexa;-3;RT35_d-3;Fine roots;2.733
+35;Leg+;Div2;Tri_alexa;-3;RT35_d-3;Limb;2.449
+35;Leg+;Div2;Tri_alexa;-3;RT35_d-3;Stem;2.3536
+36;Leg+;Div3;Tri_alexa;-3;RT36_d-3;Fine roots;2.7368
+36;Leg+;Div3;Tri_alexa;-3;RT36_d-3;Limb;1.88705
+36;Leg+;Div3;Tri_alexa;-3;RT36_d-3;Stem;2.0502
+37;Leg+;Div0;Tri_alexa;-3;RT37_d-3;Fine roots;2.5978
+37;Leg+;Div0;Tri_alexa;-3;RT37_d-3;Other leaves;3.5639
+37;Leg+;Div0;Tri_alexa;-3;RT37_d-3;Stem;2.1345
+38;Leg+;Div1;Tri_alexa;-3;RT38_d-3;Fine roots;2.9211
+38;Leg+;Div1;Tri_alexa;-3;RT38_d-3;Other leaves;3.6937
+38;Leg+;Div1;Tri_alexa;-3;RT38_d-3;Stem;2.7293
+39;Leg+;Div2;Tri_alexa;-3;RT39_d-3;Fine roots;2.655
+39;Leg+;Div2;Tri_alexa;-3;RT39_d-3;Limb;3.0521
+39;Leg+;Div2;Tri_alexa;-3;RT39_d-3;Other leaves;2.2877
+39;Leg+;Div2;Tri_alexa;-3;RT39_d-3;Stem;2.249
+41;Leg-;Div1;Lol_peren;-3;RT41_d-3;Fine roots;1.1761
+41;Leg-;Div1;Lol_peren;-3;RT41_d-3;Limb;2.6952
+41;Leg-;Div1;Lol_peren;-3;RT41_d-3;Other leaves;2.4108
+1;Leg-;Div0;Bra_napus;0;RT01_d0;Fine roots;1.9857
+1;Leg-;Div0;Bra_napus;0;RT01_d0;Leaf3;1.1757
+1;Leg-;Div0;Bra_napus;0;RT01_d0;Other leaves;1.3761
+1;Leg-;Div0;Bra_napus;0;RT01_d0;Stem;1.4123
+1;Leg-;Div0;Bra_napus;0;RT01_d0;Taproot;1.7775
+2;Leg-;Div1;Bra_napus;0;RT02_d0;Fine roots;2.0647
+2;Leg-;Div1;Bra_napus;0;RT02_d0;Leaf3;3.3412
+2;Leg-;Div1;Bra_napus;0;RT02_d0;Other leaves;3.7768
+2;Leg-;Div1;Bra_napus;0;RT02_d0;Stem;3.296
+2;Leg-;Div1;Bra_napus;0;RT02_d0;Taproot;2.6094
+3;Leg-;Div2;Bra_napus;0;RT03_d0;Fine roots;1.8064
+3;Leg-;Div2;Bra_napus;0;RT03_d0;Leaf3;2.1763
+3;Leg-;Div2;Bra_napus;0;RT03_d0;Other leaves;2.7957
+3;Leg-;Div2;Bra_napus;0;RT03_d0;Stem;2.8721
+3;Leg-;Div2;Bra_napus;0;RT03_d0;Taproot;2.045
+4;Leg-;Div3;Bra_napus;0;RT04_d0;Fine roots;2.0696
+4;Leg-;Div3;Bra_napus;0;RT04_d0;Leaf3;2.3866
+4;Leg-;Div3;Bra_napus;0;RT04_d0;Other leaves;2.819
+4;Leg-;Div3;Bra_napus;0;RT04_d0;Stem;2.6024
+4;Leg-;Div3;Bra_napus;0;RT04_d0;Taproot;1.9374
+5;Leg-;Div0;Bra_napus;0;RT05_d0;Fine roots;1.9573
+5;Leg-;Div0;Bra_napus;0;RT05_d0;Leaf3;2.3894
+5;Leg-;Div0;Bra_napus;0;RT05_d0;Other leaves;2.7774
+5;Leg-;Div0;Bra_napus;0;RT05_d0;Stem;2.4936
+5;Leg-;Div0;Bra_napus;0;RT05_d0;Taproot;1.9971
+6;Leg-;Div1;Bra_napus;0;RT06_d0;Fine roots;1.9254
+6;Leg-;Div1;Bra_napus;0;RT06_d0;Leaf4;1.6009
+6;Leg-;Div1;Bra_napus;0;RT06_d0;Other leaves;2.6959
+6;Leg-;Div1;Bra_napus;0;RT06_d0;Stem;2.1928
+6;Leg-;Div1;Bra_napus;0;RT06_d0;Taproot;1.8985
+7;Leg-;Div2;Bra_napus;0;RT07_d0;Fine roots;2.025
+7;Leg-;Div2;Bra_napus;0;RT07_d0;Leaf3;2.2225
+7;Leg-;Div2;Bra_napus;0;RT07_d0;Other leaves;2.748
+7;Leg-;Div2;Bra_napus;0;RT07_d0;Stem;2.8241
+7;Leg-;Div2;Bra_napus;0;RT07_d0;Taproot;2.0618
+8;Leg-;Div3;Bra_napus;0;RT08_d0;Fine roots;2.0229
+8;Leg-;Div3;Bra_napus;0;RT08_d0;Leaf3;2.124
+8;Leg-;Div3;Bra_napus;0;RT08_d0;Other leaves;2.3509
+8;Leg-;Div3;Bra_napus;0;RT08_d0;Stem;2.1897
+8;Leg-;Div3;Bra_napus;0;RT08_d0;Taproot;1.9185
+9;Leg-;Div0;Bra_napus;0;RT09_d0;Fine roots;2.0121
+9;Leg-;Div0;Bra_napus;0;RT09_d0;Leaf4;2.8017
+9;Leg-;Div0;Bra_napus;0;RT09_d0;Other leaves;2.8397
+9;Leg-;Div0;Bra_napus;0;RT09_d0;Stem;2.6766
+9;Leg-;Div0;Bra_napus;0;RT09_d0;Taproot;2.3238
+10;Leg-;Div1;Bra_napus;0;RT10_d0;Fine roots;2.2778
+10;Leg-;Div1;Bra_napus;0;RT10_d0;Other leaves;2.1744
+10;Leg-;Div1;Bra_napus;0;RT10_d0;Stem;2.4673
+10;Leg-;Div1;Bra_napus;0;RT10_d0;Taproot;2.19615
+11;Leg+;Div0;Bra_napus;0;RT11_d0;Fine roots;1.9925
+11;Leg+;Div0;Bra_napus;0;RT11_d0;Leaf4;2.1392
+11;Leg+;Div0;Bra_napus;0;RT11_d0;Other leaves;2.086
+11;Leg+;Div0;Bra_napus;0;RT11_d0;Stem;1.5109
+11;Leg+;Div0;Bra_napus;0;RT11_d0;Taproot;1.7135
+12;Leg+;Div1;Bra_napus;0;RT12_d0;Fine roots;1.9079
+12;Leg+;Div1;Bra_napus;0;RT12_d0;Leaf5;2.2573
+12;Leg+;Div1;Bra_napus;0;RT12_d0;Other leaves;2.0638
+12;Leg+;Div1;Bra_napus;0;RT12_d0;Stem;2.1654
+12;Leg+;Div1;Bra_napus;0;RT12_d0;Taproot;1.8607
+13;Leg+;Div2;Bra_napus;0;RT13_d0;Fine roots;1.7702
+13;Leg+;Div2;Bra_napus;0;RT13_d0;Leaf4;2.413
+13;Leg+;Div2;Bra_napus;0;RT13_d0;Other leaves;2.3969
+13;Leg+;Div2;Bra_napus;0;RT13_d0;Stem;2.3776
+13;Leg+;Div2;Bra_napus;0;RT13_d0;Taproot;2.0282
+14;Leg+;Div3;Bra_napus;0;RT14_d0;Fine roots;2.034
+14;Leg+;Div3;Bra_napus;0;RT14_d0;Leaf3;2.2719
+14;Leg+;Div3;Bra_napus;0;RT14_d0;Other leaves;2.3387
+14;Leg+;Div3;Bra_napus;0;RT14_d0;Stem;2.1595
+14;Leg+;Div3;Bra_napus;0;RT14_d0;Taproot;1.9987
+15;Leg+;Div0;Bra_napus;0;RT15_d0;Fine roots;2.0259
+15;Leg+;Div0;Bra_napus;0;RT15_d0;Leaf3;1.7583
+15;Leg+;Div0;Bra_napus;0;RT15_d0;Other leaves;2.2872
+15;Leg+;Div0;Bra_napus;0;RT15_d0;Stem;2.2028
+15;Leg+;Div0;Bra_napus;0;RT15_d0;Taproot;1.8371
+16;Leg+;Div1;Bra_napus;0;RT16_d0;Fine roots;2.2555
+16;Leg+;Div1;Bra_napus;0;RT16_d0;Leaf4;1.7877
+16;Leg+;Div1;Bra_napus;0;RT16_d0;Other leaves;2.2954
+16;Leg+;Div1;Bra_napus;0;RT16_d0;Stem;2.2155
+16;Leg+;Div1;Bra_napus;0;RT16_d0;Taproot;1.8852
+17;Leg+;Div2;Bra_napus;0;RT17_d0;Fine roots;2.8051
+17;Leg+;Div2;Bra_napus;0;RT17_d0;Leaf4;2.3605
+17;Leg+;Div2;Bra_napus;0;RT17_d0;Other leaves;1.9509
+17;Leg+;Div2;Bra_napus;0;RT17_d0;Stem;1.9319
+18;Leg+;Div3;Bra_napus;0;RT18_d0;Fine roots;1.7657
+18;Leg+;Div3;Bra_napus;0;RT18_d0;Leaf3;2.7806
+18;Leg+;Div3;Bra_napus;0;RT18_d0;Other leaves;2.9979
+18;Leg+;Div3;Bra_napus;0;RT18_d0;Stem;2.7274
+18;Leg+;Div3;Bra_napus;0;RT18_d0;Taproot;2.3466
+19;Leg+;Div0;Bra_napus;0;RT19_d0;Fine roots;2.0018
+19;Leg+;Div0;Bra_napus;0;RT19_d0;Leaf4;2.2862
+19;Leg+;Div0;Bra_napus;0;RT19_d0;Other leaves;2.2114
+19;Leg+;Div0;Bra_napus;0;RT19_d0;Stem;2.2981
+19;Leg+;Div0;Bra_napus;0;RT19_d0;Taproot;2.0233
+20;Leg+;Div1;Bra_napus;0;RT20_d0;Fine roots;2.1522
+20;Leg+;Div1;Bra_napus;0;RT20_d0;Leaf3;2.4384
+20;Leg+;Div1;Bra_napus;0;RT20_d0;Other leaves;2.0014
+20;Leg+;Div1;Bra_napus;0;RT20_d0;Stem;2.2637
+20;Leg+;Div1;Bra_napus;0;RT20_d0;Taproot;1.6648
+21;Leg-;Div2;Bra_napus;0;RT21_d0;Fine roots;1.9774
+21;Leg-;Div2;Bra_napus;0;RT21_d0;Limb;1.9196
+21;Leg-;Div2;Bra_napus;0;RT21_d0;Other leaves;2.753
+21;Leg-;Div2;Bra_napus;0;RT21_d0;Stem;2.4624
+21;Leg-;Div2;Bra_napus;0;RT21_d0;Taproot;2.0502
+22;Leg-;Div3;Bra_napus;0;RT22_d0;Fine roots;2.0191
+22;Leg-;Div3;Bra_napus;0;RT22_d0;Limb;1.4566
+22;Leg-;Div3;Bra_napus;0;RT22_d0;Other leaves;1.6738
+22;Leg-;Div3;Bra_napus;0;RT22_d0;Stem;1.6259
+22;Leg-;Div3;Bra_napus;0;RT22_d0;Taproot;1.6888
+23;Leg-;Div0;Bra_napus;0;RT23_d0;Fine roots;2.2588
+23;Leg-;Div0;Bra_napus;0;RT23_d0;Limb;2.5251
+23;Leg-;Div0;Bra_napus;0;RT23_d0;Other leaves;3.3308
+23;Leg-;Div0;Bra_napus;0;RT23_d0;Stem;2.7339
+23;Leg-;Div0;Bra_napus;0;RT23_d0;Taproot;2.4965
+24;Leg-;Div1;Bra_napus;0;RT24_d0;Fine roots;2.0122
+24;Leg-;Div1;Bra_napus;0;RT24_d0;Limb;3.1876
+24;Leg-;Div1;Bra_napus;0;RT24_d0;Other leaves;3.4335
+24;Leg-;Div1;Bra_napus;0;RT24_d0;Stem;3.2264
+24;Leg-;Div1;Bra_napus;0;RT24_d0;Taproot;2.4589
+25;Leg-;Div2;Bra_napus;0;RT25_d0;Fine roots;2.1865
+25;Leg-;Div2;Bra_napus;0;RT25_d0;Limb;2.3661
+25;Leg-;Div2;Bra_napus;0;RT25_d0;Other leaves;2.9722
+25;Leg-;Div2;Bra_napus;0;RT25_d0;Stem;2.4379
+25;Leg-;Div2;Bra_napus;0;RT25_d0;Taproot;1.9684
+26;Leg-;Div3;Bra_napus;0;RT26_d0;Fine roots;2.1866
+26;Leg-;Div3;Bra_napus;0;RT26_d0;Limb;3.6333
+26;Leg-;Div3;Bra_napus;0;RT26_d0;Other leaves;3.5748
+26;Leg-;Div3;Bra_napus;0;RT26_d0;Stem;3.2339
+26;Leg-;Div3;Bra_napus;0;RT26_d0;Taproot;2.8991
+27;Leg-;Div0;Bra_napus;0;RT27_d0;Fine roots;2.0923
+27;Leg-;Div0;Bra_napus;0;RT27_d0;Limb;2.8749
+27;Leg-;Div0;Bra_napus;0;RT27_d0;Other leaves;3.0101
+27;Leg-;Div0;Bra_napus;0;RT27_d0;Stem;2.9318
+27;Leg-;Div0;Bra_napus;0;RT27_d0;Taproot;2.3702
+28;Leg-;Div1;Bra_napus;0;RT28_d0;Fine roots;2.1472
+28;Leg-;Div1;Bra_napus;0;RT28_d0;Limb;2.9084
+28;Leg-;Div1;Bra_napus;0;RT28_d0;Other leaves;3.262
+28;Leg-;Div1;Bra_napus;0;RT28_d0;Stem;2.4543
+28;Leg-;Div1;Bra_napus;0;RT28_d0;Taproot;2.7149
+29;Leg-;Div2;Bra_napus;0;RT29_d0;Fine roots;1.9392
+29;Leg-;Div2;Bra_napus;0;RT29_d0;Limb;2.681
+29;Leg-;Div2;Bra_napus;0;RT29_d0;Other leaves;2.9049
+29;Leg-;Div2;Bra_napus;0;RT29_d0;Stem;3.5307
+29;Leg-;Div2;Bra_napus;0;RT29_d0;Taproot;2.207
+30;Leg-;Div3;Bra_napus;0;RT30_d0;Fine roots;2.4885
+30;Leg-;Div3;Bra_napus;0;RT30_d0;Limb;3.0323
+30;Leg-;Div3;Bra_napus;0;RT30_d0;Other leaves;2.8279
+30;Leg-;Div3;Bra_napus;0;RT30_d0;Stem;3.1273
+30;Leg-;Div3;Bra_napus;0;RT30_d0;Taproot;2.3471
+31;Leg+;Div2;Bra_napus;0;RT31_d0;Fine roots;2.0925
+31;Leg+;Div2;Bra_napus;0;RT31_d0;Limb;3.2538
+31;Leg+;Div2;Bra_napus;0;RT31_d0;Other leaves;3.5154
+31;Leg+;Div2;Bra_napus;0;RT31_d0;Stem;3.4433
+31;Leg+;Div2;Bra_napus;0;RT31_d0;Taproot;2.3793
+32;Leg+;Div3;Bra_napus;0;RT32_d0;Fine roots;2.21766
+32;Leg+;Div3;Bra_napus;0;RT32_d0;Limb;1.4013
+32;Leg+;Div3;Bra_napus;0;RT32_d0;Other leaves;1.4367
+32;Leg+;Div3;Bra_napus;0;RT32_d0;Stem;1.3552
+32;Leg+;Div3;Bra_napus;0;RT32_d0;Taproot;1.8585
+33;Leg+;Div0;Bra_napus;0;RT33_d0;Fine roots;2.1063
+33;Leg+;Div0;Bra_napus;0;RT33_d0;Limb;1.6412
+33;Leg+;Div0;Bra_napus;0;RT33_d0;Other leaves;1.5817
+33;Leg+;Div0;Bra_napus;0;RT33_d0;Stem;2.1889
+33;Leg+;Div0;Bra_napus;0;RT33_d0;Taproot;2.4876
+34;Leg+;Div1;Bra_napus;0;RT34_d0;Fine roots;2.6748
+34;Leg+;Div1;Bra_napus;0;RT34_d0;Limb;2.9046
+34;Leg+;Div1;Bra_napus;0;RT34_d0;Other leaves;2.8355
+34;Leg+;Div1;Bra_napus;0;RT34_d0;Stem;2.765
+34;Leg+;Div1;Bra_napus;0;RT34_d0;Taproot;2.2324
+35;Leg+;Div2;Bra_napus;0;RT35_d0;Fine roots;2.0618
+35;Leg+;Div2;Bra_napus;0;RT35_d0;Limb;1.8358
+35;Leg+;Div2;Bra_napus;0;RT35_d0;Other leaves;2.2151
+35;Leg+;Div2;Bra_napus;0;RT35_d0;Stem;2.1885
+35;Leg+;Div2;Bra_napus;0;RT35_d0;Taproot;1.9422
+37;Leg+;Div0;Bra_napus;0;RT37_d0;Fine roots;2.0792
+37;Leg+;Div0;Bra_napus;0;RT37_d0;Limb;2.1418
+37;Leg+;Div0;Bra_napus;0;RT37_d0;Other leaves;2.86
+37;Leg+;Div0;Bra_napus;0;RT37_d0;Stem;2.3758
+37;Leg+;Div0;Bra_napus;0;RT37_d0;Taproot;2.1753
+38;Leg+;Div1;Bra_napus;0;RT38_d0;Fine roots;2.1232
+38;Leg+;Div1;Bra_napus;0;RT38_d0;Limb;2.6532
+38;Leg+;Div1;Bra_napus;0;RT38_d0;Stem;2.7296
+38;Leg+;Div1;Bra_napus;0;RT38_d0;Taproot;2.3878
+39;Leg+;Div2;Bra_napus;0;RT39_d0;Fine roots;2.3017
+39;Leg+;Div2;Bra_napus;0;RT39_d0;Limb;1.8782
+39;Leg+;Div2;Bra_napus;0;RT39_d0;Other leaves;2.3948
+39;Leg+;Div2;Bra_napus;0;RT39_d0;Stem;2.1795
+39;Leg+;Div2;Bra_napus;0;RT39_d0;Taproot;1.8136
+40;Leg+;Div3;Bra_napus;0;RT40_d0;Fine roots;1.9387
+40;Leg+;Div3;Bra_napus;0;RT40_d0;Limb;1.9462
+40;Leg+;Div3;Bra_napus;0;RT40_d0;Other leaves;2.232
+40;Leg+;Div3;Bra_napus;0;RT40_d0;Stem;3.1039
+40;Leg+;Div3;Bra_napus;0;RT40_d0;Taproot;2.1991
+41;Leg-;Div1;Bra_napus;0;RT41_d0;Fine roots;2.1079
+41;Leg-;Div1;Bra_napus;0;RT41_d0;Limb;4.0742
+41;Leg-;Div1;Bra_napus;0;RT41_d0;Other leaves;3.6947
+41;Leg-;Div1;Bra_napus;0;RT41_d0;Stem;3.6594
+41;Leg-;Div1;Bra_napus;0;RT41_d0;Taproot;2.6667
+42;Leg+;Div2;Bra_napus;0;RT42_d0;Fine roots;2.279
+42;Leg+;Div2;Bra_napus;0;RT42_d0;Limb;3.82
+42;Leg+;Div2;Bra_napus;0;RT42_d0;Other leaves;4.0166
+42;Leg+;Div2;Bra_napus;0;RT42_d0;Stem;3.6016
+42;Leg+;Div2;Bra_napus;0;RT42_d0;Taproot;2.8536
+11;Leg+;Div0;Tri_alexa;6;RT11_d+6;Fine roots;3.1136
+11;Leg+;Div0;Tri_alexa;6;RT11_d+6;Leaf5;2.9212
+11;Leg+;Div0;Tri_alexa;6;RT11_d+6;Other leaves;2.1351
+11;Leg+;Div0;Tri_alexa;6;RT11_d+6;Stem;3.4594
+13;Leg+;Div2;Tri_alexa;6;RT13_d+6;Fine roots;2.4545
+13;Leg+;Div2;Tri_alexa;6;RT13_d+6;Leaf4;2.8608
+13;Leg+;Div2;Tri_alexa;6;RT13_d+6;Other leaves;2.5719
+13;Leg+;Div2;Tri_alexa;6;RT13_d+6;Stem;1.9171
+14;Leg+;Div3;Tri_alexa;6;RT14_d+6;Other leaves;3.088
+14;Leg+;Div3;Tri_alexa;6;RT14_d+6;Stem;2.2107
+16;Leg+;Div1;Tri_alexa;6;RT16_d+6;Fine roots;2.4523
+16;Leg+;Div1;Tri_alexa;6;RT16_d+6;Other leaves;3.4002
+16;Leg+;Div1;Tri_alexa;6;RT16_d+6;Stem;1.9508
+17;Leg+;Div2;Tri_alexa;6;RT17_d+6;Fine roots;2.8907
+17;Leg+;Div2;Tri_alexa;6;RT17_d+6;Leaf2;2.9829
+17;Leg+;Div2;Tri_alexa;6;RT17_d+6;Other leaves;2.7424
+17;Leg+;Div2;Tri_alexa;6;RT17_d+6;Stem;2.582
+18;Leg+;Div3;Tri_alexa;6;RT18_d+6;Fine roots;3.1043
+18;Leg+;Div3;Tri_alexa;6;RT18_d+6;Other leaves;2.9407
+18;Leg+;Div3;Tri_alexa;6;RT18_d+6;Stem;2.5262
+19;Leg+;Div0;Tri_alexa;6;RT19_d+6;Fine roots;2.1887
+19;Leg+;Div0;Tri_alexa;6;RT19_d+6;Other leaves;3.3384
+19;Leg+;Div0;Tri_alexa;6;RT19_d+6;Stem;1.7411
+20;Leg+;Div1;Tri_alexa;6;RT20_d+6;Other leaves;3.0788
+31;Leg+;Div2;Tri_alexa;6;RT31_d+6;Fine roots;2.5498
+31;Leg+;Div2;Tri_alexa;6;RT31_d+6;Limb;3.3231
+31;Leg+;Div2;Tri_alexa;6;RT31_d+6;Other leaves;2.8211
+31;Leg+;Div2;Tri_alexa;6;RT31_d+6;Stem;2.6848
+32;Leg+;Div3;Tri_alexa;6;RT32_d+6;Fine roots;2.7336
+32;Leg+;Div3;Tri_alexa;6;RT32_d+6;Other leaves;2.3414
+32;Leg+;Div3;Tri_alexa;6;RT32_d+6;Stem;2.0542
+34;Leg+;Div1;Tri_alexa;6;RT34_d+6;Other leaves;3.4419
+34;Leg+;Div1;Tri_alexa;6;RT34_d+6;Stem;5.2535
+35;Leg+;Div2;Tri_alexa;6;RT35_d+6;Other leaves;2.8163
+35;Leg+;Div2;Tri_alexa;6;RT35_d+6;Stem;2.2833
+36;Leg+;Div3;Tri_alexa;6;RT36_d+6;Fine roots;2.6808
+36;Leg+;Div3;Tri_alexa;6;RT36_d+6;Other leaves;2.691
+36;Leg+;Div3;Tri_alexa;6;RT36_d+6;Stem;2.4366
+37;Leg+;Div0;Tri_alexa;6;RT37_d+6;Fine roots;2.8276
+37;Leg+;Div0;Tri_alexa;6;RT37_d+6;Limb;2.2492
+37;Leg+;Div0;Tri_alexa;6;RT37_d+6;Other leaves;3.4273
+37;Leg+;Div0;Tri_alexa;6;RT37_d+6;Stem;2.9854
+38;Leg+;Div1;Tri_alexa;6;RT38_d+6;Fine roots;2.496
+38;Leg+;Div1;Tri_alexa;6;RT38_d+6;Stem;2.0709
+39;Leg+;Div2;Tri_alexa;6;RT39_d+6;Fine roots;2.5366
+39;Leg+;Div2;Tri_alexa;6;RT39_d+6;Other leaves;3.341
+39;Leg+;Div2;Tri_alexa;6;RT39_d+6;Stem;2.3222
+40;Leg+;Div3;Tri_alexa;6;RT40_d+6;Other leaves;2.0292
+40;Leg+;Div3;Tri_alexa;6;RT40_d+6;Stem;1.6763
+42;Leg+;Div2;Tri_alexa;6;RT42_d+6;Fine roots;3.3322
+42;Leg+;Div2;Tri_alexa;6;RT42_d+6;Limb;3.4055
+42;Leg+;Div2;Tri_alexa;6;RT42_d+6;Other leaves;2.7789
+42;Leg+;Div2;Tri_alexa;6;RT42_d+6;Stem;2.4587
+1;Leg-;Div0;Lol_peren;9;RT01_d+9;Fine roots;1.1097
+1;Leg-;Div0;Lol_peren;9;RT01_d+9;Leaf3;0.8823
+1;Leg-;Div0;Lol_peren;9;RT01_d+9;Other leaves;0.7728
+2;Leg-;Div1;Lol_peren;9;RT02_d+9;Fine roots;0.9752
+2;Leg-;Div1;Lol_peren;9;RT02_d+9;Leaf3;0.8314
+2;Leg-;Div1;Lol_peren;9;RT02_d+9;Other leaves;0.8357
+3;Leg-;Div2;Lol_peren;9;RT03_d+9;Fine roots;0.8069
+3;Leg-;Div2;Lol_peren;9;RT03_d+9;Leaf4;1.0931
+3;Leg-;Div2;Lol_peren;9;RT03_d+9;Other leaves;1.0747
+4;Leg-;Div3;Lol_peren;9;RT04_d+9;Fine roots;1.2294
+4;Leg-;Div3;Lol_peren;9;RT04_d+9;Leaf2;1.1884
+4;Leg-;Div3;Lol_peren;9;RT04_d+9;Other leaves;1.1078
+5;Leg-;Div0;Lol_peren;9;RT05_d+9;Fine roots;1.134
+5;Leg-;Div0;Lol_peren;9;RT05_d+9;Other leaves;0.9449
+6;Leg-;Div1;Lol_peren;9;RT06_d+9;Fine roots;2.2654
+6;Leg-;Div1;Lol_peren;9;RT06_d+9;Other leaves;3.3389
+7;Leg-;Div2;Lol_peren;9;RT07_d+9;Fine roots;1.1975
+7;Leg-;Div2;Lol_peren;9;RT07_d+9;Leaf3;1.0062
+7;Leg-;Div2;Lol_peren;9;RT07_d+9;Other leaves;0.836
+8;Leg-;Div3;Lol_peren;9;RT08_d+9;Fine roots;1.2849
+8;Leg-;Div3;Lol_peren;9;RT08_d+9;Leaf3;1.5632
+8;Leg-;Div3;Lol_peren;9;RT08_d+9;Other leaves;1.5969
+9;Leg-;Div0;Lol_peren;9;RT09_d+9;Fine roots;1.3575
+9;Leg-;Div0;Lol_peren;9;RT09_d+9;Other leaves;1.2243
+10;Leg-;Div1;Lol_peren;9;RT10_d+9;Fine roots;1.2015
+10;Leg-;Div1;Lol_peren;9;RT10_d+9;Leaf7;1.3267
+10;Leg-;Div1;Lol_peren;9;RT10_d+9;Other leaves;1.2376
+11;Leg+;Div0;Lol_peren;9;RT11_d+9;Fine roots;1.4592
+11;Leg+;Div0;Lol_peren;9;RT11_d+9;Leaf3;1.0754
+11;Leg+;Div0;Lol_peren;9;RT11_d+9;Other leaves;1.0978
+12;Leg+;Div1;Lol_peren;9;RT12_d+9;Fine roots;1.2061
+12;Leg+;Div1;Lol_peren;9;RT12_d+9;Leaf4;1.0216
+12;Leg+;Div1;Lol_peren;9;RT12_d+9;Other leaves;0.93755
+13;Leg+;Div2;Lol_peren;9;RT13_d+9;Fine roots;1.1587
+13;Leg+;Div2;Lol_peren;9;RT13_d+9;Leaf3;0.9344
+13;Leg+;Div2;Lol_peren;9;RT13_d+9;Other leaves;1.1656
+14;Leg+;Div3;Lol_peren;9;RT14_d+9;Fine roots;1.0437
+14;Leg+;Div3;Lol_peren;9;RT14_d+9;Leaf2;0.9992
+14;Leg+;Div3;Lol_peren;9;RT14_d+9;Other leaves;0.9639
+15;Leg+;Div0;Lol_peren;9;RT15_d+9;Fine roots;0.8848
+15;Leg+;Div0;Lol_peren;9;RT15_d+9;Leaf3;1.0949
+15;Leg+;Div0;Lol_peren;9;RT15_d+9;Other leaves;0.9021
+16;Leg+;Div1;Lol_peren;9;RT16_d+9;Fine roots;0.9932
+16;Leg+;Div1;Lol_peren;9;RT16_d+9;Leaf5;0.8796
+16;Leg+;Div1;Lol_peren;9;RT16_d+9;Other leaves;0.9279
+17;Leg+;Div2;Lol_peren;9;RT17_d+9;Fine roots;1.3428
+17;Leg+;Div2;Lol_peren;9;RT17_d+9;Leaf4;1.4669
+17;Leg+;Div2;Lol_peren;9;RT17_d+9;Other leaves;1.5
+18;Leg+;Div3;Lol_peren;9;RT18_d+9;Fine roots;1.1034
+18;Leg+;Div3;Lol_peren;9;RT18_d+9;Leaf3;1.4799
+18;Leg+;Div3;Lol_peren;9;RT18_d+9;Other leaves;1.2991
+19;Leg+;Div0;Lol_peren;9;RT19_d+9;Fine roots;1.088
+19;Leg+;Div0;Lol_peren;9;RT19_d+9;Leaf3;0.887
+19;Leg+;Div0;Lol_peren;9;RT19_d+9;Other leaves;0.8841
+20;Leg+;Div1;Lol_peren;9;RT20_d+9;Fine roots;0.9092
+20;Leg+;Div1;Lol_peren;9;RT20_d+9;Leaf3;0.7865
+20;Leg+;Div1;Lol_peren;9;RT20_d+9;Other leaves;0.8177
+21;Leg-;Div2;Lol_peren;9;RT21_d+9;Fine roots;0.7996
+21;Leg-;Div2;Lol_peren;9;RT21_d+9;Limb;1.3099
+21;Leg-;Div2;Lol_peren;9;RT21_d+9;Other leaves;1.2146
+22;Leg-;Div3;Lol_peren;9;RT22_d+9;Fine roots;0.9102
+22;Leg-;Div3;Lol_peren;9;RT22_d+9;Limb;1.5665
+22;Leg-;Div3;Lol_peren;9;RT22_d+9;Other leaves;1.9083
+23;Leg-;Div0;Lol_peren;9;RT23_d+9;Fine roots;1.1725
+23;Leg-;Div0;Lol_peren;9;RT23_d+9;Limb;2.4242
+23;Leg-;Div0;Lol_peren;9;RT23_d+9;Other leaves;2.4721
+24;Leg-;Div1;Lol_peren;9;RT24_d+9;Fine roots;0.9895
+24;Leg-;Div1;Lol_peren;9;RT24_d+9;Limb;0.9199
+24;Leg-;Div1;Lol_peren;9;RT24_d+9;Other leaves;0.9168
+25;Leg-;Div2;Lol_peren;9;RT25_d+9;Fine roots;0.7941
+25;Leg-;Div2;Lol_peren;9;RT25_d+9;Limb;0.8167
+25;Leg-;Div2;Lol_peren;9;RT25_d+9;Other leaves;0.9908
+26;Leg-;Div3;Lol_peren;9;RT26_d+9;Fine roots;0.8551
+26;Leg-;Div3;Lol_peren;9;RT26_d+9;Limb;1.3833
+26;Leg-;Div3;Lol_peren;9;RT26_d+9;Other leaves;1.4373
+27;Leg-;Div0;Lol_peren;9;RT27_d+9;Limb;0.9883
+27;Leg-;Div0;Lol_peren;9;RT27_d+9;Other leaves;1.0549
+28;Leg-;Div1;Lol_peren;9;RT28_d+9;Fine roots;0.9077
+28;Leg-;Div1;Lol_peren;9;RT28_d+9;Limb;1.2458
+28;Leg-;Div1;Lol_peren;9;RT28_d+9;Other leaves;1.2952
+29;Leg-;Div2;Lol_peren;9;RT29_d+9;Fine roots;0.7882
+29;Leg-;Div2;Lol_peren;9;RT29_d+9;Limb;1.2681
+29;Leg-;Div2;Lol_peren;9;RT29_d+9;Other leaves;1.2979
+30;Leg-;Div3;Lol_peren;9;RT30_d+9;Aerial;1.466
+30;Leg-;Div3;Lol_peren;9;RT30_d+9;Fine roots;0.7896
+30;Leg-;Div3;Lol_peren;9;RT30_d+9;Limb;1.2329
+31;Leg+;Div2;Lol_peren;9;RT31_d+9;Fine roots;0.9134
+31;Leg+;Div2;Lol_peren;9;RT31_d+9;Other leaves;0.7008
+32;Leg+;Div3;Lol_peren;9;RT32_d+9;Fine roots;1.2945
+32;Leg+;Div3;Lol_peren;9;RT32_d+9;Limb;1.541
+32;Leg+;Div3;Lol_peren;9;RT32_d+9;Other leaves;1.6258
+33;Leg+;Div0;Lol_peren;9;RT33_d+9;Fine roots;0.8827
+33;Leg+;Div0;Lol_peren;9;RT33_d+9;Limb;1.9357
+33;Leg+;Div0;Lol_peren;9;RT33_d+9;Other leaves;1.3219
+34;Leg+;Div1;Lol_peren;9;RT34_d+9;Fine roots;1.1715
+34;Leg+;Div1;Lol_peren;9;RT34_d+9;Limb;2.5271
+34;Leg+;Div1;Lol_peren;9;RT34_d+9;Other leaves;2.0234
+35;Leg+;Div2;Lol_peren;9;RT35_d+9;Fine roots;1.5333
+36;Leg+;Div3;Lol_peren;9;RT36_d+9;Fine roots;1.056
+36;Leg+;Div3;Lol_peren;9;RT36_d+9;Limb;1.7049
+36;Leg+;Div3;Lol_peren;9;RT36_d+9;Other leaves;1.9524
+37;Leg+;Div0;Lol_peren;9;RT37_d+9;Fine roots;1.0313
+37;Leg+;Div0;Lol_peren;9;RT37_d+9;Other leaves;1.3956
+38;Leg+;Div1;Lol_peren;9;RT38_d+9;Fine roots;0.8424
+38;Leg+;Div1;Lol_peren;9;RT38_d+9;Limb;1.0881
+38;Leg+;Div1;Lol_peren;9;RT38_d+9;Other leaves;0.9355
+39;Leg+;Div2;Lol_peren;9;RT39_d+9;Fine roots;1.1168
+39;Leg+;Div2;Lol_peren;9;RT39_d+9;Limb;2.3456
+40;Leg+;Div3;Lol_peren;9;RT40_d+9;Fine roots;0.9659
+40;Leg+;Div3;Lol_peren;9;RT40_d+9;Limb;1.1809
+40;Leg+;Div3;Lol_peren;9;RT40_d+9;Other leaves;1.1992
+41;Leg-;Div1;Lol_peren;9;RT41_d+9;Fine roots;0.8441
+41;Leg-;Div1;Lol_peren;9;RT41_d+9;Limb;1.4533
+41;Leg-;Div1;Lol_peren;9;RT41_d+9;Other leaves;1.4293
+42;Leg+;Div2;Lol_peren;9;RT42_d+9;Fine roots;0.9467
+42;Leg+;Div2;Lol_peren;9;RT42_d+9;Limb;1.3135
+42;Leg+;Div2;Lol_peren;9;RT42_d+9;Other leaves;1.5245
+11;Leg+;Div0;Tri_alexa;12;RT11_d+12;Fine roots;3.2427
+11;Leg+;Div0;Tri_alexa;12;RT11_d+12;Leaf3;2.6865
+11;Leg+;Div0;Tri_alexa;12;RT11_d+12;Other leaves;2.2388
+11;Leg+;Div0;Tri_alexa;12;RT11_d+12;Stem;3.6304
+12;Leg+;Div1;Tri_alexa;12;RT12_d+12;Fine roots;2.8711
+12;Leg+;Div1;Tri_alexa;12;RT12_d+12;Other leaves;2.4448
+12;Leg+;Div1;Tri_alexa;12;RT12_d+12;Stem;2.4185
+13;Leg+;Div2;Tri_alexa;12;RT13_d+12;Other leaves;2.404
+14;Leg+;Div3;Tri_alexa;12;RT14_d+12;Leaf1;2.2861
+14;Leg+;Div3;Tri_alexa;12;RT14_d+12;Other leaves;2.5761
+14;Leg+;Div3;Tri_alexa;12;RT14_d+12;Stem;3.5443
+15;Leg+;Div0;Tri_alexa;12;RT15_d+12;Fine roots;2.475
+15;Leg+;Div0;Tri_alexa;12;RT15_d+12;Leaf4;2.7324
+15;Leg+;Div0;Tri_alexa;12;RT15_d+12;Other leaves;2.6109
+15;Leg+;Div0;Tri_alexa;12;RT15_d+12;Stem;2.3891
+16;Leg+;Div1;Tri_alexa;12;RT16_d+12;Fine roots;2.5021
+16;Leg+;Div1;Tri_alexa;12;RT16_d+12;Other leaves;2.202
+16;Leg+;Div1;Tri_alexa;12;RT16_d+12;Stem;2.4709
+18;Leg+;Div3;Tri_alexa;12;RT18_d+12;Other leaves;2.7245
+18;Leg+;Div3;Tri_alexa;12;RT18_d+12;Stem;1.7518
+19;Leg+;Div0;Tri_alexa;12;RT19_d+12;Fine roots;2.5925
+19;Leg+;Div0;Tri_alexa;12;RT19_d+12;Other leaves;3.4299
+19;Leg+;Div0;Tri_alexa;12;RT19_d+12;Stem;2.8383
+20;Leg+;Div1;Tri_alexa;12;RT20_d+12;Fine roots;4.1988
+20;Leg+;Div1;Tri_alexa;12;RT20_d+12;Leaf3;3.2379
+20;Leg+;Div1;Tri_alexa;12;RT20_d+12;Other leaves;2.6362
+31;Leg+;Div2;Tri_alexa;12;RT31_d+12;Limb;1.5134
+31;Leg+;Div2;Tri_alexa;12;RT31_d+12;Other leaves;1.5242
+31;Leg+;Div2;Tri_alexa;12;RT31_d+12;Stem;1.9226
+32;Leg+;Div3;Tri_alexa;12;RT32_d+12;Fine roots;2.5849
+32;Leg+;Div3;Tri_alexa;12;RT32_d+12;Limb;3.106
+32;Leg+;Div3;Tri_alexa;12;RT32_d+12;Other leaves;3.5401
+32;Leg+;Div3;Tri_alexa;12;RT32_d+12;Stem;1.8691
+33;Leg+;Div0;Tri_alexa;12;RT33_d+12;Fine roots;3.1188
+33;Leg+;Div0;Tri_alexa;12;RT33_d+12;Other leaves;2.7251
+33;Leg+;Div0;Tri_alexa;12;RT33_d+12;Stem;2.376
+34;Leg+;Div1;Tri_alexa;12;RT34_d+12;Fine roots;2.7576
+34;Leg+;Div1;Tri_alexa;12;RT34_d+12;Other leaves;2.3193
+34;Leg+;Div1;Tri_alexa;12;RT34_d+12;Stem;1.9237
+36;Leg+;Div3;Tri_alexa;12;RT36_d+12;Fine roots;2.2908
+36;Leg+;Div3;Tri_alexa;12;RT36_d+12;Limb;3.4089
+36;Leg+;Div3;Tri_alexa;12;RT36_d+12;Stem;2.4328
+37;Leg+;Div0;Tri_alexa;12;RT37_d+12;Fine roots;2.6246
+37;Leg+;Div0;Tri_alexa;12;RT37_d+12;Limb;4.1918
+37;Leg+;Div0;Tri_alexa;12;RT37_d+12;Other leaves;3.3929
+37;Leg+;Div0;Tri_alexa;12;RT37_d+12;Stem;2.1743
+39;Leg+;Div2;Tri_alexa;12;RT39_d+12;Fine roots;2.4685
+39;Leg+;Div2;Tri_alexa;12;RT39_d+12;Other leaves;3.3175
+39;Leg+;Div2;Tri_alexa;12;RT39_d+12;Stem;2.5612
+40;Leg+;Div3;Tri_alexa;12;RT40_d+12;Limb;2.2825
+40;Leg+;Div3;Tri_alexa;12;RT40_d+12;Other leaves;2.8744
+40;Leg+;Div3;Tri_alexa;12;RT40_d+12;Stem;2.4457
+1;Leg-;Div0;Bra_napus;15;RT01_d+15;Fine roots;2.0251
+1;Leg-;Div0;Bra_napus;15;RT01_d+15;Leaf2;1.9401
+1;Leg-;Div0;Bra_napus;15;RT01_d+15;Other leaves;2.2514
+1;Leg-;Div0;Bra_napus;15;RT01_d+15;Stem;1.9871
+1;Leg-;Div0;Bra_napus;15;RT01_d+15;Taproot;1.7899
+2;Leg-;Div1;Bra_napus;15;RT02_d+15;Fine roots;2.3165
+2;Leg-;Div1;Bra_napus;15;RT02_d+15;Leaf3;2.3901
+2;Leg-;Div1;Bra_napus;15;RT02_d+15;Other leaves;2.3036
+2;Leg-;Div1;Bra_napus;15;RT02_d+15;Stem;1.9854
+2;Leg-;Div1;Bra_napus;15;RT02_d+15;Taproot;1.8316
+3;Leg-;Div2;Bra_napus;15;RT03_d+15;Fine roots;2.2076
+3;Leg-;Div2;Bra_napus;15;RT03_d+15;Leaf3;2.34485
+3;Leg-;Div2;Bra_napus;15;RT03_d+15;Other leaves;2.35785
+3;Leg-;Div2;Bra_napus;15;RT03_d+15;Stem;1.8456
+3;Leg-;Div2;Bra_napus;15;RT03_d+15;Taproot;2.077
+4;Leg-;Div3;Bra_napus;15;RT04_d+15;Fine roots;1.8558
+4;Leg-;Div3;Bra_napus;15;RT04_d+15;Leaf2;1.3508
+4;Leg-;Div3;Bra_napus;15;RT04_d+15;Other leaves;0.897
+4;Leg-;Div3;Bra_napus;15;RT04_d+15;Stem;1.5797
+4;Leg-;Div3;Bra_napus;15;RT04_d+15;Taproot;1.6222
+5;Leg-;Div0;Bra_napus;15;RT05_d+15;Fine roots;2.34145
+5;Leg-;Div0;Bra_napus;15;RT05_d+15;Leaf2;1.4335
+5;Leg-;Div0;Bra_napus;15;RT05_d+15;Other leaves;1.3877
+5;Leg-;Div0;Bra_napus;15;RT05_d+15;Stem;1.1912
+5;Leg-;Div0;Bra_napus;15;RT05_d+15;Taproot;1.7635
+6;Leg-;Div1;Bra_napus;15;RT06_d+15;Fine roots;1.9152
+6;Leg-;Div1;Bra_napus;15;RT06_d+15;Other leaves;1.3394
+6;Leg-;Div1;Bra_napus;15;RT06_d+15;Stem;1.1837
+7;Leg-;Div2;Bra_napus;15;RT07_d+15;Fine roots;2.0919
+7;Leg-;Div2;Bra_napus;15;RT07_d+15;Leaf4;0.8156
+7;Leg-;Div2;Bra_napus;15;RT07_d+15;Other leaves;0.9091
+7;Leg-;Div2;Bra_napus;15;RT07_d+15;Stem;1.0914
+7;Leg-;Div2;Bra_napus;15;RT07_d+15;Taproot;1.2782
+8;Leg-;Div3;Bra_napus;15;RT08_d+15;Aerial;4.6287
+10;Leg-;Div1;Bra_napus;15;RT10_d+15;Fine roots;2.246
+10;Leg-;Div1;Bra_napus;15;RT10_d+15;Leaf4;1.9489
+10;Leg-;Div1;Bra_napus;15;RT10_d+15;Other leaves;2.0007
+10;Leg-;Div1;Bra_napus;15;RT10_d+15;Stem;2.2912
+10;Leg-;Div1;Bra_napus;15;RT10_d+15;Taproot;1.7724
+11;Leg+;Div0;Bra_napus;15;RT11_d+15;Fine roots;1.9731
+11;Leg+;Div0;Bra_napus;15;RT11_d+15;Leaf4;2.2576
+11;Leg+;Div0;Bra_napus;15;RT11_d+15;Other leaves;1.81615
+11;Leg+;Div0;Bra_napus;15;RT11_d+15;Stem;2.0064
+11;Leg+;Div0;Bra_napus;15;RT11_d+15;Taproot;1.7406
+12;Leg+;Div1;Bra_napus;15;RT12_d+15;Fine roots;2.0341
+12;Leg+;Div1;Bra_napus;15;RT12_d+15;Leaf4;1.1793
+12;Leg+;Div1;Bra_napus;15;RT12_d+15;Other leaves;1.36
+12;Leg+;Div1;Bra_napus;15;RT12_d+15;Stem;1.7275
+12;Leg+;Div1;Bra_napus;15;RT12_d+15;Taproot;1.65695
+13;Leg+;Div2;Bra_napus;15;RT13_d+15;Fine roots;1.8926
+13;Leg+;Div2;Bra_napus;15;RT13_d+15;Leaf3;1.2274
+13;Leg+;Div2;Bra_napus;15;RT13_d+15;Other leaves;1.5223
+13;Leg+;Div2;Bra_napus;15;RT13_d+15;Stem;1.6632
+13;Leg+;Div2;Bra_napus;15;RT13_d+15;Taproot;1.5036
+14;Leg+;Div3;Bra_napus;15;RT14_d+15;Fine roots;1.8468
+14;Leg+;Div3;Bra_napus;15;RT14_d+15;Leaf4;1.6814
+14;Leg+;Div3;Bra_napus;15;RT14_d+15;Other leaves;1.86225
+14;Leg+;Div3;Bra_napus;15;RT14_d+15;Stem;1.6733
+14;Leg+;Div3;Bra_napus;15;RT14_d+15;Taproot;1.7421
+15;Leg+;Div0;Bra_napus;15;RT15_d+15;Fine roots;2.0111
+15;Leg+;Div0;Bra_napus;15;RT15_d+15;Leaf3;1.8147
+15;Leg+;Div0;Bra_napus;15;RT15_d+15;Other leaves;2.1241
+15;Leg+;Div0;Bra_napus;15;RT15_d+15;Stem;1.9015
+15;Leg+;Div0;Bra_napus;15;RT15_d+15;Taproot;1.5902
+16;Leg+;Div1;Bra_napus;15;RT16_d+15;Fine roots;1.8449
+16;Leg+;Div1;Bra_napus;15;RT16_d+15;Leaf3;1.4872
+16;Leg+;Div1;Bra_napus;15;RT16_d+15;Other leaves;2.3534
+16;Leg+;Div1;Bra_napus;15;RT16_d+15;Stem;2.2222
+16;Leg+;Div1;Bra_napus;15;RT16_d+15;Taproot;1.6923
+18;Leg+;Div3;Bra_napus;15;RT18_d+15;Fine roots;2.474
+18;Leg+;Div3;Bra_napus;15;RT18_d+15;Leaf3;1.6834
+18;Leg+;Div3;Bra_napus;15;RT18_d+15;Other leaves;1.556
+18;Leg+;Div3;Bra_napus;15;RT18_d+15;Stem;1.8737
+18;Leg+;Div3;Bra_napus;15;RT18_d+15;Taproot;1.7408
+19;Leg+;Div0;Bra_napus;15;RT19_d+15;Fine roots;1.9482
+19;Leg+;Div0;Bra_napus;15;RT19_d+15;Leaf3;1.7399
+19;Leg+;Div0;Bra_napus;15;RT19_d+15;Other leaves;2.194
+19;Leg+;Div0;Bra_napus;15;RT19_d+15;Stem;2.082
+19;Leg+;Div0;Bra_napus;15;RT19_d+15;Taproot;1.8667
+20;Leg+;Div1;Bra_napus;15;RT20_d+15;Fine roots;2.196
+20;Leg+;Div1;Bra_napus;15;RT20_d+15;Leaf3;1.6672
+20;Leg+;Div1;Bra_napus;15;RT20_d+15;Other leaves;2.2181
+20;Leg+;Div1;Bra_napus;15;RT20_d+15;Stem;1.7509
+20;Leg+;Div1;Bra_napus;15;RT20_d+15;Taproot;2.1178
+21;Leg-;Div2;Bra_napus;15;RT21_d+15;Fine roots;1.8637
+21;Leg-;Div2;Bra_napus;15;RT21_d+15;Limb;2.3307
+21;Leg-;Div2;Bra_napus;15;RT21_d+15;Other leaves;2.626
+21;Leg-;Div2;Bra_napus;15;RT21_d+15;Stem;1.9537
+21;Leg-;Div2;Bra_napus;15;RT21_d+15;Taproot;2.038
+22;Leg-;Div3;Bra_napus;15;RT22_d+15;Fine roots;2.266
+22;Leg-;Div3;Bra_napus;15;RT22_d+15;Limb;2.2199
+22;Leg-;Div3;Bra_napus;15;RT22_d+15;Stem;3.0908
+22;Leg-;Div3;Bra_napus;15;RT22_d+15;Taproot;2.7467
+23;Leg-;Div0;Bra_napus;15;RT23_d+15;Fine roots;2.0644
+23;Leg-;Div0;Bra_napus;15;RT23_d+15;Limb;3.0149
+23;Leg-;Div0;Bra_napus;15;RT23_d+15;Other leaves;3.6218
+23;Leg-;Div0;Bra_napus;15;RT23_d+15;Stem;3.0738
+23;Leg-;Div0;Bra_napus;15;RT23_d+15;Taproot;2.63435
+24;Leg-;Div1;Bra_napus;15;RT24_d+15;Fine roots;2.0278
+24;Leg-;Div1;Bra_napus;15;RT24_d+15;Limb;1.6307
+24;Leg-;Div1;Bra_napus;15;RT24_d+15;Other leaves;2.1992
+24;Leg-;Div1;Bra_napus;15;RT24_d+15;Stem;1.7198
+24;Leg-;Div1;Bra_napus;15;RT24_d+15;Taproot;2.0423
+25;Leg-;Div2;Bra_napus;15;RT25_d+15;Fine roots;2.1409
+25;Leg-;Div2;Bra_napus;15;RT25_d+15;Limb;2.8384
+25;Leg-;Div2;Bra_napus;15;RT25_d+15;Other leaves;4.0843
+25;Leg-;Div2;Bra_napus;15;RT25_d+15;Stem;3.263
+25;Leg-;Div2;Bra_napus;15;RT25_d+15;Taproot;1.634
+26;Leg-;Div3;Bra_napus;15;RT26_d+15;Fine roots;2.02655
+26;Leg-;Div3;Bra_napus;15;RT26_d+15;Limb;2.7287
+26;Leg-;Div3;Bra_napus;15;RT26_d+15;Other leaves;3.3353
+26;Leg-;Div3;Bra_napus;15;RT26_d+15;Stem;2.9927
+26;Leg-;Div3;Bra_napus;15;RT26_d+15;Taproot;2.7112
+27;Leg-;Div0;Bra_napus;15;RT27_d+15;Fine roots;1.9426
+27;Leg-;Div0;Bra_napus;15;RT27_d+15;Limb;1.633
+27;Leg-;Div0;Bra_napus;15;RT27_d+15;Other leaves;2.3434
+27;Leg-;Div0;Bra_napus;15;RT27_d+15;Stem;2.0528
+27;Leg-;Div0;Bra_napus;15;RT27_d+15;Taproot;2.1507
+28;Leg-;Div1;Bra_napus;15;RT28_d+15;Fine roots;2.0707
+28;Leg-;Div1;Bra_napus;15;RT28_d+15;Limb;3.0814
+28;Leg-;Div1;Bra_napus;15;RT28_d+15;Other leaves;2.9948
+28;Leg-;Div1;Bra_napus;15;RT28_d+15;Stem;2.6177
+28;Leg-;Div1;Bra_napus;15;RT28_d+15;Taproot;2.3233
+29;Leg-;Div2;Bra_napus;15;RT29_d+15;Fine roots;1.7519
+29;Leg-;Div2;Bra_napus;15;RT29_d+15;Limb;2.6671
+29;Leg-;Div2;Bra_napus;15;RT29_d+15;Other leaves;3.2574
+29;Leg-;Div2;Bra_napus;15;RT29_d+15;Stem;3.0584
+29;Leg-;Div2;Bra_napus;15;RT29_d+15;Taproot;2.5908
+30;Leg-;Div3;Bra_napus;15;RT30_d+15;Fine roots;2.0887
+30;Leg-;Div3;Bra_napus;15;RT30_d+15;Limb;2.759
+30;Leg-;Div3;Bra_napus;15;RT30_d+15;Other leaves;3.532
+30;Leg-;Div3;Bra_napus;15;RT30_d+15;Stem;2.9295
+30;Leg-;Div3;Bra_napus;15;RT30_d+15;Taproot;2.3925
+31;Leg+;Div2;Bra_napus;15;RT31_d+15;Fine roots;2.8725
+31;Leg+;Div2;Bra_napus;15;RT31_d+15;Limb;4.459
+31;Leg+;Div2;Bra_napus;15;RT31_d+15;Other leaves;2.5215
+31;Leg+;Div2;Bra_napus;15;RT31_d+15;Stem;2.8031
+31;Leg+;Div2;Bra_napus;15;RT31_d+15;Taproot;2.3124
+32;Leg+;Div3;Bra_napus;15;RT32_d+15;Fine roots;2.3576
+32;Leg+;Div3;Bra_napus;15;RT32_d+15;Limb;2.5303
+32;Leg+;Div3;Bra_napus;15;RT32_d+15;Other leaves;2.5309
+32;Leg+;Div3;Bra_napus;15;RT32_d+15;Stem;2.3622
+32;Leg+;Div3;Bra_napus;15;RT32_d+15;Taproot;2.3252
+33;Leg+;Div0;Bra_napus;15;RT33_d+15;Fine roots;2.3207
+33;Leg+;Div0;Bra_napus;15;RT33_d+15;Limb;3.3105
+33;Leg+;Div0;Bra_napus;15;RT33_d+15;Other leaves;2.6648
+33;Leg+;Div0;Bra_napus;15;RT33_d+15;Stem;2.7467
+33;Leg+;Div0;Bra_napus;15;RT33_d+15;Taproot;2.3379
+34;Leg+;Div1;Bra_napus;15;RT34_d+15;Fine roots;2.2367
+34;Leg+;Div1;Bra_napus;15;RT34_d+15;Limb;2.104
+34;Leg+;Div1;Bra_napus;15;RT34_d+15;Other leaves;2.3902
+34;Leg+;Div1;Bra_napus;15;RT34_d+15;Stem;2.5779
+34;Leg+;Div1;Bra_napus;15;RT34_d+15;Taproot;2.1973
+35;Leg+;Div2;Bra_napus;15;RT35_d+15;Fine roots;2.0298
+35;Leg+;Div2;Bra_napus;15;RT35_d+15;Limb;3.5431
+35;Leg+;Div2;Bra_napus;15;RT35_d+15;Other leaves;3.2157
+35;Leg+;Div2;Bra_napus;15;RT35_d+15;Stem;2.9247
+35;Leg+;Div2;Bra_napus;15;RT35_d+15;Taproot;2.4146
+36;Leg+;Div3;Bra_napus;15;RT36_d+15;Fine roots;2.3395
+36;Leg+;Div3;Bra_napus;15;RT36_d+15;Limb;3.0752
+36;Leg+;Div3;Bra_napus;15;RT36_d+15;Other leaves;3.5135
+36;Leg+;Div3;Bra_napus;15;RT36_d+15;Stem;3.1138
+36;Leg+;Div3;Bra_napus;15;RT36_d+15;Taproot;2.7144
+37;Leg+;Div0;Bra_napus;15;RT37_d+15;Fine roots;2.1722
+37;Leg+;Div0;Bra_napus;15;RT37_d+15;Limb;2.451
+37;Leg+;Div0;Bra_napus;15;RT37_d+15;Other leaves;2.9402
+37;Leg+;Div0;Bra_napus;15;RT37_d+15;Stem;2.6577
+37;Leg+;Div0;Bra_napus;15;RT37_d+15;Taproot;2.7544
+38;Leg+;Div1;Bra_napus;15;RT38_d+15;Fine roots;2.158
+38;Leg+;Div1;Bra_napus;15;RT38_d+15;Limb;1.8764
+38;Leg+;Div1;Bra_napus;15;RT38_d+15;Other leaves;3.0755
+38;Leg+;Div1;Bra_napus;15;RT38_d+15;Stem;2.8215
+38;Leg+;Div1;Bra_napus;15;RT38_d+15;Taproot;2.4237
+39;Leg+;Div2;Bra_napus;15;RT39_d+15;Fine roots;2.3537
+39;Leg+;Div2;Bra_napus;15;RT39_d+15;Limb;2.7955
+39;Leg+;Div2;Bra_napus;15;RT39_d+15;Other leaves;3.3844
+39;Leg+;Div2;Bra_napus;15;RT39_d+15;Stem;2.6773
+39;Leg+;Div2;Bra_napus;15;RT39_d+15;Taproot;2.7487
+40;Leg+;Div3;Bra_napus;15;RT40_d+15;Fine roots;1.9336
+40;Leg+;Div3;Bra_napus;15;RT40_d+15;Limb;1.5831
+40;Leg+;Div3;Bra_napus;15;RT40_d+15;Other leaves;3.0564
+40;Leg+;Div3;Bra_napus;15;RT40_d+15;Stem;2.3161
+40;Leg+;Div3;Bra_napus;15;RT40_d+15;Taproot;2.4134
+41;Leg-;Div1;Bra_napus;15;RT41_d+15;Fine roots;1.9528
+41;Leg-;Div1;Bra_napus;15;RT41_d+15;Limb;3.8829
+41;Leg-;Div1;Bra_napus;15;RT41_d+15;Other leaves;3.9641
+41;Leg-;Div1;Bra_napus;15;RT41_d+15;Stem;3.3243
+41;Leg-;Div1;Bra_napus;15;RT41_d+15;Taproot;2.7096
+42;Leg+;Div2;Bra_napus;15;RT42_d+15;Fine roots;2.3347
+42;Leg+;Div2;Bra_napus;15;RT42_d+15;Limb;3.7002
+42;Leg+;Div2;Bra_napus;15;RT42_d+15;Other leaves;4.3699
+42;Leg+;Div2;Bra_napus;15;RT42_d+15;Stem;3.8503
+42;Leg+;Div2;Bra_napus;15;RT42_d+15;Taproot;3.3051
+33;Leg+;Div0;Tri_alexa;21;RT33_d+21;Fine roots;3.1188
