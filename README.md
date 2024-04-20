@@ -17,7 +17,7 @@
 
 ## Overview
 
-This research compendium describe the data obtained during an experiment on how earthworm functional diversity influences crops and weeds.
+This research compendium describe the data obtained during an experiment on how earthworm functional diversity influences rapeseed and weeds.
 
 ## Features
 
