@@ -60,7 +60,7 @@ prep_pca <- bind_rows(Ncont_pca, Pcont_pca, biom_pca, germ_pca) %>%
   left_join(biom_Lol)
 
 # Réalisation de l'ACP
-sel <-c("ShootRoot", "DW_0", "germ", "Ncont_Leaves", "Pcont_Leaves")
+sel <-c("ShootRoot", "DW_0", "germ", "Ncont_Leaves", "Pcont_Leaves", "Ncont_Taproot", "Pcont_Taproot")
 pca <- dudi.pca(prep_pca[1:121,sel], scannf = FALSE, nf = 2)
 
 fviz_eig(pca)
@@ -70,7 +70,8 @@ fviz_eig(pca)
     quanti.cos2 <- quanti.coord^2
     ## Graph of variables including supplementary variables
     p <- fviz_pca_var(pca)
-    fviz_add(p, quanti.cos2, color ="blue", geom="arrow")fviz_pca_var(pca, col.var = "contrib")
+    fviz_add(p, quanti.cos2, color ="blue", geom="arrow")
+    fviz_pca_var(pca, col.var = "contrib")
 
     ##Graph of objects
     fviz_pca_ind(pca, 

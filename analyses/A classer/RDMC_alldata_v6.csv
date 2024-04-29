@@ -1,0 +1,1956 @@
+id_loca;id_div;id_leg;division;strata;id_taxo;DW;FW;RDMC;id_RT
+RT01_d+12;Div0;Leg-;Fine roots;1;Ger_disse;0.3;1;300;1
+RT01_d+15;Div0;Leg-;Fine roots;1;Bra_napus;32.3;265.1;121.8408148;1
+RT01_d+15;Div0;Leg-;Taproot;1;Bra_napus;208.1;1207.7;172.3110044;1
+RT01_d+15;Div0;Leg-;Fine roots;2;Bra_napus;103.7;748.2;138.599305;1
+RT01_d+15;Div0;Leg-;Taproot;2;Bra_napus;59.3;380.2;155.9705418;1
+RT01_d+15;Div0;Leg-;Fine roots;3;Bra_napus;197.2;1471.9;133.976493;1
+RT01_d+15;Div0;Leg-;Taproot;3;Bra_napus;14.4;82.7;174.1233374;1
+RT01_d+15;Div0;Leg-;Fine roots;4;Bra_napus;467.1;5208.5;89.68033023;1
+RT01_d+15;Div0;Leg-;Taproot;4;Bra_napus;16.7;129.3;129.1569992;1
+RT01_d+18;Div0;Leg-;Fine roots;1;Ver_persi;1.5;13;115.3846154;1
+RT01_d+21;Div0;Leg-;Fine roots;1;Lol_peren;6.8;41.1;165.4501217;1
+RT01_d+21;Div0;Leg-;Fine roots;2;Lol_peren;2.1;14.8;141.8918919;1
+RT01_d+3;Div0;Leg-;Fine roots;1;Ger_disse;1.5;12.7;118.1102362;1
+RT01_d+3;Div0;Leg-;Fine roots;2;Ger_disse;0.4;2.3;173.9130435;1
+RT01_d+6;Div0;Leg-;Fine roots;1;Ver_persi;6.1;65.1;93.70199693;1
+RT01_d+6;Div0;Leg-;Fine roots;2;Ver_persi;3;31.1;96.46302251;1
+RT01_d+9;Div0;Leg-;Fine roots;1;Lol_peren;9.9;75.9;130.4347826;1
+RT01_d+9;Div0;Leg-;Fine roots;2;Lol_peren;21.9;187;117.1122995;1
+RT01_d+9;Div0;Leg-;Fine roots;3;Lol_peren;0.7;5.6;125;1
+RT01_d0;Div0;Leg-;Fine roots;1;Bra_napus;4.3;38.4;111.9791667;1
+RT01_d0;Div0;Leg-;Taproot;1;Bra_napus;51.6;314.3;164.1743557;1
+RT01_d0;Div0;Leg-;Fine roots;2;Bra_napus;33.2;294.2;112.8484024;1
+RT01_d0;Div0;Leg-;Taproot;2;Bra_napus;18;112.5;160;1
+RT01_d0;Div0;Leg-;Fine roots;3;Bra_napus;57;526.1;108.3444212;1
+RT01_d0;Div0;Leg-;Taproot;3;Bra_napus;2.8;18.9;148.1481481;1
+RT01_d0;Div0;Leg-;Fine roots;4;Bra_napus;33.1;394.5;83.90367554;1
+RT01_d0;Div0;Leg-;Taproot;4;Bra_napus;1.2;13.4;89.55223881;1
+RT01_d-12;Div0;Leg-;Fine roots;1;Lol_peren;27.3;223.3;122.2570533;1
+RT01_d-12;Div0;Leg-;Fine roots;2;Lol_peren;6.9;59.8;115.3846154;1
+RT01_d-12;Div0;Leg-;Fine roots;3;Lol_peren;1;11.5;86.95652174;1
+RT01_d-15;Div0;Leg-;Fine roots;1;Bra_napus;51;298.8;170.6827309;1
+RT01_d-15;Div0;Leg-;Taproot;1;Bra_napus;141.8;768.2;184.587347;1
+RT01_d-15;Div0;Leg-;Fine roots;2;Bra_napus;111.4;752.6;148.0201967;1
+RT01_d-15;Div0;Leg-;Taproot;2;Bra_napus;30.4;151.8;200.2635046;1
+RT01_d-15;Div0;Leg-;Fine roots;3;Bra_napus;238.6;1710.9;139.4587644;1
+RT01_d-15;Div0;Leg-;Taproot;3;Bra_napus;12.9;57.6;223.9583333;1
+RT01_d-15;Div0;Leg-;Fine roots;4;Bra_napus;348.9;3872.1;90.10614395;1
+RT01_d-15;Div0;Leg-;Taproot;4;Bra_napus;19.9;129.2;154.0247678;1
+RT01_d-18;Div0;Leg-;Fine roots;1;Ver_persi;0.9;7.4;121.6216216;1
+RT01_d-18;Div0;Leg-;Fine roots;2;Ver_persi;0.1;1.1;90.90909091;1
+RT01_d-21;Div0;Leg-;Fine roots;1;Ger_disse;0.9;14.4;62.5;1
+RT01_d-24;Div0;Leg-;Fine roots;1;Lol_peren;57.6;462.3;124.5944192;1
+RT01_d-24;Div0;Leg-;Fine roots;2;Lol_peren;39.4;298.7;131.9049213;1
+RT01_d-3;Div0;Leg-;Fine roots;1;Lol_peren;38.4;308.8;124.3523316;1
+RT01_d-3;Div0;Leg-;Fine roots;2;Lol_peren;37.8;309.3;122.2114452;1
+RT01_d-3;Div0;Leg-;Fine roots;3;Lol_peren;1.8;14.5;124.137931;1
+RT01_d-6;Div0;Leg-;Fine roots;1;Ver_persi;1.1;10.1;108.9108911;1
+RT01_d-6;Div0;Leg-;Fine roots;2;Ver_persi;0.5;3.6;138.8888889;1
+RT01_d-9;Div0;Leg-;Fine roots;1;Ger_disse;0.5;4.8;104.1666667;1
+RT02_d+15;Div1;Leg-;Fine roots;1;Bra_napus;30.4;229.5;132.4618736;2
+RT02_d+15;Div1;Leg-;Taproot;1;Bra_napus;33.7;176.4;191.0430839;2
+RT02_d+15;Div1;Leg-;Fine roots;2;Bra_napus;83.5;710.1;117.589072;2
+RT02_d+15;Div1;Leg-;Taproot;2;Bra_napus;5.8;25.4;228.3464567;2
+RT02_d+15;Div1;Leg-;Fine roots;3;Bra_napus;99.4;1118.6;88.86107635;2
+RT02_d+15;Div1;Leg-;Fine roots;4;Bra_napus;112.4;1434.8;78.33844438;2
+RT02_d+18;Div1;Leg-;Fine roots;1;Ver_persi;1;12.2;81.96721311;2
+RT02_d+21;Div1;Leg-;Fine roots;1;Lol_peren;10.8;87.3;123.7113402;2
+RT02_d+21;Div1;Leg-;Fine roots;2;Lol_peren;0.5;4.3;116.2790698;2
+RT02_d+6;Div1;Leg-;Fine roots;1;Ver_persi;4.2;47.7;88.05031447;2
+RT02_d+9;Div1;Leg-;Fine roots;1;Lol_peren;26.4;193;136.7875648;2
+RT02_d+9;Div1;Leg-;Fine roots;2;Lol_peren;23.5;177.5;132.3943662;2
+RT02_d+9;Div1;Leg-;Fine roots;3;Lol_peren;1.9;22.8;83.33333333;2
+RT02_d0;Div1;Leg-;Fine roots;1;Bra_napus;47;364.3;129.0145484;2
+RT02_d0;Div1;Leg-;Taproot;1;Bra_napus;83.3;503.9;165.3105775;2
+RT02_d0;Div1;Leg-;Fine roots;2;Bra_napus;273.4;2080.4;131.4170352;2
+RT02_d0;Div1;Leg-;Taproot;2;Bra_napus;26.1;151.5;172.2772277;2
+RT02_d0;Div1;Leg-;Fine roots;3;Bra_napus;191;1861.8;102.5888925;2
+RT02_d0;Div1;Leg-;Taproot;3;Bra_napus;13.5;87.5;154.2857143;2
+RT02_d0;Div1;Leg-;Fine roots;4;Bra_napus;85.2;1336.8;63.73429084;2
+RT02_d-12;Div1;Leg-;Fine roots;1;Lol_peren;9.9;61;162.295082;2
+RT02_d-12;Div1;Leg-;Fine roots;2;Lol_peren;3.6;30.1;119.6013289;2
+RT02_d-15;Div1;Leg-;Fine roots;1;Bra_napus;24.6;171.1;143.7755698;2
+RT02_d-15;Div1;Leg-;Taproot;1;Bra_napus;6.8;26.3;258.5551331;2
+RT02_d-15;Div1;Leg-;Fine roots;2;Bra_napus;0.9;2.8;321.4285714;2
+RT02_d-15;Div1;Leg-;Taproot;2;Bra_napus;8.4;82.21671936;102.169;2
+RT02_d-18;Div1;Leg-;Fine roots;1;Ver_persi;5.4;61.4;87.94788274;2
+RT02_d-24;Div1;Leg-;Fine roots;1;Lol_peren;38.7;315.7;122.5847323;2
+RT02_d-24;Div1;Leg-;Fine roots;2;Lol_peren;39.3;455.8;86.2220272;2
+RT02_d-24;Div1;Leg-;Fine roots;3;Lol_peren;1.6;14.8;108.1081081;2
+RT02_d-3;Div1;Leg-;Fine roots;1;Lol_peren;56.5;428.2;131.947688;2
+RT02_d-3;Div1;Leg-;Fine roots;2;Lol_peren;8;52.4;152.6717557;2
+RT02_d-6;Div1;Leg-;Fine roots;1;Ver_persi;0.4;6.8;58.82352941;2
+RT03_d+15;Div2;Leg-;Fine roots;1;Bra_napus;9.3;59.3;156.8296796;3
+RT03_d+15;Div2;Leg-;Taproot;1;Bra_napus;36.2;175.3;206.5031375;3
+RT03_d+15;Div2;Leg-;Fine roots;2;Bra_napus;66.9;432.6;154.6463245;3
+RT03_d+15;Div2;Leg-;Taproot;2;Bra_napus;19.2;99.8;192.3847695;3
+RT03_d+15;Div2;Leg-;Fine roots;3;Bra_napus;70.5;458;153.930131;3
+RT03_d+15;Div2;Leg-;Taproot;3;Bra_napus;13.2;51.6;255.8139535;3
+RT03_d+15;Div2;Leg-;Fine roots;4;Bra_napus;66.8;783.4;85.26933878;3
+RT03_d+21;Div2;Leg-;Fine roots;1;Lol_peren;31.7;239.4;132.4143693;3
+RT03_d+21;Div2;Leg-;Fine roots;2;Lol_peren;21.1;78;270.5128205;3
+RT03_d+21;Div2;Leg-;Fine roots;3;Lol_peren;1.6;8.4;190.4761905;3
+RT03_d+6;Div2;Leg-;Fine roots;1;Ver_persi;1.2;19.2;62.5;3
+RT03_d+9;Div2;Leg-;Fine roots;1;Lol_peren;58.7;410.3;143.0660492;3
+RT03_d+9;Div2;Leg-;Fine roots;2;Lol_peren;46.6;354;131.6384181;3
+RT03_d+9;Div2;Leg-;Fine roots;3;Lol_peren;22.1;195.7;112.9279509;3
+RT03_d+9;Div2;Leg-;Fine roots;4;Lol_peren;3.4;32.9;103.343465;3
+RT03_d0;Div2;Leg-;Fine roots;1;Bra_napus;79.7;612.8;130.0587467;3
+RT03_d0;Div2;Leg-;Taproot;1;Bra_napus;240.1;1418.8;169.2275162;3
+RT03_d0;Div2;Leg-;Fine roots;2;Bra_napus;157.1;1178;133.3616299;3
+RT03_d0;Div2;Leg-;Taproot;2;Bra_napus;74.8;492.3;151.9398741;3
+RT03_d0;Div2;Leg-;Fine roots;3;Bra_napus;235.4;1793.3;131.2663804;3
+RT03_d0;Div2;Leg-;Taproot;3;Bra_napus;29.8;163.9;181.8181818;3
+RT03_d0;Div2;Leg-;Fine roots;4;Bra_napus;314;3053.2;102.8429189;3
+RT03_d0;Div2;Leg-;Taproot;4;Bra_napus;9.5;39.9;238.0952381;3
+RT03_d-12;Div2;Leg-;Fine roots;1;Lol_peren;65.5;551.4;118.7885383;3
+RT03_d-12;Div2;Leg-;Fine roots;2;Lol_peren;40.2;344.9;116.5555233;3
+RT03_d-15;Div2;Leg-;Fine roots;1;Bra_napus;20.2;138.1;146.2708182;3
+RT03_d-15;Div2;Leg-;Taproot;1;Bra_napus;99;443;223.476298;3
+RT03_d-15;Div2;Leg-;Fine roots;2;Bra_napus;115.2;919.5;125.2854812;3
+RT03_d-15;Div2;Leg-;Taproot;2;Bra_napus;20.8;92.6;224.6220302;3
+RT03_d-15;Div2;Leg-;Fine roots;3;Bra_napus;132.9;1247.5;106.5330661;3
+RT03_d-15;Div2;Leg-;Taproot;3;Bra_napus;8.4;83.6;100.4784689;3
+RT03_d-15;Div2;Leg-;Fine roots;4;Bra_napus;132.8;1203.5;110.3448276;3
+RT03_d-18;Div2;Leg-;Fine roots;1;Ver_persi;17.5;206;84.95145631;3
+RT03_d-18;Div2;Leg-;Fine roots;2;Ver_persi;0.9;12;75;3
+RT03_d-24;Div2;Leg-;Fine roots;1;Lol_peren;20.6;183.5;112.2615804;3
+RT03_d-24;Div2;Leg-;Fine roots;2;Lol_peren;21.7;172.9;125.5060729;3
+RT03_d-24;Div2;Leg-;Fine roots;3;Lol_peren;1.2;11.1;108.1081081;3
+RT03_d-3;Div2;Leg-;Fine roots;1;Lol_peren;3.9;46.9;83.15565032;3
+RT03_d-3;Div2;Leg-;Fine roots;2;Lol_peren;0.1;1.2;83.33333333;3
+RT04_d+12;Div3;Leg-;Fine roots;1;Ger_disse;0.7;11.3;61.94690265;4
+RT04_d+15;Div3;Leg-;Fine roots;1;Bra_napus;32.3;327.5;98.6259542;4
+RT04_d+15;Div3;Leg-;Taproot;1;Bra_napus;8.4;56.4;148.9361702;4
+RT04_d+15;Div3;Leg-;Fine roots;2;Bra_napus;17.3;117.2;147.6109215;4
+RT04_d+15;Div3;Leg-;Taproot;2;Bra_napus;6.3;25.2;250;4
+RT04_d+15;Div3;Leg-;Fine roots;3;Bra_napus;23.7;248.7;95.29553679;4
+RT04_d+15;Div3;Leg-;Taproot;3;Bra_napus;1.9;7.4;256.7567568;4
+RT04_d+15;Div3;Leg-;Fine roots;4;Bra_napus;8.2;132.1;62.07418622;4
+RT04_d+18;Div3;Leg-;Fine roots;1;Ver_persi;0.2;1.5;133.3333333;4
+RT04_d+21;Div3;Leg-;Fine roots;1;Lol_peren;66.5;514.4;129.2768274;4
+RT04_d+21;Div3;Leg-;Fine roots;2;Lol_peren;62;530;116.9811321;4
+RT04_d+21;Div3;Leg-;Fine roots;3;Lol_peren;4.9;37.2;131.7204301;4
+RT04_d+24;Div3;Leg-;Fine roots;1;Ger_disse;0.1;0.6;166.6666667;4
+RT04_d+3;Div3;Leg-;Fine roots;1;Ger_disse;0.8;8.1;98.7654321;4
+RT04_d+6;Div3;Leg-;Fine roots;1;Ver_persi;5.8;63.9;90.76682316;4
+RT04_d+9;Div3;Leg-;Fine roots;1;Lol_peren;60.7;745.1;81.46557509;4
+RT04_d+9;Div3;Leg-;Fine roots;2;Lol_peren;62.2;537.9;115.6348764;4
+RT04_d+9;Div3;Leg-;Fine roots;3;Lol_peren;0.2;3.8;52.63157895;4
+RT04_d0;Div3;Leg-;Fine roots;1;Bra_napus;21.8;183.9;118.5426862;4
+RT04_d0;Div3;Leg-;Taproot;1;Bra_napus;244.2;1446.1;168.8679898;4
+RT04_d0;Div3;Leg-;Fine roots;2;Bra_napus;141.6;1111.2;127.4298056;4
+RT04_d0;Div3;Leg-;Taproot;2;Bra_napus;55.3;390.9;141.4684062;4
+RT04_d0;Div3;Leg-;Fine roots;3;Bra_napus;378.8;3239.5;116.9316253;4
+RT04_d0;Div3;Leg-;Taproot;3;Bra_napus;10.4;70.4;147.7272727;4
+RT04_d0;Div3;Leg-;Fine roots;4;Bra_napus;606.9;6639.2;91.41161586;4
+RT04_d-12;Div3;Leg-;Fine roots;1;Lol_peren;46.2;356.7;129.5206056;4
+RT04_d-12;Div3;Leg-;Fine roots;2;Lol_peren;75.4;339.5;222.0913108;4
+RT04_d-12;Div3;Leg-;Fine roots;3;Lol_peren;18.3;165.2;110.7748184;4
+RT04_d-12;Div3;Leg-;Fine roots;4;Lol_peren;5.9;53.7;109.8696462;4
+RT04_d-15;Div3;Leg-;Fine roots;1;Bra_napus;5.5;43.5;126.4367816;4
+RT04_d-15;Div3;Leg-;Taproot;1;Bra_napus;11.7;65.7;178.0821918;4
+RT04_d-15;Div3;Leg-;Fine roots;2;Bra_napus;33.2;144.86;229.186801;4
+RT04_d-15;Div3;Leg-;Taproot;2;Bra_napus;14.8;144.9;102.1394065;4
+RT04_d-15;Div3;Leg-;Fine roots;3;Bra_napus;6.2;60.68376905;102.169;4
+RT04_d-15;Div3;Leg-;Fine roots;4;Bra_napus;2.4;23.8;100.8403361;4
+RT04_d-18;Div3;Leg-;Fine roots;1;Ver_persi;6.1;63.9;95.46165884;4
+RT04_d-18;Div3;Leg-;Fine roots;2;Ver_persi;0.5;2.4;208.3333333;4
+RT04_d-21;Div3;Leg-;Fine roots;1;Ger_disse;3;26.6;112.7819549;4
+RT04_d-24;Div3;Leg-;Fine roots;1;Lol_peren;76.4;513;148.9278752;4
+RT04_d-24;Div3;Leg-;Fine roots;2;Lol_peren;123.4;1086.6;113.5652494;4
+RT04_d-24;Div3;Leg-;Fine roots;3;Lol_peren;49.5;412.3;120.05821;4
+RT04_d-24;Div3;Leg-;Fine roots;4;Lol_peren;17.7;232.2;76.22739018;4
+RT04_d-3;Div3;Leg-;Fine roots;1;Lol_peren;30.9;212.9;145.1385627;4
+RT04_d-3;Div3;Leg-;Fine roots;2;Lol_peren;30.2;221.3;136.4663353;4
+RT04_d-3;Div3;Leg-;Fine roots;3;Lol_peren;13.6;113.5;119.8237885;4
+RT04_d-3;Div3;Leg-;Fine roots;4;Lol_peren;5.1;51.9;98.26589595;4
+RT04_d-6;Div3;Leg-;Fine roots;1;Ver_persi;1.1;14.9;73.82550336;4
+RT04_d-9;Div3;Leg-;Fine roots;1;Ger_disse;2.9;24.8;116.9354839;4
+RT04_d-9;Div3;Leg-;Fine roots;2;Ger_disse;0.8;8.6;93.02325581;4
+RT05_d+15;Div0;Leg-;Fine roots;1;Bra_napus;18.2;121.1;150.2890173;5
+RT05_d+15;Div0;Leg-;Taproot;1;Bra_napus;9.1;51.7;176.0154739;5
+RT05_d+15;Div0;Leg-;Fine roots;2;Bra_napus;54.6;546.6;99.89023052;5
+RT05_d+15;Div0;Leg-;Fine roots;3;Bra_napus;2.8;19.2;145.8333333;5
+RT05_d+18;Div0;Leg-;Fine roots;1;Ver_persi;5.8;62.3;93.09791332;5
+RT05_d+21;Div0;Leg-;Fine roots;1;Lol_peren;23.6;112.6;209.5914742;5
+RT05_d+21;Div0;Leg-;Fine roots;2;Lol_peren;2.8;26.8;104.4776119;5
+RT05_d+3;Div0;Leg-;Fine roots;1;Ger_disse;2.2;26.5;83.01886792;5
+RT05_d+3;Div0;Leg-;Fine roots;2;Ger_disse;0.1;3.3;30.3030303;5
+RT05_d+6;Div0;Leg-;Fine roots;1;Ver_persi;2.3;24.9;92.36947791;5
+RT05_d+9;Div0;Leg-;Fine roots;1;Lol_peren;8.1;54;150;5
+RT05_d+9;Div0;Leg-;Fine roots;2;Lol_peren;6;43.9;136.6742597;5
+RT05_d+9;Div0;Leg-;Fine roots;3;Lol_peren;0.8;5.9;135.5932203;5
+RT05_d0;Div0;Leg-;Fine roots;1;Bra_napus;49.8;526.3;94.62283869;5
+RT05_d0;Div0;Leg-;Taproot;1;Bra_napus;295.2;1714.8;172.1483555;5
+RT05_d0;Div0;Leg-;Fine roots;2;Bra_napus;179.6;1262.2;142.2912375;5
+RT05_d0;Div0;Leg-;Taproot;2;Bra_napus;67.4;466.4;144.5111492;5
+RT05_d0;Div0;Leg-;Fine roots;3;Bra_napus;451.5;4822.7;93.61975657;5
+RT05_d0;Div0;Leg-;Taproot;3;Bra_napus;18.2;109.9;165.6050955;5
+RT05_d0;Div0;Leg-;Fine roots;4;Bra_napus;496.7;6264.6;79.28678607;5
+RT05_d0;Div0;Leg-;Taproot;4;Bra_napus;5.1;35.8;142.4581006;5
+RT05_d-12;Div0;Leg-;Fine roots;1;Lol_peren;81;645.4;125.5035637;5
+RT05_d-12;Div0;Leg-;Fine roots;2;Lol_peren;105.9;811.1;130.5634324;5
+RT05_d-12;Div0;Leg-;Fine roots;3;Lol_peren;1.9;17.1;111.1111111;5
+RT05_d-18;Div0;Leg-;Fine roots;1;Ver_persi;3.2;42.6;75.11737089;5
+RT05_d-21;Div0;Leg-;Fine roots;1;Ger_disse;0.6;6.1;98.36065574;5
+RT05_d-24;Div0;Leg-;Fine roots;1;Lol_peren;66.2;538.9;122.842828;5
+RT05_d-24;Div0;Leg-;Fine roots;2;Lol_peren;64.4;638.8;100.8140263;5
+RT05_d-24;Div0;Leg-;Fine roots;3;Lol_peren;13.7;133.8;102.3916293;5
+RT05_d-3;Div0;Leg-;Fine roots;1;Lol_peren;62.2;465.2;133.7059329;5
+RT05_d-3;Div0;Leg-;Fine roots;2;Lol_peren;9.1;85.8;106.0606061;5
+RT05_d-6;Div0;Leg-;Fine roots;1;Ver_persi;4.2;49.9;84.16833667;5
+RT05_d-9;Div0;Leg-;Fine roots;1;Ger_disse;1.4;17.8;78.65168539;5
+RT06_d+15;Div1;Leg-;Fine roots;1;Bra_napus;8;94.4;84.74576271;6
+RT06_d+15;Div1;Leg-;Taproot;1;Bra_napus;3.3;20.4;161.7647059;6
+RT06_d+15;Div1;Leg-;Fine roots;2;Bra_napus;2.4;28.7;83.62369338;6
+RT06_d+18;Div1;Leg-;Fine roots;1;Ver_persi;1.8;22.7;79.29515419;6
+RT06_d+21;Div1;Leg-;Fine roots;1;Lol_peren;17;114.2;148.8616462;6
+RT06_d+21;Div1;Leg-;Fine roots;2;Lol_peren;2;10.8;185.1851852;6
+RT06_d+3;Div1;Leg-;Fine roots;1;Ger_disse;0.3;5.9;50.84745763;6
+RT06_d+9;Div1;Leg-;Fine roots;1;Lol_peren;8.4;65.5;128.2442748;6
+RT06_d0;Div1;Leg-;Fine roots;1;Bra_napus;171.2;2002.6;85.48886448;6
+RT06_d0;Div1;Leg-;Taproot;1;Bra_napus;210.9;1132.2;186.2745098;6
+RT06_d0;Div1;Leg-;Fine roots;2;Bra_napus;220;1915.7;114.8405283;6
+RT06_d0;Div1;Leg-;Taproot;2;Bra_napus;50.3;301.6;166.7771883;6
+RT06_d0;Div1;Leg-;Fine roots;3;Bra_napus;272.1;2935.6;92.68973975;6
+RT06_d0;Div1;Leg-;Taproot;3;Bra_napus;22;147.9;148.7491548;6
+RT06_d0;Div1;Leg-;Fine roots;4;Bra_napus;316.7;4428.1;71.5205167;6
+RT06_d-12;Div1;Leg-;Fine roots;1;Lol_peren;18.4;127.4;144.4270016;6
+RT06_d-15;Div1;Leg-;Fine roots;1;Bra_napus;34.7;280.4;123.7517832;6
+RT06_d-15;Div1;Leg-;Taproot;1;Bra_napus;170.7;960.4;177.7384423;6
+RT06_d-15;Div1;Leg-;Fine roots;2;Bra_napus;212.5;1615.4;131.5463662;6
+RT06_d-15;Div1;Leg-;Taproot;2;Bra_napus;26.7;156.5;170.6070288;6
+RT06_d-15;Div1;Leg-;Fine roots;3;Bra_napus;381.4;3638.3;104.8291785;6
+RT06_d-15;Div1;Leg-;Fine roots;4;Bra_napus;146;2213.6;65.95590893;6
+RT06_d-18;Div1;Leg-;Fine roots;1;Ver_persi;1;10.6;94.33962264;6
+RT06_d-24;Div1;Leg-;Fine roots;1;Lol_peren;16.4;119.1;137.6994123;6
+RT06_d-24;Div1;Leg-;Fine roots;2;Lol_peren;29.2;224.8;129.8932384;6
+RT06_d-24;Div1;Leg-;Fine roots;3;Lol_peren;8.7;59.1;147.2081218;6
+RT06_d-24;Div1;Leg-;Fine roots;4;Lol_peren;1.3;15.5;83.87096774;6
+RT06_d-3;Div1;Leg-;Fine roots;1;Lol_peren;25.8;180.4;143.0155211;6
+RT06_d-6;Div1;Leg-;Fine roots;1;Ver_persi;3.1;30.8;100.6493506;6
+RT06_d-9;Div1;Leg-;Fine roots;1;Ger_disse;0.9;12.1;74.38016529;6
+RT07_d+15;Div2;Leg-;Fine roots;1;Bra_napus;34.3;251.2;136.544586;7
+RT07_d+15;Div2;Leg-;Taproot;1;Bra_napus;28;134.8;207.7151335;7
+RT07_d+15;Div2;Leg-;Fine roots;2;Bra_napus;19.7;200.2;98.4015984;7
+RT07_d+15;Div2;Leg-;Taproot;2;Bra_napus;0.6;3.2;187.5;7
+RT07_d+15;Div2;Leg-;Fine roots;3;Bra_napus;0.1;0.7;142.8571429;7
+RT07_d+21;Div2;Leg-;Fine roots;1;Lol_peren;64.4;487.5;132.1025641;7
+RT07_d+21;Div2;Leg-;Fine roots;2;Lol_peren;27.8;256;108.59375;7
+RT07_d+24;Div2;Leg-;Fine roots;1;Ger_disse;0.2;1;200;7
+RT07_d+3;Div2;Leg-;Fine roots;1;Ger_disse;1.6;15;106.6666667;7
+RT07_d+6;Div2;Leg-;Fine roots;1;Ver_persi;2.9;29.6;97.97297297;7
+RT07_d+9;Div2;Leg-;Fine roots;1;Lol_peren;74.8;653.4;114.4781145;7
+RT07_d+9;Div2;Leg-;Fine roots;2;Lol_peren;20.9;172.9;120.8791209;7
+RT07_d+9;Div2;Leg-;Fine roots;3;Lol_peren;1.3;13.2;98.48484848;7
+RT07_d0;Div2;Leg-;Fine roots;1;Bra_napus;71.7;987.5;72.60759494;7
+RT07_d0;Div2;Leg-;Taproot;1;Bra_napus;251.2;1331;188.730278;7
+RT07_d0;Div2;Leg-;Fine roots;2;Bra_napus;126.1;956;131.9037657;7
+RT07_d0;Div2;Leg-;Taproot;2;Bra_napus;59.5;359.4;165.5537006;7
+RT07_d0;Div2;Leg-;Fine roots;3;Bra_napus;494.9;4062;121.8365337;7
+RT07_d0;Div2;Leg-;Taproot;3;Bra_napus;22.6;130.6;173.0474732;7
+RT07_d0;Div2;Leg-;Fine roots;4;Bra_napus;488.1;5688.6;85.80318532;7
+RT07_d-12;Div2;Leg-;Fine roots;1;Lol_peren;26.1;198.6;131.4199396;7
+RT07_d-12;Div2;Leg-;Fine roots;2;Lol_peren;13.9;109.7;126.7092069;7
+RT07_d-12;Div2;Leg-;Fine roots;3;Lol_peren;13.4;104.5;128.2296651;7
+RT07_d-12;Div2;Leg-;Fine roots;4;Lol_peren;2.2;23;95.65217391;7
+RT07_d-15;Div2;Leg-;Fine roots;1;Bra_napus;35;252;138.8888889;7
+RT07_d-15;Div2;Leg-;Taproot;1;Bra_napus;54.7;330.8;165.356711;7
+RT07_d-15;Div2;Leg-;Fine roots;2;Bra_napus;48.5;384.8;126.039501;7
+RT07_d-15;Div2;Leg-;Taproot;2;Bra_napus;13.6;77.8;174.8071979;7
+RT07_d-15;Div2;Leg-;Fine roots;3;Bra_napus;95.9;852.8;112.4530957;7
+RT07_d-15;Div2;Leg-;Taproot;3;Bra_napus;7.4;51;145.0980392;7
+RT07_d-15;Div2;Leg-;Fine roots;4;Bra_napus;157.3;1791.5;87.80351661;7
+RT07_d-18;Div2;Leg-;Fine roots;1;Ver_persi;0.8;11.8;67.79661017;7
+RT07_d-21;Div2;Leg-;Fine roots;1;Ger_disse;1.5;14;107.1428571;7
+RT07_d-24;Div2;Leg-;Fine roots;1;Lol_peren;68.8;449.9;152.9228717;7
+RT07_d-24;Div2;Leg-;Fine roots;2;Lol_peren;46.5;339.8;136.8452031;7
+RT07_d-24;Div2;Leg-;Fine roots;3;Lol_peren;27.5;222.3;123.7067027;7
+RT07_d-24;Div2;Leg-;Fine roots;4;Lol_peren;14.9;138.9;107.2714183;7
+RT07_d-3;Div2;Leg-;Fine roots;1;Lol_peren;32.6;216.9;150.2996773;7
+RT07_d-3;Div2;Leg-;Fine roots;2;Lol_peren;3.3;20.9;157.8947368;7
+RT07_d-6;Div2;Leg-;Fine roots;1;Ver_persi;0.7;7.8;89.74358974;7
+RT07_d-9;Div2;Leg-;Fine roots;1;Ger_disse;3.5;32.5;107.6923077;7
+RT08_d+15;Div3;Leg-;Fine roots;1;Bra_napus;1.9;8;237.5;8
+RT08_d+18;Div3;Leg-;Fine roots;1;Ver_persi;3.2;29.2;109.5890411;8
+RT08_d+21;Div3;Leg-;Fine roots;1;Lol_peren;101.2;819.6;123.4748658;8
+RT08_d+21;Div3;Leg-;Fine roots;2;Lol_peren;59.9;559.6;107.0407434;8
+RT08_d+21;Div3;Leg-;Fine roots;3;Lol_peren;2.6;26.8;97.01492537;8
+RT08_d+3;Div3;Leg-;Fine roots;1;Ger_disse;1.7;21.8;77.98165138;8
+RT08_d+3;Div3;Leg-;Fine roots;2;Ger_disse;0.5;2.6;192.3076923;8
+RT08_d+6;Div3;Leg-;Fine roots;1;Ver_persi;6.4;73.4;87.19346049;8
+RT08_d+6;Div3;Leg-;Fine roots;2;Ver_persi;0.6;5.1;117.6470588;8
+RT08_d+9;Div3;Leg-;Fine roots;1;Lol_peren;106.6;719.8;148.0966935;8
+RT08_d+9;Div3;Leg-;Fine roots;2;Lol_peren;14;98;142.8571429;8
+RT08_d0;Div3;Leg-;Fine roots;1;Bra_napus;30.8;218;141.2844037;8
+RT08_d0;Div3;Leg-;Taproot;1;Bra_napus;179.3;1031.7;173.7908307;8
+RT08_d0;Div3;Leg-;Fine roots;2;Bra_napus;115.5;873.5;132.2266743;8
+RT08_d0;Div3;Leg-;Taproot;2;Bra_napus;43.4;270.9;160.2067183;8
+RT08_d0;Div3;Leg-;Fine roots;3;Bra_napus;387.4;2874.4;134.7759532;8
+RT08_d0;Div3;Leg-;Taproot;3;Bra_napus;15.9;91.9;173.0141458;8
+RT08_d0;Div3;Leg-;Fine roots;4;Bra_napus;168.8;1993.8;84.66245361;8
+RT08_d-15;Div3;Leg-;Fine roots;1;Bra_napus;15.4;118.2;130.2876481;8
+RT08_d-15;Div3;Leg-;Taproot;1;Bra_napus;78.9;493.7;159.813652;8
+RT08_d-15;Div3;Leg-;Fine roots;2;Bra_napus;126;1125.8;111.9204122;8
+RT08_d-15;Div3;Leg-;Taproot;2;Bra_napus;22.9;154.6;148.1241915;8
+RT08_d-15;Div3;Leg-;Fine roots;3;Bra_napus;245.8;1878.2;130.8699819;8
+RT08_d-15;Div3;Leg-;Taproot;3;Bra_napus;13;88.6;146.7268623;8
+RT08_d-15;Div3;Leg-;Fine roots;4;Bra_napus;127.1;1543.6;82.33998445;8
+RT08_d-18;Div3;Leg-;Fine roots;1;Ver_persi;0.1;5;20;8
+RT08_d-21;Div3;Leg-;Fine roots;1;Ger_disse;0.7;6.6;106.0606061;8
+RT08_d-24;Div3;Leg-;Fine roots;1;Lol_peren;48.9;324.6;150.6469501;8
+RT08_d-24;Div3;Leg-;Fine roots;2;Lol_peren;24.3;212.8;114.1917293;8
+RT08_d-24;Div3;Leg-;Fine roots;3;Lol_peren;0.7;9.3;75.2688172;8
+RT08_d-3;Div3;Leg-;Fine roots;1;Lol_peren;138.6;1200;115.5;8
+RT08_d-3;Div3;Leg-;Fine roots;2;Lol_peren;57.3;510.8;112.1769773;8
+RT08_d-3;Div3;Leg-;Fine roots;3;Lol_peren;14.9;134.5;110.7806691;8
+RT08_d-3;Div3;Leg-;Fine roots;4;Lol_peren;4.1;39.4;104.0609137;8
+RT08_d-6;Div3;Leg-;Fine roots;1;Ver_persi;1.4;17.2;81.39534884;8
+RT08_d-9;Div3;Leg-;Fine roots;1;Ger_disse;0.5;13.4;37.31343284;8
+RT09_d+21;Div0;Leg-;Fine roots;1;Lol_peren;78.3;511.6;153.0492572;9
+RT09_d+21;Div0;Leg-;Fine roots;2;Lol_peren;27.5;156.6;175.6066411;9
+RT09_d+21;Div0;Leg-;Fine roots;3;Lol_peren;4.1;32.7;125.382263;9
+RT09_d+3;Div0;Leg-;Fine roots;1;Ger_disse;2;12.9;155.0387597;9
+RT09_d+6;Div0;Leg-;Fine roots;1;Ver_persi;4.1;34.4;119.1860465;9
+RT09_d+9;Div0;Leg-;Fine roots;1;Lol_peren;90.6;578;156.7474048;9
+RT09_d+9;Div0;Leg-;Fine roots;2;Lol_peren;91.1;649.6;140.2401478;9
+RT09_d+9;Div0;Leg-;Fine roots;3;Lol_peren;109.8;843.8;130.1256222;9
+RT09_d+9;Div0;Leg-;Fine roots;4;Lol_peren;15.5;134.4;115.327381;9
+RT09_d0;Div0;Leg-;Fine roots;1;Bra_napus;22.2;187.7;118.2738412;9
+RT09_d0;Div0;Leg-;Taproot;1;Bra_napus;122.4;830.7;147.3456121;9
+RT09_d0;Div0;Leg-;Fine roots;2;Bra_napus;54;339;159.2920354;9
+RT09_d0;Div0;Leg-;Taproot;2;Bra_napus;46.9;352.6;133.0119115;9
+RT09_d0;Div0;Leg-;Fine roots;3;Bra_napus;156.1;961.8;162.2998544;9
+RT09_d0;Div0;Leg-;Taproot;3;Bra_napus;18.4;107.3;171.4818267;9
+RT09_d0;Div0;Leg-;Fine roots;4;Bra_napus;238.4;2260;105.4867257;9
+RT09_d0;Div0;Leg-;Taproot;4;Bra_napus;4.7;24.9;188.7550201;9
+RT09_d-12;Div0;Leg-;Fine roots;1;Lol_peren;83.6;469.5;178.0617678;9
+RT09_d-12;Div0;Leg-;Fine roots;2;Lol_peren;36.6;233.7;156.6110398;9
+RT09_d-12;Div0;Leg-;Fine roots;3;Lol_peren;20.6;134.2;153.5022355;9
+RT09_d-12;Div0;Leg-;Fine roots;4;Lol_peren;10.2;94.8;107.5949367;9
+RT09_d-15;Div0;Leg-;Fine roots;1;Bra_napus;3.1;15.1;205.2980132;9
+RT09_d-15;Div0;Leg-;Taproot;1;Bra_napus;130.1;849.3;153.1849759;9
+RT09_d-15;Div0;Leg-;Fine roots;2;Bra_napus;89.3;414.8;215.2844744;9
+RT09_d-15;Div0;Leg-;Taproot;2;Bra_napus;44.2;294.6;150.0339443;9
+RT09_d-15;Div0;Leg-;Fine roots;3;Bra_napus;147.5;757;194.8480845;9
+RT09_d-15;Div0;Leg-;Taproot;3;Bra_napus;12.4;72.6;170.7988981;9
+RT09_d-15;Div0;Leg-;Fine roots;4;Bra_napus;184.1;1110.3;165.8110421;9
+RT09_d-18;Div0;Leg-;Fine roots;1;Ver_persi;0.8;8.9;89.88764045;9
+RT09_d-24;Div0;Leg-;Fine roots;1;Lol_peren;25.2;141.7;177.8405081;9
+RT09_d-24;Div0;Leg-;Fine roots;2;Lol_peren;14.2;73.9;192.1515562;9
+RT09_d-24;Div0;Leg-;Fine roots;3;Lol_peren;7.8;49.8;156.626506;9
+RT09_d-3;Div0;Leg-;Fine roots;1;Lol_peren;13.7;94;145.7446809;9
+RT09_d-3;Div0;Leg-;Fine roots;2;Lol_peren;10.6;76;139.4736842;9
+RT09_d-3;Div0;Leg-;Fine roots;3;Lol_peren;12.3;99.5;123.6180905;9
+RT09_d-3;Div0;Leg-;Fine roots;4;Lol_peren;5;50.7;98.61932939;9
+RT09_d-6;Div0;Leg-;Fine roots;1;Ver_persi;1.6;14.6;109.5890411;9
+RT10_d+12;Div1;Leg-;Fine roots;1;Ger_disse;2.2;19;115.7894737;10
+RT10_d+15;Div1;Leg-;Fine roots;1;Bra_napus;18;141.9;126.8498943;10
+RT10_d+15;Div1;Leg-;Taproot;1;Bra_napus;154.6;971;159.2173018;10
+RT10_d+15;Div1;Leg-;Fine roots;2;Bra_napus;132.4;973.2;136.0460337;10
+RT10_d+15;Div1;Leg-;Taproot;2;Bra_napus;48.6;330.6;147.0054446;10
+RT10_d+15;Div1;Leg-;Fine roots;3;Bra_napus;170.8;1356;125.9587021;10
+RT10_d+15;Div1;Leg-;Taproot;3;Bra_napus;21.7;128;169.53125;10
+RT10_d+15;Div1;Leg-;Fine roots;4;Bra_napus;245.8;2073.3;118.5549607;10
+RT10_d+15;Div1;Leg-;Taproot;4;Bra_napus;21;131.5;159.6958175;10
+RT10_d+21;Div1;Leg-;Fine roots;1;Lol_peren;18.5;103.5;178.7439614;10
+RT10_d+3;Div1;Leg-;Fine roots;1;Ger_disse;0.6;3.2;187.5;10
+RT10_d+6;Div1;Leg-;Fine roots;1;Ver_persi;19.9;178.4;111.5470852;10
+RT10_d+6;Div1;Leg-;Fine roots;2;Ver_persi;12.8;112.2;114.0819964;10
+RT10_d+9;Div1;Leg-;Fine roots;1;Lol_peren;97.7;550.3;177.5395239;10
+RT10_d+9;Div1;Leg-;Fine roots;2;Lol_peren;67.8;480.9;140.9856519;10
+RT10_d+9;Div1;Leg-;Fine roots;3;Lol_peren;4.9;49.5;98.98989899;10
+RT10_d0;Div1;Leg-;Fine roots;1;Bra_napus;86.7;701.2;123.6451797;10
+RT10_d0;Div1;Leg-;Taproot;1;Bra_napus;257.4;1481.4;173.7545565;10
+RT10_d0;Div1;Leg-;Fine roots;2;Bra_napus;205.7;1807.6;113.7973003;10
+RT10_d0;Div1;Leg-;Taproot;2;Bra_napus;29.9;255.2;117.1630094;10
+RT10_d0;Div1;Leg-;Fine roots;3;Bra_napus;291;2058.6;141.3582046;10
+RT10_d0;Div1;Leg-;Taproot;3;Bra_napus;20;109.4;182.8153565;10
+RT10_d0;Div1;Leg-;Fine roots;4;Bra_napus;467.9;5457;85.74308228;10
+RT10_d0;Div1;Leg-;Taproot;4;Bra_napus;14.1;81.1;173.8594328;10
+RT10_d-12;Div1;Leg-;Fine roots;1;Lol_peren;20.5;60.3;339.9668325;10
+RT10_d-12;Div1;Leg-;Fine roots;2;Lol_peren;15.2;123.0072024;123.57;10
+RT10_d-12;Div1;Leg-;Fine roots;3;Lol_peren;7.3;30.9;236.2459547;10
+RT10_d-12;Div1;Leg-;Fine roots;4;Lol_peren;2.9;17.3;167.6300578;10
+RT10_d-15;Div1;Leg-;Fine roots;1;Bra_napus;33.3;325.930566;102.169;10
+RT10_d-15;Div1;Leg-;Taproot;1;Bra_napus;21.7;109.1;198.9000917;10
+RT10_d-15;Div1;Leg-;Fine roots;2;Bra_napus;91.9;899.49;102.1690069;10
+RT10_d-18;Div1;Leg-;Fine roots;1;Ver_persi;1.4;15;93.33333333;10
+RT10_d-24;Div1;Leg-;Fine roots;1;Lol_peren;16.1;60.3;266.9983416;10
+RT10_d-24;Div1;Leg-;Fine roots;2;Lol_peren;0.5;1.5;333.3333333;10
+RT10_d-3;Div1;Leg-;Fine roots;1;Lol_peren;24.5;145.6;168.2692308;10
+RT10_d-3;Div1;Leg-;Fine roots;2;Lol_peren;23.1;91.6;252.1834061;10
+RT10_d-3;Div1;Leg-;Fine roots;3;Lol_peren;7.3;30.9;236.2459547;10
+RT10_d-6;Div1;Leg-;Fine roots;1;Ver_persi;4.1;36.8;111.4130435;10
+RT10_d-9;Div1;Leg-;Fine roots;1;Ger_disse;2.4;22.8;105.2631579;10
+RT10_d-9;Div1;Leg-;Fine roots;2;Ger_disse;0.5;4.3;116.2790698;10
+RT11_d+12;Div0;Leg+;Fine roots;1;Tri_alexa;25.9;259.8;99.69207082;11
+RT11_d+12;Div0;Leg+;Fine roots;2;Tri_alexa;18.5;249.1;74.26736251;11
+RT11_d+12;Div0;Leg+;Fine roots;3;Tri_alexa;0.3;2.7;111.1111111;11
+RT11_d+15;Div0;Leg+;Fine roots;1;Bra_napus;3.4;15.5;219.3548387;11
+RT11_d+15;Div0;Leg+;Taproot;1;Bra_napus;47.6;315;151.1111111;11
+RT11_d+15;Div0;Leg+;Fine roots;2;Bra_napus;35.5;125.5;282.8685259;11
+RT11_d+15;Div0;Leg+;Taproot;2;Bra_napus;14.8;89;166.2921348;11
+RT11_d+15;Div0;Leg+;Fine roots;3;Bra_napus;69.9;412.2;169.5778748;11
+RT11_d+15;Div0;Leg+;Taproot;3;Bra_napus;6.7;34.5;194.2028986;11
+RT11_d+15;Div0;Leg+;Fine roots;4;Bra_napus;31.7;253.2;125.1974724;11
+RT11_d+15;Div0;Leg+;Taproot;4;Bra_napus;4.7;26.9;174.7211896;11
+RT11_d+18;Div0;Leg+;Fine roots;1;Ver_persi;0.5;3.4;147.0588235;11
+RT11_d+21;Div0;Leg+;Fine roots;1;Tri_alexa;71.1;540.2;131.6179193;11
+RT11_d+21;Div0;Leg+;Fine roots;2;Tri_alexa;40.8;372.8;109.4420601;11
+RT11_d+21;Div0;Leg+;Fine roots;3;Tri_alexa;23;238.8;96.31490787;11
+RT11_d+21;Div0;Leg+;Fine roots;4;Tri_alexa;15.2;198.3;76.65153807;11
+RT11_d+24;Div0;Leg+;Fine roots;1;Ger_disse;4.4;17.7;248.5875706;11
+RT11_d+3;Div0;Leg+;Fine roots;1;Ger_disse;0.6;2.8;214.2857143;11
+RT11_d+6;Div0;Leg+;Fine roots;1;Tri_alexa;53.4;502.6;106.2475129;11
+RT11_d+6;Div0;Leg+;Fine roots;2;Tri_alexa;41.6;506.5;82.13228036;11
+RT11_d+6;Div0;Leg+;Fine roots;3;Tri_alexa;4.7;31.5;149.2063492;11
+RT11_d+6;Div0;Leg+;Fine roots;4;Tri_alexa;2.2;25.1;87.64940239;11
+RT11_d+9;Div0;Leg+;Fine roots;1;Lol_peren;52.4;300.5;174.3760399;11
+RT11_d+9;Div0;Leg+;Fine roots;2;Lol_peren;78.3;493.4;158.694771;11
+RT11_d+9;Div0;Leg+;Fine roots;3;Lol_peren;20.9;145;144.137931;11
+RT11_d0;Div0;Leg+;Fine roots;1;Bra_napus;42;256.4;163.8065523;11
+RT11_d0;Div0;Leg+;Taproot;1;Bra_napus;246.6;1574.1;156.6609491;11
+RT11_d0;Div0;Leg+;Fine roots;2;Bra_napus;96.8;484.1;199.9586862;11
+RT11_d0;Div0;Leg+;Taproot;2;Bra_napus;75.7;540.8;139.9778107;11
+RT11_d0;Div0;Leg+;Fine roots;3;Bra_napus;369.5;2698;136.9532987;11
+RT11_d0;Div0;Leg+;Taproot;3;Bra_napus;17.6;103.1;170.7080504;11
+RT11_d0;Div0;Leg+;Fine roots;4;Bra_napus;709.7;8317.3;85.3281714;11
+RT11_d0;Div0;Leg+;Taproot;4;Bra_napus;2.9;15.9;182.3899371;11
+RT11_d-12;Div0;Leg+;Fine roots;1;Lol_peren;4;18.7;213.9037433;11
+RT11_d-12;Div0;Leg+;Fine roots;2;Lol_peren;8.3;64.4;128.8819876;11
+RT11_d-12;Div0;Leg+;Fine roots;3;Lol_peren;0.2;3.9;51.28205128;11
+RT11_d-15;Div0;Leg+;Fine roots;1;Bra_napus;10.6;58.4;181.5068493;11
+RT11_d-15;Div0;Leg+;Fine roots;2;Bra_napus;4;29;137.9310345;11
+RT11_d-15;Div0;Leg+;Fine roots;3;Bra_napus;0.5;4.4;113.6363636;11
+RT11_d-21;Div0;Leg+;Fine roots;1;Ger_disse;4;44.8;89.28571429;11
+RT11_d-21;Div0;Leg+;Fine roots;2;Ger_disse;0.8;2.5;320;11
+RT11_d-24;Div0;Leg+;Fine roots;1;Tri_alexa;8.5;91.5;92.89617486;11
+RT11_d-24;Div0;Leg+;Fine roots;2;Tri_alexa;13.3;196.5;67.68447837;11
+RT11_d-24;Div0;Leg+;Fine roots;3;Tri_alexa;0.7;6.62;105.7401813;11
+RT11_d-3;Div0;Leg+;Fine roots;1;Tri_alexa;32.3;225;143.5555556;11
+RT11_d-3;Div0;Leg+;Fine roots;2;Tri_alexa;11.1;116.5;95.27896996;11
+RT11_d-3;Div0;Leg+;Fine roots;3;Tri_alexa;0.9;7.8;115.3846154;11
+RT11_d-6;Div0;Leg+;Fine roots;1;Ver_persi;23.6;235.1;100.3828158;11
+RT11_d-6;Div0;Leg+;Fine roots;2;Ver_persi;17.7;172.2;102.7874564;11
+RT11_d-9;Div0;Leg+;Fine roots;1;Tri_alexa;52.8;398.1;132.6299925;11
+RT11_d-9;Div0;Leg+;Fine roots;2;Tri_alexa;36.9;285.2;129.3828892;11
+RT11_d-9;Div0;Leg+;Fine roots;3;Tri_alexa;17.6;199.8;88.08808809;11
+RT11_d-9;Div0;Leg+;Fine roots;4;Tri_alexa;10.8;136.2;79.29515419;11
+RT12_d+12;Div1;Leg+;Fine roots;1;Tri_alexa;9.7;99.6;97.38955823;12
+RT12_d+12;Div1;Leg+;Fine roots;2;Tri_alexa;2.4;34.4;69.76744186;12
+RT12_d+15;Div1;Leg+;Fine roots;1;Bra_napus;21.3;162.8;130.8353808;12
+RT12_d+15;Div1;Leg+;Taproot;1;Bra_napus;10.2;57.3;178.0104712;12
+RT12_d+15;Div1;Leg+;Fine roots;2;Bra_napus;43.6;324.5;134.3605547;12
+RT12_d+15;Div1;Leg+;Fine roots;3;Bra_napus;5.4;37.6;143.6170213;12
+RT12_d+18;Div1;Leg+;Fine roots;1;Ver_persi;1.1;18.5;59.45945946;12
+RT12_d+21;Div1;Leg+;Fine roots;1;Tri_alexa;40.5;335;120.8955224;12
+RT12_d+21;Div1;Leg+;Fine roots;2;Tri_alexa;27.8;273.7;101.5710632;12
+RT12_d+21;Div1;Leg+;Fine roots;3;Tri_alexa;8.8;131.3;67.02208682;12
+RT12_d+21;Div1;Leg+;Fine roots;4;Tri_alexa;2.8;26.47;105.7801284;12
+RT12_d+24;Div1;Leg+;Fine roots;1;Ger_disse;2.9;26.5;109.4339623;12
+RT12_d+24;Div1;Leg+;Fine roots;2;Ger_disse;3.4;29;117.2413793;12
+RT12_d+9;Div1;Leg+;Fine roots;1;Lol_peren;115.3;912.6;126.3423187;12
+RT12_d+9;Div1;Leg+;Fine roots;2;Lol_peren;89.7;762.5;117.6393443;12
+RT12_d+9;Div1;Leg+;Fine roots;3;Lol_peren;21.6;217.4;99.35602576;12
+RT12_d+9;Div1;Leg+;Fine roots;4;Lol_peren;4.5;47.2;95.33898305;12
+RT12_d0;Div1;Leg+;Fine roots;1;Bra_napus;128.8;1184.4;108.7470449;12
+RT12_d0;Div1;Leg+;Taproot;1;Bra_napus;247.1;1404.7;175.9094469;12
+RT12_d0;Div1;Leg+;Fine roots;2;Bra_napus;221.1;1837.1;120.3527298;12
+RT12_d0;Div1;Leg+;Taproot;2;Bra_napus;52;349.1;148.9544543;12
+RT12_d0;Div1;Leg+;Fine roots;3;Bra_napus;523.6;4465.5;117.2545068;12
+RT12_d0;Div1;Leg+;Taproot;3;Bra_napus;17.2;125.2;137.3801917;12
+RT12_d0;Div1;Leg+;Fine roots;4;Bra_napus;465.1;5243.6;88.69860401;12
+RT12_d0;Div1;Leg+;Taproot;4;Bra_napus;2;14.4;138.8888889;12
+RT12_d-12;Div1;Leg+;Fine roots;1;Lol_peren;23.3;211.5;110.1654846;12
+RT12_d-12;Div1;Leg+;Fine roots;2;Lol_peren;3.2;29.3;109.2150171;12
+RT12_d-15;Div1;Leg+;Fine roots;1;Bra_napus;43;423.3;101.5828018;12
+RT12_d-15;Div1;Leg+;Taproot;1;Bra_napus;12.4;64.1;193.4477379;12
+RT12_d-15;Div1;Leg+;Fine roots;2;Bra_napus;40.5;435.6;92.97520661;12
+RT12_d-15;Div1;Leg+;Fine roots;3;Bra_napus;12.5;140.1;89.2219843;12
+RT12_d-15;Div1;Leg+;Fine roots;4;Bra_napus;0.1;1.2;83.33333333;12
+RT12_d-18;Div1;Leg+;Fine roots;1;Tri_alexa;3.9;48.8;79.91803279;12
+RT12_d-18;Div1;Leg+;Fine roots;2;Tri_alexa;4.9;64.4;76.08695652;12
+RT12_d-21;Div1;Leg+;Fine roots;1;Ger_disse;0.2;3.3;60.60606061;12
+RT12_d-24;Div1;Leg+;Fine roots;1;Tri_alexa;22.2;242.7;91.47095179;12
+RT12_d-24;Div1;Leg+;Fine roots;2;Tri_alexa;7.7;23.9;322.1757322;12
+RT12_d-3;Div1;Leg+;Fine roots;1;Tri_alexa;25.2;244.6;103.0253475;12
+RT12_d-3;Div1;Leg+;Fine roots;2;Tri_alexa;16.8;191.2;87.86610879;12
+RT12_d-6;Div1;Leg+;Fine roots;1;Ver_persi;7.3;78.6;92.87531807;12
+RT12_d-9;Div1;Leg+;Fine roots;1;Tri_alexa;9.8;119;82.35294118;12
+RT12_d-9;Div1;Leg+;Fine roots;2;Tri_alexa;1.7;22.4;75.89285714;12
+RT13_d+12;Div2;Leg+;Fine roots;1;Tri_alexa;4.5;48.2;93.36099585;13
+RT13_d+12;Div2;Leg+;Fine roots;2;Tri_alexa;0.1;0.95;105.2631579;13
+RT13_d+15;Div2;Leg+;Fine roots;1;Bra_napus;47.5;444.1;106.9578924;13
+RT13_d+15;Div2;Leg+;Taproot;1;Bra_napus;99.2;572.3;173.3356631;13
+RT13_d+15;Div2;Leg+;Fine roots;2;Bra_napus;98.2;822.4;119.4066148;13
+RT13_d+15;Div2;Leg+;Taproot;2;Bra_napus;35.2;245.5;143.3808554;13
+RT13_d+15;Div2;Leg+;Fine roots;3;Bra_napus;150;1376.8;108.9482859;13
+RT13_d+15;Div2;Leg+;Fine roots;4;Bra_napus;18.9;260;72.69230769;13
+RT13_d+18;Div2;Leg+;Fine roots;1;Ver_persi;11.6;101.5;114.2857143;13
+RT13_d+21;Div2;Leg+;Fine roots;1;Tri_alexa;21.4;187.5;114.1333333;13
+RT13_d+21;Div2;Leg+;Fine roots;2;Tri_alexa;8.6;74.4;115.5913978;13
+RT13_d+21;Div2;Leg+;Fine roots;3;Tri_alexa;1.2;10.3;116.5048544;13
+RT13_d+6;Div2;Leg+;Fine roots;1;Tri_alexa;18.1;146.2;123.8030096;13
+RT13_d+6;Div2;Leg+;Fine roots;2;Tri_alexa;20.5;138.4;148.1213873;13
+RT13_d+6;Div2;Leg+;Fine roots;3;Tri_alexa;0.5;2.6;192.3076923;13
+RT13_d+9;Div2;Leg+;Fine roots;1;Lol_peren;139.4;1338.7;104.1308732;13
+RT13_d+9;Div2;Leg+;Fine roots;2;Lol_peren;62.1;483.6;128.4119107;13
+RT13_d+9;Div2;Leg+;Fine roots;3;Lol_peren;27.7;215.9;128.300139;13
+RT13_d+9;Div2;Leg+;Fine roots;4;Lol_peren;2.1;20;105;13
+RT13_d0;Div2;Leg+;Fine roots;1;Bra_napus;49.4;487.6;101.3125513;13
+RT13_d0;Div2;Leg+;Taproot;1;Bra_napus;177.8;1158.3;153.5008202;13
+RT13_d0;Div2;Leg+;Fine roots;2;Bra_napus;150.6;1520.1;99.07242945;13
+RT13_d0;Div2;Leg+;Taproot;2;Bra_napus;42.5;267.2;159.0568862;13
+RT13_d0;Div2;Leg+;Fine roots;3;Bra_napus;395.5;3564.1;110.9677057;13
+RT13_d0;Div2;Leg+;Taproot;3;Bra_napus;22.5;141.2;159.3484419;13
+RT13_d0;Div2;Leg+;Fine roots;4;Bra_napus;158.5;1692.8;93.63185255;13
+RT13_d-12;Div2;Leg+;Fine roots;1;Lol_peren;16.6;127.6;130.0940439;13
+RT13_d-12;Div2;Leg+;Fine roots;2;Lol_peren;2.5;31.2;80.12820513;13
+RT13_d-15;Div2;Leg+;Fine roots;1;Bra_napus;72.1;787;91.613723;13
+RT13_d-15;Div2;Leg+;Taproot;1;Bra_napus;108.5;597.7;181.5291952;13
+RT13_d-15;Div2;Leg+;Fine roots;2;Bra_napus;67.1;663.2;101.1761158;13
+RT13_d-15;Div2;Leg+;Taproot;2;Bra_napus;22.4;127.6;175.5485893;13
+RT13_d-15;Div2;Leg+;Fine roots;3;Bra_napus;92.1;742.2;124.0905416;13
+RT13_d-15;Div2;Leg+;Taproot;3;Bra_napus;18.1;108.4;166.9741697;13
+RT13_d-15;Div2;Leg+;Fine roots;4;Bra_napus;121.5;1440.2;84.36328288;13
+RT13_d-18;Div2;Leg+;Fine roots;1;Tri_alexa;5.9;62.6;94.24920128;13
+RT13_d-18;Div2;Leg+;Fine roots;2;Tri_alexa;2;23.9;83.68200837;13
+RT13_d-24;Div2;Leg+;Fine roots;1;Tri_alexa;3.9;24.7;157.8947368;13
+RT13_d-24;Div2;Leg+;Fine roots;2;Tri_alexa;1;3.6;277.7777778;13
+RT13_d-3;Div2;Leg+;Fine roots;1;Tri_alexa;7.5;50.9;147.3477407;13
+RT13_d-3;Div2;Leg+;Fine roots;2;Tri_alexa;14.7;143.7;102.2964509;13
+RT13_d-3;Div2;Leg+;Fine roots;3;Tri_alexa;3.9;39;100;13
+RT13_d-3;Div2;Leg+;Fine roots;4;Tri_alexa;0.3;3.9;76.92307692;13
+RT13_d-6;Div2;Leg+;Fine roots;1;Ver_persi;2;16.9;118.3431953;13
+RT13_d-9;Div2;Leg+;Fine roots;1;Tri_alexa;26.3;242.2;108.5879438;13
+RT13_d-9;Div2;Leg+;Fine roots;2;Tri_alexa;1.6;16;100;13
+RT14_d+12;Div3;Leg+;Fine roots;1;Tri_alexa;7.4;66.4;111.4457831;14
+RT14_d+12;Div3;Leg+;Fine roots;2;Tri_alexa;0.7;7.4;94.59459459;14
+RT14_d+15;Div3;Leg+;Fine roots;1;Bra_napus;43.8;271.1;161.5639985;14
+RT14_d+15;Div3;Leg+;Taproot;1;Bra_napus;70.6;452.1;156.1601416;14
+RT14_d+15;Div3;Leg+;Fine roots;2;Bra_napus;109.9;915.3;120.0699224;14
+RT14_d+15;Div3;Leg+;Taproot;2;Bra_napus;6.3;61.66253952;102.169;14
+RT14_d+15;Div3;Leg+;Fine roots;3;Bra_napus;181.8;1768;102.8280543;14
+RT14_d+15;Div3;Leg+;Taproot;3;Bra_napus;19.5;50;390;14
+RT14_d+15;Div3;Leg+;Fine roots;4;Bra_napus;93.6;1312.9;71.29255846;14
+RT14_d+15;Div3;Leg+;Taproot;4;Bra_napus;6.2;70.3;88.19345661;14
+RT14_d+18;Div3;Leg+;Fine roots;1;Ver_persi;1.8;27.3;65.93406593;14
+RT14_d+24;Div3;Leg+;Fine roots;1;Ger_disse;2.3;20;115;14
+RT14_d+24;Div3;Leg+;Fine roots;2;Ger_disse;0.7;9.1;76.92307692;14
+RT14_d+6;Div3;Leg+;Fine roots;1;Tri_alexa;8.5;161.4;52.66418835;14
+RT14_d+6;Div3;Leg+;Fine roots;2;Tri_alexa;2.6;24.58;105.7770545;14
+RT14_d+9;Div3;Leg+;Fine roots;1;Lol_peren;72.2;542.3;133.1366402;14
+RT14_d+9;Div3;Leg+;Fine roots;2;Lol_peren;48;368;130.4347826;14
+RT14_d+9;Div3;Leg+;Fine roots;3;Lol_peren;3.2;23;139.1304348;14
+RT14_d0;Div3;Leg+;Fine roots;1;Bra_napus;64.5;557.9;115.6121169;14
+RT14_d0;Div3;Leg+;Taproot;1;Bra_napus;202.3;1258.3;160.7724708;14
+RT14_d0;Div3;Leg+;Fine roots;2;Bra_napus;140.4;1374.193738;102.169;14
+RT14_d0;Div3;Leg+;Taproot;2;Bra_napus;31.9;191.3;166.7537899;14
+RT14_d0;Div3;Leg+;Fine roots;3;Bra_napus;447.9;4368.9;102.5200851;14
+RT14_d0;Div3;Leg+;Taproot;3;Bra_napus;24.5;135.7;180.5453206;14
+RT14_d0;Div3;Leg+;Fine roots;4;Bra_napus;434.4;3135.980581;138.5212659;14
+RT14_d0;Div3;Leg+;Taproot;4;Bra_napus;17.4;222.8;78.09694794;14
+RT14_d-12;Div3;Leg+;Fine roots;1;Lol_peren;68;556.6;122.1703198;14
+RT14_d-12;Div3;Leg+;Fine roots;2;Lol_peren;93.2;866.2;107.5963981;14
+RT14_d-12;Div3;Leg+;Fine roots;3;Lol_peren;12.3;124.9;98.47878303;14
+RT14_d-15;Div3;Leg+;Fine roots;1;Bra_napus;7.4;59.9;123.5392321;14
+RT14_d-15;Div3;Leg+;Taproot;1;Bra_napus;15.5;87.5;177.1428571;14
+RT14_d-15;Div3;Leg+;Fine roots;2;Bra_napus;34.7;313.7;110.6152375;14
+RT14_d-15;Div3;Leg+;Taproot;2;Bra_napus;6.3;42.6;147.8873239;14
+RT14_d-15;Div3;Leg+;Fine roots;3;Bra_napus;19;208.6;91.08341323;14
+RT14_d-15;Div3;Leg+;Taproot;3;Bra_napus;4.9;32.9;148.9361702;14
+RT14_d-15;Div3;Leg+;Fine roots;4;Bra_napus;5.6805964;55.6;102.169;14
+RT14_d-15;Div3;Leg+;Taproot;4;Bra_napus;4.6589064;45.6;102.169;14
+RT14_d-3;Div3;Leg+;Fine roots;1;Tri_alexa;14.8;161.4;91.6976456;14
+RT14_d-3;Div3;Leg+;Fine roots;2;Tri_alexa;7.4;76.6;96.60574413;14
+RT14_d-6;Div3;Leg+;Fine roots;1;Ver_persi;3.4;49.9;68.13627255;14
+RT14_d-9;Div3;Leg+;Fine roots;1;Tri_alexa;18.7;119.9;155.9633028;14
+RT14_d-9;Div3;Leg+;Fine roots;2;Tri_alexa;37;340.8;108.5680751;14
+RT14_d-9;Div3;Leg+;Fine roots;3;Tri_alexa;28.5;348.2;81.84951177;14
+RT14_d-9;Div3;Leg+;Fine roots;4;Tri_alexa;9.1;129;70.54263566;14
+RT15_d+12;Div0;Leg+;Fine roots;1;Tri_alexa;18.7;166.3;112.4473842;15
+RT15_d+12;Div0;Leg+;Fine roots;2;Tri_alexa;16.7;191.7;87.1152843;15
+RT15_d+12;Div0;Leg+;Fine roots;3;Tri_alexa;9.5;121.9;77.93273175;15
+RT15_d+12;Div0;Leg+;Fine roots;4;Tri_alexa;4.3;74;58.10810811;15
+RT15_d+15;Div0;Leg+;Fine roots;1;Bra_napus;28.3;162.6;174.0467405;15
+RT15_d+15;Div0;Leg+;Taproot;1;Bra_napus;95.4;606.9;157.1922887;15
+RT15_d+15;Div0;Leg+;Fine roots;2;Bra_napus;95;709.4;133.9159853;15
+RT15_d+15;Div0;Leg+;Taproot;2;Bra_napus;15.8;95.7;165.0992685;15
+RT15_d+15;Div0;Leg+;Fine roots;3;Bra_napus;196.7;2251.2;87.37562189;15
+RT15_d+15;Div0;Leg+;Fine roots;4;Bra_napus;119.4;1673.8;71.33468754;15
+RT15_d+18;Div0;Leg+;Fine roots;1;Ver_persi;5.7;65.8;86.62613982;15
+RT15_d+18;Div0;Leg+;Fine roots;2;Ver_persi;0.2;7;28.57142857;15
+RT15_d+21;Div0;Leg+;Fine roots;1;Tri_alexa;36.5;263.3;138.6251424;15
+RT15_d+21;Div0;Leg+;Fine roots;2;Tri_alexa;52.5;546.9;95.99561163;15
+RT15_d+21;Div0;Leg+;Fine roots;3;Tri_alexa;26.1;299.9;87.02900967;15
+RT15_d+21;Div0;Leg+;Fine roots;4;Tri_alexa;8.4;145.1;57.89110958;15
+RT15_d+3;Div0;Leg+;Fine roots;1;Ger_disse;0.6;5.3;113.2075472;15
+RT15_d+9;Div0;Leg+;Fine roots;1;Lol_peren;85.5;730.6;117.027101;15
+RT15_d+9;Div0;Leg+;Fine roots;2;Lol_peren;99.8;912.6;109.3578786;15
+RT15_d+9;Div0;Leg+;Fine roots;3;Lol_peren;46.5;435.9;106.6758431;15
+RT15_d0;Div0;Leg+;Fine roots;1;Bra_napus;57.8;461.3;125.2980707;15
+RT15_d0;Div0;Leg+;Taproot;1;Bra_napus;253.3;1441.3;175.7441199;15
+RT15_d0;Div0;Leg+;Fine roots;2;Bra_napus;149.5;1367.7;109.3075967;15
+RT15_d0;Div0;Leg+;Taproot;2;Bra_napus;64.5;417.3;154.5650611;15
+RT15_d0;Div0;Leg+;Fine roots;3;Bra_napus;319.6;2726.2;117.2327782;15
+RT15_d0;Div0;Leg+;Taproot;3;Bra_napus;12.8;73.4;174.386921;15
+RT15_d0;Div0;Leg+;Fine roots;4;Bra_napus;533.1;6782.2;78.60281325;15
+RT15_d0;Div0;Leg+;Taproot;4;Bra_napus;1.4;4.6;304.3478261;15
+RT15_d-12;Div0;Leg+;Fine roots;1;Lol_peren;24.9;221.9;112.2127084;15
+RT15_d-12;Div0;Leg+;Fine roots;2;Lol_peren;10.2;103.9;98.17131858;15
+RT15_d-15;Div0;Leg+;Fine roots;1;Bra_napus;35.3;359.8;98.11006115;15
+RT15_d-15;Div0;Leg+;Taproot;1;Bra_napus;20.2;89.3;226.2038074;15
+RT15_d-15;Div0;Leg+;Fine roots;2;Bra_napus;19.9;283.9;70.09510391;15
+RT15_d-18;Div0;Leg+;Fine roots;1;Tri_alexa;11.2;109.6;102.189781;15
+RT15_d-24;Div0;Leg+;Fine roots;1;Tri_alexa;11.8;100.4;117.5298805;15
+RT15_d-3;Div0;Leg+;Fine roots;1;Tri_alexa;15.4;146.1;105.4072553;15
+RT15_d-3;Div0;Leg+;Fine roots;2;Tri_alexa;7.1;86.8;81.79723502;15
+RT15_d-3;Div0;Leg+;Fine roots;3;Tri_alexa;0.9;15.2;59.21052632;15
+RT15_d-6;Div0;Leg+;Fine roots;1;Ver_persi;28.6;319.7;89.45886769;15
+RT15_d-6;Div0;Leg+;Fine roots;2;Ver_persi;2.7;26.4;102.2727273;15
+RT15_d-9;Div0;Leg+;Fine roots;1;Tri_alexa;1.9;17.97;105.7317752;15
+RT15_d-9;Div0;Leg+;Fine roots;2;Tri_alexa;4;26.2;152.6717557;15
+RT16_d+12;Div1;Leg+;Fine roots;1;Tri_alexa;15;120.2;124.7920133;16
+RT16_d+12;Div1;Leg+;Fine roots;2;Tri_alexa;12.1;114.3;105.8617673;16
+RT16_d+12;Div1;Leg+;Fine roots;3;Tri_alexa;0.9;11;81.81818182;16
+RT16_d+15;Div1;Leg+;Fine roots;1;Bra_napus;53.2;483.4;110.0537857;16
+RT16_d+15;Div1;Leg+;Taproot;1;Bra_napus;201.2;1030.3;195.2829273;16
+RT16_d+15;Div1;Leg+;Fine roots;2;Bra_napus;199.5;2052.6;97.19380298;16
+RT16_d+15;Div1;Leg+;Taproot;2;Bra_napus;36.2;354.3149096;102.169;16
+RT16_d+15;Div1;Leg+;Fine roots;3;Bra_napus;249.7;2110.7;118.3019851;16
+RT16_d+15;Div1;Leg+;Taproot;3;Bra_napus;18.5;127;145.6692913;16
+RT16_d+15;Div1;Leg+;Fine roots;4;Bra_napus;178.2;2469;72.17496962;16
+RT16_d+15;Div1;Leg+;Taproot;4;Bra_napus;12;112.8;106.3829787;16
+RT16_d+18;Div1;Leg+;Fine roots;1;Ver_persi;0.1;0.6;166.6666667;16
+RT16_d+21;Div1;Leg+;Fine roots;1;Tri_alexa;5.9;60.9;96.88013136;16
+RT16_d+24;Div1;Leg+;Fine roots;1;Ger_disse;0.6;5.8;103.4482759;16
+RT16_d+3;Div1;Leg+;Fine roots;1;Ger_disse;2.3;26.3;87.45247148;16
+RT16_d+3;Div1;Leg+;Fine roots;2;Ger_disse;0.2;3.8;52.63157895;16
+RT16_d+6;Div1;Leg+;Fine roots;1;Tri_alexa;10.7;117.2;91.29692833;16
+RT16_d+6;Div1;Leg+;Fine roots;2;Tri_alexa;4.1;49.5;82.82828283;16
+RT16_d+9;Div1;Leg+;Fine roots;1;Lol_peren;91.6;823.5;111.232544;16
+RT16_d+9;Div1;Leg+;Fine roots;2;Lol_peren;88.9;839.3;105.9216013;16
+RT16_d+9;Div1;Leg+;Fine roots;3;Lol_peren;33.5;357.4;93.73251259;16
+RT16_d+9;Div1;Leg+;Fine roots;4;Lol_peren;13.1;93.6;139.957265;16
+RT16_d0;Div1;Leg+;Fine roots;1;Bra_napus;39.6;369.2;107.2589382;16
+RT16_d0;Div1;Leg+;Taproot;1;Bra_napus;230.1;1359.6;169.2409532;16
+RT16_d0;Div1;Leg+;Fine roots;2;Bra_napus;234.5;2044.5;114.6979702;16
+RT16_d0;Div1;Leg+;Taproot;2;Bra_napus;65.7;422.2;155.6134533;16
+RT16_d0;Div1;Leg+;Fine roots;3;Bra_napus;326.4;3253.9;100.3103968;16
+RT16_d0;Div1;Leg+;Taproot;3;Bra_napus;20;115.9;172.5625539;16
+RT16_d0;Div1;Leg+;Fine roots;4;Bra_napus;417.2;4807.5;86.78107124;16
+RT16_d0;Div1;Leg+;Taproot;4;Bra_napus;14.9;83.1;179.3020457;16
+RT16_d-12;Div1;Leg+;Fine roots;1;Lol_peren;4.8;31.8;150.9433962;16
+RT16_d-12;Div1;Leg+;Fine roots;2;Lol_peren;0.9;8.3;108.4337349;16
+RT16_d-18;Div1;Leg+;Fine roots;1;Tri_alexa;14.2;146.6;96.8622101;16
+RT16_d-18;Div1;Leg+;Fine roots;2;Tri_alexa;1.1;12.8;85.9375;16
+RT16_d-24;Div1;Leg+;Fine roots;1;Tri_alexa;4.1;33;124.2424242;16
+RT16_d-24;Div1;Leg+;Fine roots;2;Tri_alexa;16.2;187.8;86.26198083;16
+RT16_d-6;Div1;Leg+;Fine roots;1;Ver_persi;2.3;28.3;81.27208481;16
+RT17_d+21;Div2;Leg+;Fine roots;1;Tri_alexa;27.3;286;95.45454545;17
+RT17_d+21;Div2;Leg+;Fine roots;2;Tri_alexa;23;299.7;76.74341008;17
+RT17_d+21;Div2;Leg+;Fine roots;3;Tri_alexa;1.5;14.18;105.7827927;17
+RT17_d+24;Div2;Leg+;Fine roots;1;Ger_disse;5;59.5;84.03361345;17
+RT17_d+24;Div2;Leg+;Fine roots;2;Ger_disse;5.2;87.6;59.36073059;17
+RT17_d+24;Div2;Leg+;Fine roots;3;Ger_disse;0.3;4.6;65.2173913;17
+RT17_d+3;Div2;Leg+;Fine roots;1;Ger_disse;1;9.3;107.5268817;17
+RT17_d+6;Div2;Leg+;Fine roots;1;Tri_alexa;18.3;180.5;101.3850416;17
+RT17_d+6;Div2;Leg+;Fine roots;2;Tri_alexa;5.8;79.4;73.04785894;17
+RT17_d+9;Div2;Leg+;Fine roots;1;Lol_peren;94.6;765.5579833;123.57;17
+RT17_d+9;Div2;Leg+;Fine roots;2;Lol_peren;165.3;1337.703326;123.57;17
+RT17_d+9;Div2;Leg+;Fine roots;3;Lol_peren;28.5;379.2;75.15822785;17
+RT17_d+9;Div2;Leg+;Fine roots;4;Lol_peren;0.3;2.427773731;123.57;17
+RT17_d0;Div2;Leg+;Fine roots;1;Bra_napus;33.4;326.9;102.171918;17
+RT17_d0;Div2;Leg+;Fine roots;2;Bra_napus;8.1;54.3;149.1712707;17
+RT17_d-12;Div2;Leg+;Fine roots;1;Lol_peren;30.2;209.7;144.0152599;17
+RT17_d-12;Div2;Leg+;Fine roots;2;Lol_peren;30.5;272.5;111.9266055;17
+RT17_d-12;Div2;Leg+;Fine roots;3;Lol_peren;14.6;150.4;97.07446809;17
+RT17_d-12;Div2;Leg+;Fine roots;4;Lol_peren;4.2;45.4;92.51101322;17
+RT17_d-15;Div2;Leg+;Fine roots;1;Bra_napus;125;904.1;138.2590421;17
+RT17_d-15;Div2;Leg+;Taproot;1;Bra_napus;159.3;808;197.1534653;17
+RT17_d-15;Div2;Leg+;Fine roots;2;Bra_napus;265.8;2106.6;126.174879;17
+RT17_d-15;Div2;Leg+;Taproot;2;Bra_napus;25.6;121.2;211.2211221;17
+RT17_d-15;Div2;Leg+;Fine roots;3;Bra_napus;361.1;3355.3;107.6207791;17
+RT17_d-15;Div2;Leg+;Taproot;3;Bra_napus;19.9;106.9;186.1552853;17
+RT17_d-15;Div2;Leg+;Fine roots;4;Bra_napus;237.7;3119.7;76.19322371;17
+RT17_d-15;Div2;Leg+;Taproot;4;Bra_napus;1;9.79;102.145046;17
+RT17_d-18;Div2;Leg+;Fine roots;1;Tri_alexa;7.3;64.7;112.8284389;17
+RT17_d-18;Div2;Leg+;Fine roots;2;Tri_alexa;1.7;21.1;80.56872038;17
+RT17_d-24;Div2;Leg+;Fine roots;1;Tri_alexa;6;54.3;110.4972376;17
+RT17_d-24;Div2;Leg+;Fine roots;2;Tri_alexa;2.8;20.6;135.9223301;17
+RT17_d-3;Div2;Leg+;Fine roots;1;Tri_alexa;43.7;307.7;142.0214495;17
+RT17_d-3;Div2;Leg+;Fine roots;2;Tri_alexa;54.6;597.3;91.41135108;17
+RT17_d-3;Div2;Leg+;Fine roots;3;Tri_alexa;8.3;101.2;82.01581028;17
+RT17_d-3;Div2;Leg+;Fine roots;4;Tri_alexa;3.5;33.09;105.7721366;17
+RT17_d-6;Div2;Leg+;Fine roots;1;Ver_persi;3.7;41.9;88.30548926;17
+RT17_d-9;Div2;Leg+;Fine roots;1;Tri_alexa;5.3;50.9;104.1257367;17
+RT17_d-9;Div2;Leg+;Fine roots;2;Tri_alexa;11;129.6;84.87654321;17
+RT17_d-9;Div2;Leg+;Fine roots;3;Tri_alexa;1.8;29.7;60.60606061;17
+RT18_d+12;Div3;Leg+;Fine roots;1;Tri_alexa;7.7;71.2;108.1460674;18
+RT18_d+15;Div3;Leg+;Fine roots;1;Bra_napus;91.4;1152.8;79.2852186;18
+RT18_d+15;Div3;Leg+;Taproot;1;Bra_napus;37;163.4;226.4381885;18
+RT18_d+15;Div3;Leg+;Fine roots;2;Bra_napus;100.4;998.8;100.5206247;18
+RT18_d+15;Div3;Leg+;Fine roots;3;Bra_napus;2.50518388;24.52;102.169;18
+RT18_d+21;Div3;Leg+;Fine roots;1;Tri_alexa;6.1235619;57.9;105.761;18
+RT18_d+24;Div3;Leg+;Fine roots;1;Ger_disse;0.2;5.3;37.73584906;18
+RT18_d+3;Div3;Leg+;Fine roots;1;Ger_disse;1.8;11.3;159.2920354;18
+RT18_d+6;Div3;Leg+;Fine roots;1;Tri_alexa;9.8;78.2;125.3196931;18
+RT18_d+6;Div3;Leg+;Fine roots;2;Tri_alexa;6.1;103.1;59.16585839;18
+RT18_d+6;Div3;Leg+;Fine roots;3;Tri_alexa;8.1;99.5;81.40703518;18
+RT18_d+6;Div3;Leg+;Fine roots;4;Tri_alexa;4.8;24.3;197.5308642;18
+RT18_d+9;Div3;Leg+;Fine roots;1;Lol_peren;43.2;343.5;125.7641921;18
+RT18_d+9;Div3;Leg+;Fine roots;2;Lol_peren;51.4;429.8;119.5905072;18
+RT18_d+9;Div3;Leg+;Fine roots;3;Lol_peren;9.8;81.4;120.3931204;18
+RT18_d+9;Div3;Leg+;Fine roots;4;Lol_peren;0.9;10.5;85.71428571;18
+RT18_d0;Div3;Leg+;Fine roots;1;Bra_napus;93.1;983.4;94.67154769;18
+RT18_d0;Div3;Leg+;Taproot;1;Bra_napus;113.1;796;142.0854271;18
+RT18_d0;Div3;Leg+;Fine roots;2;Bra_napus;334.5;3077.9;108.6779947;18
+RT18_d0;Div3;Leg+;Taproot;2;Bra_napus;31.4;221.5;141.7607223;18
+RT18_d0;Div3;Leg+;Fine roots;3;Bra_napus;259.7;2254.1;115.2122798;18
+RT18_d0;Div3;Leg+;Taproot;3;Bra_napus;1;7.8;128.2051282;18
+RT18_d0;Div3;Leg+;Fine roots;4;Bra_napus;86.4;686.3;125.8924669;18
+RT18_d-12;Div3;Leg+;Fine roots;1;Lol_peren;35.4;295.1;119.9593358;18
+RT18_d-12;Div3;Leg+;Fine roots;2;Lol_peren;7.3;73.5;99.31972789;18
+RT18_d-12;Div3;Leg+;Fine roots;3;Lol_peren;1.4;18.1;77.3480663;18
+RT18_d-15;Div3;Leg+;Fine roots;1;Bra_napus;40.9;388.3;105.3309297;18
+RT18_d-15;Div3;Leg+;Taproot;1;Bra_napus;48.4;237.4;203.8753159;18
+RT18_d-15;Div3;Leg+;Fine roots;2;Bra_napus;64.6;588.5;109.7706032;18
+RT18_d-15;Div3;Leg+;Taproot;2;Bra_napus;25.5;150;170;18
+RT18_d-15;Div3;Leg+;Fine roots;3;Bra_napus;84.8;729.1;116.3077767;18
+RT18_d-15;Div3;Leg+;Taproot;3;Bra_napus;16.8;128.3;130.9431021;18
+RT18_d-15;Div3;Leg+;Fine roots;4;Bra_napus;21.2;368.1;57.59304537;18
+RT18_d-18;Div3;Leg+;Fine roots;1;Tri_alexa;14;119.1;117.5482788;18
+RT18_d-18;Div3;Leg+;Fine roots;2;Tri_alexa;5.4;49;110.2040816;18
+RT18_d-24;Div3;Leg+;Fine roots;1;Tri_alexa;9.9;91.5;108.1967213;18
+RT18_d-24;Div3;Leg+;Fine roots;2;Tri_alexa;3;28.9;103.8062284;18
+RT18_d-3;Div3;Leg+;Fine roots;1;Tri_alexa;5.6;58;96.55172414;18
+RT18_d-3;Div3;Leg+;Fine roots;2;Tri_alexa;2.3;18.8;122.3404255;18
+RT18_d-6;Div3;Leg+;Fine roots;1;Ver_persi;0.1;3.6;27.77777778;18
+RT19_d+12;Div0;Leg+;Fine roots;1;Tri_alexa;8.9;82.1;108.4043849;19
+RT19_d+12;Div0;Leg+;Fine roots;2;Tri_alexa;3;21.6;138.8888889;19
+RT19_d+15;Div0;Leg+;Fine roots;1;Bra_napus;24.3;177.9;136.5935919;19
+RT19_d+15;Div0;Leg+;Taproot;1;Bra_napus;115.6;724.5;159.5583161;19
+RT19_d+15;Div0;Leg+;Fine roots;2;Bra_napus;86.1;773.2;111.3554061;19
+RT19_d+15;Div0;Leg+;Taproot;2;Bra_napus;41.8;262.3;159.359512;19
+RT19_d+15;Div0;Leg+;Fine roots;3;Bra_napus;188.8;1909.4;98.87922908;19
+RT19_d+15;Div0;Leg+;Taproot;3;Bra_napus;7.7;34.9;220.6303725;19
+RT19_d+15;Div0;Leg+;Fine roots;4;Bra_napus;126.6;1704.7;74.26526662;19
+RT19_d+18;Div0;Leg+;Fine roots;1;Ver_persi;0.3;1;300;19
+RT19_d+24;Div0;Leg+;Fine roots;1;Ger_disse;2.4;22;109.0909091;19
+RT19_d+24;Div0;Leg+;Fine roots;2;Ger_disse;4.8;53.2;90.22556391;19
+RT19_d+3;Div0;Leg+;Fine roots;1;Ger_disse;1.6;14.3;111.8881119;19
+RT19_d+6;Div0;Leg+;Fine roots;1;Tri_alexa;3.9;34.2;114.0350877;19
+RT19_d+6;Div0;Leg+;Fine roots;2;Tri_alexa;4.2;42.3;99.29078014;19
+RT19_d+9;Div0;Leg+;Fine roots;1;Lol_peren;51.9;393.6;131.8597561;19
+RT19_d+9;Div0;Leg+;Fine roots;2;Lol_peren;65.8;575.8;114.2757902;19
+RT19_d0;Div0;Leg+;Fine roots;1;Bra_napus;34.4;277.7;123.8746849;19
+RT19_d0;Div0;Leg+;Taproot;1;Bra_napus;79.1;465.2;170.0343938;19
+RT19_d0;Div0;Leg+;Fine roots;2;Bra_napus;91.3;636.6;143.418159;19
+RT19_d0;Div0;Leg+;Taproot;2;Bra_napus;16.6;97.7;169.9078813;19
+RT19_d0;Div0;Leg+;Fine roots;3;Bra_napus;186.7;1528.7;122.1299143;19
+RT19_d0;Div0;Leg+;Taproot;3;Bra_napus;5.4;42.8;126.1682243;19
+RT19_d0;Div0;Leg+;Fine roots;4;Bra_napus;155.3;1573.9;98.67208844;19
+RT19_d-12;Div0;Leg+;Fine roots;1;Lol_peren;35;289.5;120.8981002;19
+RT19_d-12;Div0;Leg+;Fine roots;2;Lol_peren;12.6;107.6;117.1003717;19
+RT19_d-15;Div0;Leg+;Fine roots;1;Bra_napus;30.7;208.4;147.3128599;19
+RT19_d-15;Div0;Leg+;Taproot;1;Bra_napus;111.7;715.4;156.1364272;19
+RT19_d-15;Div0;Leg+;Fine roots;2;Bra_napus;83.6;579.6;144.2374051;19
+RT19_d-15;Div0;Leg+;Taproot;2;Bra_napus;58.6;368.9;158.850637;19
+RT19_d-15;Div0;Leg+;Fine roots;3;Bra_napus;96.7;733.1;131.9056063;19
+RT19_d-15;Div0;Leg+;Fine roots;4;Bra_napus;73.9;643.2;114.8942786;19
+RT19_d-18;Div0;Leg+;Fine roots;1;Tri_alexa;17.3;151.5;114.1914191;19
+RT19_d-18;Div0;Leg+;Fine roots;2;Tri_alexa;15.1;155.3;97.23116549;19
+RT19_d-18;Div0;Leg+;Fine roots;3;Tri_alexa;1.3;18.7;69.51871658;19
+RT19_d-21;Div0;Leg+;Fine roots;1;Ger_disse;1.1;10.5;104.7619048;19
+RT19_d-24;Div0;Leg+;Fine roots;1;Tri_alexa;5.2;29.1;178.6941581;19
+RT19_d-24;Div0;Leg+;Fine roots;2;Tri_alexa;1.3;11.7;111.1111111;19
+RT19_d-3;Div0;Leg+;Fine roots;1;Tri_alexa;10.3;45;228.8888889;19
+RT19_d-3;Div0;Leg+;Fine roots;2;Tri_alexa;4.3;40.65770936;105.761;19
+RT19_d-3;Div0;Leg+;Fine roots;3;Tri_alexa;1.6;15.12845;105.761;19
+RT19_d-3;Div0;Leg+;Fine roots;4;Tri_alexa;5.5;20.9;263.1578947;19
+RT19_d-6;Div0;Leg+;Fine roots;1;Ver_persi;1.3;13.3;97.7443609;19
+RT19_d-6;Div0;Leg+;Fine roots;2;Ver_persi;0.3;1.7;176.4705882;19
+RT19_d-9;Div0;Leg+;Fine roots;1;Tri_alexa;7.3;77.1;94.68223087;19
+RT19_d-9;Div0;Leg+;Fine roots;2;Tri_alexa;1.5;21.9;68.49315068;19
+RT20_d+12;Div1;Leg+;Fine roots;1;Tri_alexa;29.3;209.1;140.1243424;20
+RT20_d+12;Div1;Leg+;Fine roots;2;Tri_alexa;18.6;190.4;97.68907563;20
+RT20_d+15;Div1;Leg+;Fine roots;1;Bra_napus;14.5;140.1;103.4975018;20
+RT20_d+15;Div1;Leg+;Taproot;1;Bra_napus;56.5;362.8;155.7331863;20
+RT20_d+15;Div1;Leg+;Fine roots;2;Bra_napus;78;695.7;112.1172919;20
+RT20_d+15;Div1;Leg+;Taproot;2;Bra_napus;12.9;75.4;171.0875332;20
+RT20_d+15;Div1;Leg+;Fine roots;3;Bra_napus;103.9;1113.2;93.33453108;20
+RT20_d+15;Div1;Leg+;Taproot;3;Bra_napus;6.3;17.3;364.1618497;20
+RT20_d+15;Div1;Leg+;Fine roots;4;Bra_napus;56.2;861.9;65.20478014;20
+RT20_d+15;Div1;Leg+;Taproot;4;Bra_napus;9.2;96.4;95.43568465;20
+RT20_d+18;Div1;Leg+;Fine roots;1;Ver_persi;1.2;14.5;82.75862069;20
+RT20_d+18;Div1;Leg+;Fine roots;2;Ver_persi;0.1;0.7;142.8571429;20
+RT20_d+21;Div1;Leg+;Fine roots;1;Tri_alexa;5.2;49.6;104.8387097;20
+RT20_d+21;Div1;Leg+;Fine roots;2;Tri_alexa;4;54.8;72.99270073;20
+RT20_d+24;Div1;Leg+;Fine roots;1;Ger_disse;3.5;36.2;96.68508287;20
+RT20_d+24;Div1;Leg+;Fine roots;2;Ger_disse;4.4;56.7;77.60141093;20
+RT20_d+3;Div1;Leg+;Fine roots;1;Ger_disse;0.3;5.3;56.60377358;20
+RT20_d+6;Div1;Leg+;Fine roots;1;Tri_alexa;4.4;54.4;80.88235294;20
+RT20_d+6;Div1;Leg+;Fine roots;2;Tri_alexa;0.6;8.7;68.96551724;20
+RT20_d+9;Div1;Leg+;Fine roots;1;Lol_peren;70.4;555.6;126.7098632;20
+RT20_d+9;Div1;Leg+;Fine roots;2;Lol_peren;65.5;587;111.5843271;20
+RT20_d+9;Div1;Leg+;Fine roots;3;Lol_peren;50;504;99.20634921;20
+RT20_d+9;Div1;Leg+;Fine roots;4;Lol_peren;4.6;58.9;78.09847199;20
+RT20_d0;Div1;Leg+;Fine roots;1;Bra_napus;147.4;659.8;223.4010306;20
+RT20_d0;Div1;Leg+;Taproot;1;Bra_napus;105.8;537.6;196.8005952;20
+RT20_d0;Div1;Leg+;Fine roots;2;Bra_napus;147.9;1538.5;96.13259669;20
+RT20_d0;Div1;Leg+;Taproot;2;Bra_napus;9.9;75.8;130.6068602;20
+RT20_d0;Div1;Leg+;Fine roots;3;Bra_napus;186.9;2093.6;89.27206725;20
+RT20_d0;Div1;Leg+;Taproot;3;Bra_napus;5.9;62.3;94.70304976;20
+RT20_d0;Div1;Leg+;Fine roots;4;Bra_napus;79.9;782.0376044;102.169;20
+RT20_d-12;Div1;Leg+;Fine roots;1;Lol_peren;29.6;195.6;151.3292434;20
+RT20_d-12;Div1;Leg+;Fine roots;2;Lol_peren;30.3;241.3;125.5698301;20
+RT20_d-12;Div1;Leg+;Fine roots;3;Lol_peren;22.4;178.1;125.7720382;20
+RT20_d-12;Div1;Leg+;Fine roots;4;Lol_peren;4.2;37.2;112.9032258;20
+RT20_d-15;Div1;Leg+;Fine roots;1;Bra_napus;31.1;268.5;115.8286778;20
+RT20_d-15;Div1;Leg+;Taproot;1;Bra_napus;166.9;877.8;190.134427;20
+RT20_d-15;Div1;Leg+;Fine roots;2;Bra_napus;95.8;844.4;113.4533396;20
+RT20_d-15;Div1;Leg+;Taproot;2;Bra_napus;40;226.7;176.4446405;20
+RT20_d-15;Div1;Leg+;Fine roots;3;Bra_napus;201.1;1715.1;117.2526383;20
+RT20_d-15;Div1;Leg+;Taproot;3;Bra_napus;14.9;78.2;190.5370844;20
+RT20_d-15;Div1;Leg+;Fine roots;4;Bra_napus;375;3873;96.82416731;20
+RT20_d-15;Div1;Leg+;Taproot;4;Bra_napus;9.3;36.9;252.0325203;20
+RT20_d-18;Div1;Leg+;Fine roots;1;Tri_alexa;3.5;38.1;91.86351706;20
+RT20_d-18;Div1;Leg+;Fine roots;2;Tri_alexa;1.4;19.3;72.5388601;20
+RT20_d-21;Div1;Leg+;Fine roots;1;Ger_disse;2.6;20.8;125;20
+RT20_d-21;Div1;Leg+;Fine roots;2;Ger_disse;0.2;1.2;166.6666667;20
+RT20_d-24;Div1;Leg+;Fine roots;1;Tri_alexa;7.9;53.5;147.6635514;20
+RT20_d-24;Div1;Leg+;Fine roots;2;Tri_alexa;35.1;323.8;108.4002471;20
+RT20_d-24;Div1;Leg+;Fine roots;3;Tri_alexa;1;14.4;69.44444444;20
+RT20_d-3;Div1;Leg+;Fine roots;1;Tri_alexa;4.8;64.3;74.65007776;20
+RT20_d-3;Div1;Leg+;Fine roots;2;Tri_alexa;0.6;7.7;77.92207792;20
+RT20_d-6;Div1;Leg+;Fine roots;1;Ver_persi;63.4;622.4;101.8637532;20
+RT20_d-6;Div1;Leg+;Fine roots;2;Ver_persi;8;76.1;105.1248357;20
+RT20_d-9;Div1;Leg+;Fine roots;1;Tri_alexa;10.7;101.8;105.108055;20
+RT21_d+12;Div2;Leg-;Fine roots;1;Ger_disse;5.5;41.4;132.8502415;21
+RT21_d+12;Div2;Leg-;Fine roots;2;Ger_disse;3.7;27.8;133.0935252;21
+RT21_d+15;Div2;Leg-;Fine roots;1;Bra_napus;10.2;88.3;115.5152888;21
+RT21_d+15;Div2;Leg-;Taproot;1;Bra_napus;51.8;362.8;142.7783903;21
+RT21_d+15;Div2;Leg-;Fine roots;2;Bra_napus;225.7;1650.5;136.7464405;21
+RT21_d+15;Div2;Leg-;Taproot;2;Bra_napus;17.5;101.5;172.4137931;21
+RT21_d+15;Div2;Leg-;Fine roots;3;Bra_napus;121.1;944;128.2838983;21
+RT21_d+15;Div2;Leg-;Taproot;3;Bra_napus;9.5;59.5;159.6638655;21
+RT21_d+15;Div2;Leg-;Fine roots;4;Bra_napus;58.4;533.2;109.5273818;21
+RT21_d+18;Div2;Leg-;Fine roots;1;Ver_persi;11.4;88.6;128.6681716;21
+RT21_d+18;Div2;Leg-;Fine roots;2;Ver_persi;1.2;12.9;93.02325581;21
+RT21_d+21;Div2;Leg-;Fine roots;1;Lol_peren;132.5;678.3;195.3412944;21
+RT21_d+21;Div2;Leg-;Fine roots;2;Lol_peren;123;848.2;145.0129686;21
+RT21_d+21;Div2;Leg-;Fine roots;3;Lol_peren;62.1;417.6;148.7068966;21
+RT21_d+21;Div2;Leg-;Fine roots;4;Lol_peren;5.1;32.7;155.9633028;21
+RT21_d+24;Div2;Leg-;Fine roots;1;Ger_disse;9.3;67.6;137.5739645;21
+RT21_d+24;Div2;Leg-;Fine roots;2;Ger_disse;1;6.7;149.2537313;21
+RT21_d+3;Div2;Leg-;Fine roots;1;Ger_disse;5.2;47.1;110.403397;21
+RT21_d+3;Div2;Leg-;Fine roots;2;Ger_disse;0.5;3.2;156.25;21
+RT21_d+6;Div2;Leg-;Fine roots;1;Ver_persi;13.2;122.3;107.9313164;21
+RT21_d+6;Div2;Leg-;Fine roots;2;Ver_persi;5.2;48.5;107.2164948;21
+RT21_d+6;Div2;Leg-;Fine roots;3;Ver_persi;0.3;2.6;115.3846154;21
+RT21_d+9;Div2;Leg-;Fine roots;1;Lol_peren;124.3;710.2;175.0211208;21
+RT21_d+9;Div2;Leg-;Fine roots;2;Lol_peren;158.5;1235.7;128.2673788;21
+RT21_d+9;Div2;Leg-;Fine roots;3;Lol_peren;38;327.2;116.1369193;21
+RT21_d+9;Div2;Leg-;Fine roots;4;Lol_peren;11.5;110.7;103.8843722;21
+RT21_d0;Div2;Leg-;Fine roots;1;Bra_napus;46.9;346.8;135.2364475;21
+RT21_d0;Div2;Leg-;Taproot;1;Bra_napus;188.4;1075.1;175.2395126;21
+RT21_d0;Div2;Leg-;Fine roots;2;Bra_napus;152;1159.2;131.1249137;21
+RT21_d0;Div2;Leg-;Taproot;2;Bra_napus;56.5;377.1;149.8276319;21
+RT21_d0;Div2;Leg-;Fine roots;3;Bra_napus;292.6;2436.6;120.0853649;21
+RT21_d0;Div2;Leg-;Taproot;3;Bra_napus;26.6;163.4;162.7906977;21
+RT21_d0;Div2;Leg-;Fine roots;4;Bra_napus;160.5;1656.1;96.91443753;21
+RT21_d0;Div2;Leg-;Taproot;4;Bra_napus;35.7;383.8;93.01719646;21
+RT21_d-12;Div2;Leg-;Fine roots;1;Lol_peren;10.1;72.5;139.3103448;21
+RT21_d-12;Div2;Leg-;Fine roots;2;Lol_peren;0.3;2.43;123.4567901;21
+RT21_d-15;Div2;Leg-;Fine roots;1;Bra_napus;38.3;315.4;121.4331008;21
+RT21_d-15;Div2;Leg-;Taproot;1;Bra_napus;199;1065.3;186.8018399;21
+RT21_d-15;Div2;Leg-;Fine roots;2;Bra_napus;52.8;392.7;134.4537815;21
+RT21_d-15;Div2;Leg-;Taproot;2;Bra_napus;19.8;148.3;133.513149;21
+RT21_d-15;Div2;Leg-;Fine roots;3;Bra_napus;182.4;1288.6;141.5489679;21
+RT21_d-15;Div2;Leg-;Taproot;3;Bra_napus;47.1;317.4;148.3931947;21
+RT21_d-15;Div2;Leg-;Fine roots;4;Bra_napus;281.1;2626.9;107.0082607;21
+RT21_d-15;Div2;Leg-;Taproot;4;Bra_napus;22.6;174.9;129.2166953;21
+RT21_d-18;Div2;Leg-;Fine roots;1;Ver_persi;9;81.5;110.4294479;21
+RT21_d-18;Div2;Leg-;Fine roots;2;Ver_persi;1.5;18.7;80.21390374;21
+RT21_d-24;Div2;Leg-;Fine roots;1;Lol_peren;9.4;49.6;189.516129;21
+RT21_d-24;Div2;Leg-;Fine roots;2;Lol_peren;9.2;52.5;175.2380952;21
+RT21_d-3;Div2;Leg-;Fine roots;1;Lol_peren;38.1;239.9;158.8161734;21
+RT21_d-3;Div2;Leg-;Fine roots;2;Lol_peren;47.3;351.3;134.6427555;21
+RT21_d-3;Div2;Leg-;Fine roots;3;Lol_peren;11.6;83.4;139.088729;21
+RT21_d-3;Div2;Leg-;Fine roots;4;Lol_peren;3.1;33.6;92.26190476;21
+RT21_d-9;Div2;Leg-;Fine roots;1;Ger_disse;11.5;85.6;134.3457944;21
+RT22_d+12;Div3;Leg-;Fine roots;1;Ger_disse;2;25.2;79.36507937;22
+RT22_d+15;Div3;Leg-;Fine roots;1;Bra_napus;21.5;150;143.3333333;22
+RT22_d+15;Div3;Leg-;Taproot;1;Bra_napus;100.2;719.9;139.1859981;22
+RT22_d+15;Div3;Leg-;Fine roots;2;Bra_napus;57;538;105.9479554;22
+RT22_d+15;Div3;Leg-;Taproot;2;Bra_napus;36.6;317.3;115.3482509;22
+RT22_d+15;Div3;Leg-;Fine roots;3;Bra_napus;177;1735;102.0172911;22
+RT22_d+15;Div3;Leg-;Taproot;3;Bra_napus;10.3;72.4;142.2651934;22
+RT22_d+15;Div3;Leg-;Fine roots;4;Bra_napus;136.9;1720.7;79.56064392;22
+RT22_d+15;Div3;Leg-;Taproot;4;Bra_napus;2.9;20.7;140.0966184;22
+RT22_d+18;Div3;Leg-;Fine roots;1;Ver_persi;6;54.1;110.9057301;22
+RT22_d+18;Div3;Leg-;Fine roots;2;Ver_persi;3;28.3;106.0070671;22
+RT22_d+21;Div3;Leg-;Fine roots;1;Lol_peren;28.6;219.7;130.1775148;22
+RT22_d+21;Div3;Leg-;Fine roots;2;Lol_peren;56.2;535.4;104.968248;22
+RT22_d+21;Div3;Leg-;Fine roots;3;Lol_peren;29.2;250.7;116.4738732;22
+RT22_d+21;Div3;Leg-;Fine roots;4;Lol_peren;5.5;93.3;58.94962487;22
+RT22_d+24;Div3;Leg-;Fine roots;1;Ger_disse;12.4;104;119.2307692;22
+RT22_d+24;Div3;Leg-;Fine roots;2;Ger_disse;12.2;118.4;103.0405405;22
+RT22_d+6;Div3;Leg-;Fine roots;1;Ver_persi;10.3;77;133.7662338;22
+RT22_d+6;Div3;Leg-;Fine roots;2;Ver_persi;6.1;71.1;85.79465541;22
+RT22_d+9;Div3;Leg-;Fine roots;1;Lol_peren;35.6;235.8;150.9754029;22
+RT22_d+9;Div3;Leg-;Fine roots;2;Lol_peren;52.4;479.8;109.2121717;22
+RT22_d+9;Div3;Leg-;Fine roots;3;Lol_peren;19.4;189.7;102.266737;22
+RT22_d+9;Div3;Leg-;Fine roots;4;Lol_peren;1.3;14.1;92.19858156;22
+RT22_d0;Div3;Leg-;Fine roots;1;Bra_napus;6.7;66.5;100.7518797;22
+RT22_d0;Div3;Leg-;Taproot;1;Bra_napus;25.4;207.3;122.5277376;22
+RT22_d0;Div3;Leg-;Fine roots;2;Bra_napus;40;368.3;108.6071138;22
+RT22_d0;Div3;Leg-;Taproot;2;Bra_napus;4.1;31;132.2580645;22
+RT22_d0;Div3;Leg-;Fine roots;3;Bra_napus;17.9;156.8;114.1581633;22
+RT22_d-12;Div3;Leg-;Fine roots;1;Lol_peren;85.6;379.2;225.7383966;22
+RT22_d-12;Div3;Leg-;Fine roots;2;Lol_peren;55.5;406.4;136.5649606;22
+RT22_d-12;Div3;Leg-;Fine roots;3;Lol_peren;10.5;92.5;113.5135135;22
+RT22_d-15;Div3;Leg-;Fine roots;1;Bra_napus;10.8;75;144;22
+RT22_d-15;Div3;Leg-;Taproot;1;Bra_napus;107.2;812.4;131.9547021;22
+RT22_d-15;Div3;Leg-;Fine roots;2;Bra_napus;79.7;590.3;135.0160935;22
+RT22_d-15;Div3;Leg-;Taproot;2;Bra_napus;35.3;280.6;125.8018532;22
+RT22_d-15;Div3;Leg-;Fine roots;3;Bra_napus;246.4;2031.6;121.2837173;22
+RT22_d-15;Div3;Leg-;Taproot;3;Bra_napus;9.9;81.7;121.1750306;22
+RT22_d-15;Div3;Leg-;Fine roots;4;Bra_napus;110.2;1337;82.42333583;22
+RT22_d-15;Div3;Leg-;Taproot;4;Bra_napus;12.6;153.2;82.24543081;22
+RT22_d-18;Div3;Leg-;Fine roots;1;Ver_persi;14;102.7;136.3193768;22
+RT22_d-18;Div3;Leg-;Fine roots;2;Ver_persi;0.8;9.3;86.02150538;22
+RT22_d-21;Div3;Leg-;Fine roots;1;Ger_disse;4.1;31.7;129.3375394;22
+RT22_d-24;Div3;Leg-;Fine roots;1;Lol_peren;39.5;245.8;160.6997559;22
+RT22_d-24;Div3;Leg-;Fine roots;2;Lol_peren;25.2;154;163.6363636;22
+RT22_d-24;Div3;Leg-;Fine roots;3;Lol_peren;14.7;84.3;174.3772242;22
+RT22_d-24;Div3;Leg-;Fine roots;4;Lol_peren;1.5;12.3;121.9512195;22
+RT22_d-3;Div3;Leg-;Fine roots;1;Lol_peren;47.6;383.3;124.1847117;22
+RT22_d-3;Div3;Leg-;Fine roots;2;Lol_peren;87;885.2;98.28287393;22
+RT22_d-3;Div3;Leg-;Fine roots;3;Lol_peren;78;908.9;85.81802178;22
+RT22_d-3;Div3;Leg-;Fine roots;4;Lol_peren;12.3;179.5;68.52367688;22
+RT22_d-6;Div3;Leg-;Fine roots;1;Ver_persi;22.8;201.2;113.3200795;22
+RT22_d-6;Div3;Leg-;Fine roots;2;Ver_persi;2.5;21.3;117.370892;22
+RT22_d-9;Div3;Leg-;Fine roots;1;Ger_disse;0.2;8;25;22
+RT23_d+12;Div0;Leg-;Fine roots;1;Ger_disse;1.9;12.9;147.2868217;23
+RT23_d+15;Div0;Leg-;Fine roots;1;Bra_napus;9.8;84.2;116.3895487;23
+RT23_d+15;Div0;Leg-;Taproot;1;Bra_napus;58.3;445.7;130.8054745;23
+RT23_d+15;Div0;Leg-;Fine roots;2;Bra_napus;56.5;471.3;119.8811797;23
+RT23_d+15;Div0;Leg-;Taproot;2;Bra_napus;15.6;123.2;126.6233766;23
+RT23_d+15;Div0;Leg-;Fine roots;3;Bra_napus;163.1;1360.4;119.8912085;23
+RT23_d+15;Div0;Leg-;Taproot;3;Bra_napus;9.4;51.2;183.59375;23
+RT23_d+15;Div0;Leg-;Fine roots;4;Bra_napus;57.3;767.8;74.62880959;23
+RT23_d+15;Div0;Leg-;Taproot;4;Bra_napus;11.4;135.7;84.00884304;23
+RT23_d+18;Div0;Leg-;Fine roots;1;Ver_persi;12.5;89.4;139.8210291;23
+RT23_d+21;Div0;Leg-;Fine roots;1;Lol_peren;79.5;515.6;154.189294;23
+RT23_d+21;Div0;Leg-;Fine roots;2;Lol_peren;98.3;857.9;114.5821191;23
+RT23_d+21;Div0;Leg-;Fine roots;3;Lol_peren;89.4;870.7;102.6760078;23
+RT23_d+21;Div0;Leg-;Fine roots;4;Lol_peren;21.9;175.2;125;23
+RT23_d+24;Div0;Leg-;Fine roots;1;Ger_disse;11.7;62.4;187.5;23
+RT23_d+24;Div0;Leg-;Fine roots;2;Ger_disse;7.4;60.6;122.1122112;23
+RT23_d+3;Div0;Leg-;Fine roots;1;Ger_disse;5.8;38.8;149.4845361;23
+RT23_d+3;Div0;Leg-;Fine roots;2;Ger_disse;16.3;180.4;90.35476718;23
+RT23_d+3;Div0;Leg-;Fine roots;3;Ger_disse;13.2;138.4;95.37572254;23
+RT23_d+3;Div0;Leg-;Fine roots;4;Ger_disse;0.2;5.2;38.46153846;23
+RT23_d+6;Div0;Leg-;Fine roots;1;Ver_persi;9.7;66.2;146.5256798;23
+RT23_d+9;Div0;Leg-;Fine roots;1;Lol_peren;56.7;332.7;170.4238052;23
+RT23_d+9;Div0;Leg-;Fine roots;2;Lol_peren;65.5;607;107.907743;23
+RT23_d+9;Div0;Leg-;Fine roots;3;Lol_peren;88.8;812.7;109.2654116;23
+RT23_d+9;Div0;Leg-;Fine roots;4;Lol_peren;5.8;63.3;91.6271722;23
+RT23_d0;Div0;Leg-;Fine roots;1;Bra_napus;2.9;25.7;112.8404669;23
+RT23_d0;Div0;Leg-;Taproot;1;Bra_napus;77.1;626.4;123.0842912;23
+RT23_d0;Div0;Leg-;Fine roots;2;Bra_napus;28.3;255.5;110.7632094;23
+RT23_d0;Div0;Leg-;Fine roots;3;Bra_napus;77.5;826;93.82566586;23
+RT23_d0;Div0;Leg-;Taproot;3;Bra_napus;7.1;56.4;125.8865248;23
+RT23_d0;Div0;Leg-;Fine roots;4;Bra_napus;136.1;1818.3;74.85013474;23
+RT23_d0;Div0;Leg-;Taproot;4;Bra_napus;10.5;137;76.64233577;23
+RT23_d-12;Div0;Leg-;Fine roots;1;Lol_peren;37.2;271.5;137.0165746;23
+RT23_d-12;Div0;Leg-;Fine roots;2;Lol_peren;52.5;271.5;193.3701657;23
+RT23_d-12;Div0;Leg-;Fine roots;3;Lol_peren;15.1;145.3;103.9229181;23
+RT23_d-12;Div0;Leg-;Fine roots;4;Lol_peren;0.8;12.1;66.11570248;23
+RT23_d-15;Div0;Leg-;Fine roots;1;Bra_napus;2.2;20.3;108.3743842;23
+RT23_d-15;Div0;Leg-;Taproot;1;Bra_napus;1.6;13.1;122.1374046;23
+RT23_d-18;Div0;Leg-;Fine roots;1;Ver_persi;19.2;205.8;93.29446064;23
+RT23_d-18;Div0;Leg-;Fine roots;2;Ver_persi;4.8;62.2;77.17041801;23
+RT23_d-21;Div0;Leg-;Fine roots;1;Ger_disse;2;26;76.92307692;23
+RT23_d-21;Div0;Leg-;Fine roots;2;Ger_disse;0.3;8.8;34.09090909;23
+RT23_d-24;Div0;Leg-;Fine roots;1;Lol_peren;24.8;209.5;118.3770883;23
+RT23_d-24;Div0;Leg-;Fine roots;2;Lol_peren;38.1;379.3;100.448194;23
+RT23_d-24;Div0;Leg-;Fine roots;3;Lol_peren;31.5;285.9;110.1783841;23
+RT23_d-24;Div0;Leg-;Fine roots;4;Lol_peren;18;192.6;93.45794393;23
+RT23_d-3;Div0;Leg-;Fine roots;1;Lol_peren;25.3;150.3;168.3300067;23
+RT23_d-3;Div0;Leg-;Fine roots;2;Lol_peren;51.1;424.3;120.4336554;23
+RT23_d-3;Div0;Leg-;Fine roots;3;Lol_peren;42.8;536.7;79.74659959;23
+RT23_d-3;Div0;Leg-;Fine roots;4;Lol_peren;1.7;24.4;69.67213115;23
+RT23_d-6;Div0;Leg-;Fine roots;1;Ver_persi;14.8;123.3;120.0324412;23
+RT23_d-6;Div0;Leg-;Fine roots;2;Ver_persi;0.5;3.9;128.2051282;23
+RT23_d-9;Div0;Leg-;Fine roots;1;Ger_disse;1.3;5.1;254.9019608;23
+RT24_d+12;Div1;Leg-;Fine roots;1;Ger_disse;4.6;31;148.3870968;24
+RT24_d+15;Div1;Leg-;Fine roots;1;Bra_napus;7.2;58.9;122.2410866;24
+RT24_d+15;Div1;Leg-;Taproot;1;Bra_napus;27.7;173.7;159.4703512;24
+RT24_d+15;Div1;Leg-;Fine roots;2;Bra_napus;71.4;546;130.7692308;24
+RT24_d+15;Div1;Leg-;Taproot;2;Bra_napus;12.4;76.9;161.2483745;24
+RT24_d+15;Div1;Leg-;Fine roots;3;Bra_napus;53.5;410.3;130.3923958;24
+RT24_d+15;Div1;Leg-;Taproot;3;Bra_napus;5.9;40.8;144.6078431;24
+RT24_d+15;Div1;Leg-;Fine roots;4;Bra_napus;14.2;136.4;104.1055718;24
+RT24_d+15;Div1;Leg-;Taproot;4;Bra_napus;8;89.6;89.28571429;24
+RT24_d+18;Div1;Leg-;Fine roots;1;Ver_persi;3.8;54.4;69.85294118;24
+RT24_d+18;Div1;Leg-;Fine roots;2;Ver_persi;0.3;3.7;81.08108108;24
+RT24_d+21;Div1;Leg-;Fine roots;1;Lol_peren;46.2;327.8;140.9395973;24
+RT24_d+21;Div1;Leg-;Fine roots;2;Lol_peren;19.7;191.1;103.0873888;24
+RT24_d+21;Div1;Leg-;Fine roots;3;Lol_peren;17.2;166.9;103.055722;24
+RT24_d+21;Div1;Leg-;Fine roots;4;Lol_peren;8.9;109.6;81.20437956;24
+RT24_d+3;Div1;Leg-;Fine roots;1;Ger_disse;5.21;47.6;109.4537815;24
+RT24_d+3;Div1;Leg-;Fine roots;2;Ger_disse;7.4;42.2;175.3554502;24
+RT24_d+6;Div1;Leg-;Fine roots;1;Ver_persi;11.8;101.4;116.3708087;24
+RT24_d+6;Div1;Leg-;Fine roots;2;Ver_persi;5;42;119.047619;24
+RT24_d+9;Div1;Leg-;Fine roots;1;Lol_peren;24;168.5;142.4332344;24
+RT24_d+9;Div1;Leg-;Fine roots;2;Lol_peren;4.4;32;137.5;24
+RT24_d0;Div1;Leg-;Fine roots;1;Bra_napus;76.6;516.4;148.3346243;24
+RT24_d0;Div1;Leg-;Taproot;1;Bra_napus;251.5;1383;181.8510484;24
+RT24_d0;Div1;Leg-;Fine roots;2;Bra_napus;370.7;3628.302127;102.169;24
+RT24_d0;Div1;Leg-;Taproot;2;Bra_napus;42.5;286;148.6013986;24
+RT24_d0;Div1;Leg-;Fine roots;3;Bra_napus;322;3046.3;105.7019991;24
+RT24_d0;Div1;Leg-;Taproot;3;Bra_napus;11.3;86.6;130.4849885;24
+RT24_d0;Div1;Leg-;Fine roots;4;Bra_napus;313.8;3071.38173;102.169;24
+RT24_d0;Div1;Leg-;Taproot;4;Bra_napus;11.3;87.4;129.2906178;24
+RT24_d-12;Div1;Leg-;Fine roots;1;Lol_peren;56.4;428.7;131.5605318;24
+RT24_d-12;Div1;Leg-;Fine roots;2;Lol_peren;3.2;26.9;118.9591078;24
+RT24_d-15;Div1;Leg-;Fine roots;1;Bra_napus;9.2;63.7;144.4270016;24
+RT24_d-15;Div1;Leg-;Taproot;1;Bra_napus;26.5;159.3;166.3527935;24
+RT24_d-15;Div1;Leg-;Fine roots;2;Bra_napus;57.5;467.7;122.9420569;24
+RT24_d-15;Div1;Leg-;Taproot;2;Bra_napus;8.9;42.8;207.9439252;24
+RT24_d-15;Div1;Leg-;Fine roots;3;Bra_napus;21.7;170.1;127.5720165;24
+RT24_d-15;Div1;Leg-;Taproot;3;Bra_napus;9.1;50.2;181.2749004;24
+RT24_d-15;Div1;Leg-;Fine roots;4;Bra_napus;7.1;70.8;100.2824859;24
+RT24_d-15;Div1;Leg-;Taproot;4;Bra_napus;8.4;95.6;87.86610879;24
+RT24_d-18;Div1;Leg-;Fine roots;1;Ver_persi;5.9;46;128.2608696;24
+RT24_d-21;Div1;Leg-;Fine roots;1;Ger_disse;3.8;28.9;131.4878893;24
+RT24_d-24;Div1;Leg-;Fine roots;1;Lol_peren;45.8;291.6;157.0644719;24
+RT24_d-24;Div1;Leg-;Fine roots;2;Lol_peren;35.8;221.4;161.6982836;24
+RT24_d-24;Div1;Leg-;Fine roots;3;Lol_peren;5.8;44;131.8181818;24
+RT24_d-3;Div1;Leg-;Fine roots;1;Lol_peren;22.9;155.1;147.6466796;24
+RT24_d-3;Div1;Leg-;Fine roots;2;Lol_peren;7.1;59;120.3389831;24
+RT24_d-6;Div1;Leg-;Fine roots;1;Ver_persi;21.9;229.7;95.34175011;24
+RT24_d-9;Div1;Leg-;Fine roots;1;Ger_disse;8.7;67.4;129.0801187;24
+RT24_d-9;Div1;Leg-;Fine roots;2;Ger_disse;1.3;7.7;168.8311688;24
+RT25_d+12;Div2;Leg-;Fine roots;1;Ger_disse;4.2;34.3;122.4489796;25
+RT25_d+15;Div2;Leg-;Fine roots;1;Bra_napus;30.7;268.9;114.168836;25
+RT25_d+15;Div2;Leg-;Taproot;1;Bra_napus;78.4;767.3560473;102.169;25
+RT25_d+15;Div2;Leg-;Fine roots;2;Bra_napus;110.4;803.9;137.3305137;25
+RT25_d+15;Div2;Leg-;Taproot;2;Bra_napus;32.7;242.7;134.7342398;25
+RT25_d+15;Div2;Leg-;Fine roots;3;Bra_napus;204.2;1770.1;115.3607141;25
+RT25_d+15;Div2;Leg-;Taproot;3;Bra_napus;12.6;83;151.8072289;25
+RT25_d+15;Div2;Leg-;Fine roots;4;Bra_napus;48.2;717.5;67.17770035;25
+RT25_d+15;Div2;Leg-;Taproot;4;Bra_napus;41;250.4;163.7380192;25
+RT25_d+18;Div2;Leg-;Fine roots;1;Ver_persi;12.5;112;111.6071429;25
+RT25_d+18;Div2;Leg-;Fine roots;2;Ver_persi;1.5;15.7;95.54140127;25
+RT25_d+21;Div2;Leg-;Fine roots;1;Lol_peren;73.4;390.7;187.8679294;25
+RT25_d+21;Div2;Leg-;Fine roots;2;Lol_peren;109.4;845.4;129.4061982;25
+RT25_d+21;Div2;Leg-;Fine roots;3;Lol_peren;93.3;522.5;178.5645933;25
+RT25_d+21;Div2;Leg-;Fine roots;4;Lol_peren;3.9;46.9;83.15565032;25
+RT25_d+24;Div2;Leg-;Fine roots;1;Ger_disse;0.6;5.7;105.2631579;25
+RT25_d+3;Div2;Leg-;Fine roots;1;Ger_disse;1.3;4.8;270.8333333;25
+RT25_d+6;Div2;Leg-;Fine roots;1;Ver_persi;0.3;9;33.33333333;25
+RT25_d+9;Div2;Leg-;Fine roots;1;Lol_peren;112.7;668.2;168.6620772;25
+RT25_d+9;Div2;Leg-;Fine roots;2;Lol_peren;104.3;735.7;141.7697431;25
+RT25_d+9;Div2;Leg-;Fine roots;3;Lol_peren;28;169;165.6804734;25
+RT25_d+9;Div2;Leg-;Fine roots;4;Lol_peren;1.7;11.7;145.2991453;25
+RT25_d0;Div2;Leg-;Fine roots;1;Bra_napus;34.4;230.9;148.9822434;25
+RT25_d0;Div2;Leg-;Taproot;1;Bra_napus;56.7;303.4;186.882004;25
+RT25_d0;Div2;Leg-;Fine roots;2;Bra_napus;216.9;1631.3;132.9614418;25
+RT25_d0;Div2;Leg-;Fine roots;3;Bra_napus;195.6;1546.8;126.454616;25
+RT25_d0;Div2;Leg-;Taproot;3;Bra_napus;12;83.3;144.057623;25
+RT25_d0;Div2;Leg-;Fine roots;4;Bra_napus;58.2;738.2;78.84042265;25
+RT25_d0;Div2;Leg-;Taproot;4;Bra_napus;8;91.5;87.43169399;25
+RT25_d-12;Div2;Leg-;Fine roots;1;Lol_peren;30.9;210;147.1428571;25
+RT25_d-12;Div2;Leg-;Fine roots;2;Lol_peren;22.3;128.2;173.9469579;25
+RT25_d-12;Div2;Leg-;Fine roots;3;Lol_peren;4.4;30.1;146.179402;25
+RT25_d-15;Div2;Leg-;Fine roots;1;Bra_napus;68.9;512;134.5703125;25
+RT25_d-15;Div2;Leg-;Taproot;1;Bra_napus;80.7;499.5;161.5615616;25
+RT25_d-15;Div2;Leg-;Fine roots;2;Bra_napus;118.2;915.9;129.0533901;25
+RT25_d-15;Div2;Leg-;Taproot;2;Bra_napus;21.3;136.9;155.5880205;25
+RT25_d-15;Div2;Leg-;Fine roots;3;Bra_napus;124.6;1016.6;122.5654141;25
+RT25_d-15;Div2;Leg-;Taproot;3;Bra_napus;12.7;83.1;152.8279182;25
+RT25_d-15;Div2;Leg-;Fine roots;4;Bra_napus;143.9;1645.5;87.45062291;25
+RT25_d-15;Div2;Leg-;Taproot;4;Bra_napus;17;172.9;98.3227299;25
+RT25_d-18;Div2;Leg-;Fine roots;1;Ver_persi;4.7;38.6;121.761658;25
+RT25_d-21;Div2;Leg-;Fine roots;1;Ger_disse;1.3;13.1;99.23664122;25
+RT25_d-24;Div2;Leg-;Fine roots;1;Lol_peren;4.2;21.8;192.6605505;25
+RT25_d-3;Div2;Leg-;Fine roots;1;Lol_peren;12.3;72.9;168.7242798;25
+RT25_d-3;Div2;Leg-;Fine roots;2;Lol_peren;2;16.3;122.6993865;25
+RT25_d-6;Div2;Leg-;Fine roots;1;Ver_persi;1.3;12;108.3333333;25
+RT25_d-9;Div2;Leg-;Fine roots;1;Ger_disse;7.1;40.5;175.308642;25
+RT25_d-9;Div2;Leg-;Fine roots;2;Ger_disse;4.1;36.1;113.5734072;25
+RT26_d+12;Div3;Leg-;Fine roots;1;Ger_disse;6;54.74502505;109.599;26
+RT26_d+12;Div3;Leg-;Fine roots;2;Ger_disse;3;27.4;109.4890511;26
+RT26_d+15;Div3;Leg-;Fine roots;1;Bra_napus;13.5;121.3;111.2943116;26
+RT26_d+15;Div3;Leg-;Taproot;1;Bra_napus;36.7;273;134.4322344;26
+RT26_d+15;Div3;Leg-;Fine roots;2;Bra_napus;73.5;705.7;104.1519059;26
+RT26_d+15;Div3;Leg-;Taproot;2;Bra_napus;14.8;120;123.3333333;26
+RT26_d+15;Div3;Leg-;Fine roots;3;Bra_napus;80.2;843;95.13641756;26
+RT26_d+15;Div3;Leg-;Taproot;3;Bra_napus;8.6;61.4;140.0651466;26
+RT26_d+15;Div3;Leg-;Taproot;4;Bra_napus;7;116.2;60.24096386;26
+RT26_d+18;Div3;Leg-;Fine roots;1;Ver_persi;2.5;29.4;85.03401361;26
+RT26_d+21;Div3;Leg-;Fine roots;1;Lol_peren;44.1;277;159.2057762;26
+RT26_d+21;Div3;Leg-;Fine roots;2;Lol_peren;79.7;586.4;135.9140518;26
+RT26_d+21;Div3;Leg-;Fine roots;3;Lol_peren;13.1;106.5;123.0046948;26
+RT26_d+24;Div3;Leg-;Fine roots;1;Ger_disse;2.4;18.7;128.342246;26
+RT26_d+3;Div3;Leg-;Fine roots;1;Ger_disse;10.6;89.9;117.9087875;26
+RT26_d+3;Div3;Leg-;Fine roots;2;Ger_disse;17.1;176.4;96.93877551;26
+RT26_d+3;Div3;Leg-;Fine roots;3;Ger_disse;1.8;24.3;74.07407407;26
+RT26_d+6;Div3;Leg-;Fine roots;1;Ver_persi;24;236.9;101.308569;26
+RT26_d+6;Div3;Leg-;Fine roots;2;Ver_persi;4.7;47.1;99.78768577;26
+RT26_d+9;Div3;Leg-;Fine roots;1;Lol_peren;51;323.6;157.6019778;26
+RT26_d+9;Div3;Leg-;Fine roots;2;Lol_peren;59.3;527;112.5237192;26
+RT26_d+9;Div3;Leg-;Fine roots;3;Lol_peren;44;339.4;129.6405421;26
+RT26_d+9;Div3;Leg-;Fine roots;4;Lol_peren;1.8;26.5;67.9245283;26
+RT26_d0;Div3;Leg-;Fine roots;1;Bra_napus;6.8;45;151.1111111;26
+RT26_d0;Div3;Leg-;Taproot;1;Bra_napus;119.9;833.6;143.8339731;26
+RT26_d0;Div3;Leg-;Fine roots;2;Bra_napus;106.7;777.6;137.2170782;26
+RT26_d0;Div3;Leg-;Taproot;2;Bra_napus;38.9;297.8;130.6245803;26
+RT26_d0;Div3;Leg-;Fine roots;3;Bra_napus;208.3;1359.2;153.2519129;26
+RT26_d0;Div3;Leg-;Fine roots;4;Bra_napus;108.9;1272.8;85.55939661;26
+RT26_d-12;Div3;Leg-;Fine roots;1;Lol_peren;13.1;84.4;155.2132701;26
+RT26_d-12;Div3;Leg-;Fine roots;2;Lol_peren;6.6;44.6;147.9820628;26
+RT26_d-15;Div3;Leg-;Fine roots;1;Bra_napus;35.7;257.9;138.4257464;26
+RT26_d-15;Div3;Leg-;Taproot;1;Bra_napus;30.3;154.4;196.2435233;26
+RT26_d-15;Div3;Leg-;Fine roots;2;Bra_napus;61.7;473.2;130.3888419;26
+RT26_d-15;Div3;Leg-;Taproot;2;Bra_napus;3.2;15.4;207.7922078;26
+RT26_d-15;Div3;Leg-;Fine roots;3;Bra_napus;12.8;126.8;100.9463722;26
+RT26_d-15;Div3;Leg-;Taproot;3;Bra_napus;3.9;37.7;103.4482759;26
+RT26_d-15;Div3;Leg-;Taproot;4;Bra_napus;1.2;23.9;50.20920502;26
+RT26_d-18;Div3;Leg-;Fine roots;1;Ver_persi;5.2;47.7;109.0146751;26
+RT26_d-21;Div3;Leg-;Fine roots;1;Ger_disse;1.2;12.3;97.56097561;26
+RT26_d-24;Div3;Leg-;Fine roots;1;Lol_peren;28.2;236.2;119.3903472;26
+RT26_d-24;Div3;Leg-;Fine roots;2;Lol_peren;7.6;85.1;89.306698;26
+RT26_d-3;Div3;Leg-;Fine roots;1;Lol_peren;37.5;334.3;112.1746934;26
+RT26_d-3;Div3;Leg-;Fine roots;2;Lol_peren;28.8;259.9;110.8118507;26
+RT26_d-3;Div3;Leg-;Fine roots;3;Lol_peren;11.7;104.4;112.0689655;26
+RT26_d-3;Div3;Leg-;Fine roots;4;Lol_peren;1.4;17.3;80.92485549;26
+RT26_d-6;Div3;Leg-;Fine roots;1;Ver_persi;2.2;21.9;100.456621;26
+RT27_d+12;Div0;Leg-;Fine roots;1;Ger_disse;3;27.2;110.2941176;27
+RT27_d+12;Div0;Leg-;Fine roots;2;Ger_disse;2.1;26;80.76923077;27
+RT27_d+15;Div0;Leg-;Fine roots;1;Bra_napus;16.5;146.2;112.8590971;27
+RT27_d+15;Div0;Leg-;Taproot;1;Bra_napus;167.6;1012.7;165.4981732;27
+RT27_d+15;Div0;Leg-;Fine roots;2;Bra_napus;146.9;1053.3;139.4664388;27
+RT27_d+15;Div0;Leg-;Taproot;2;Bra_napus;51.5;413.5;124.5465538;27
+RT27_d+15;Div0;Leg-;Fine roots;3;Bra_napus;323.4;2304.7;140.3219508;27
+RT27_d+15;Div0;Leg-;Taproot;3;Bra_napus;15.7;120.4;130.3986711;27
+RT27_d+15;Div0;Leg-;Fine roots;4;Bra_napus;313.2;3065.509107;102.169;27
+RT27_d+15;Div0;Leg-;Taproot;4;Bra_napus;18.7;234;79.91452991;27
+RT27_d+18;Div0;Leg-;Fine roots;1;Ver_persi;9.1;73;124.6575342;27
+RT27_d+18;Div0;Leg-;Fine roots;2;Ver_persi;0.6;5;120;27
+RT27_d+21;Div0;Leg-;Fine roots;1;Lol_peren;19.2;112.8;170.212766;27
+RT27_d+21;Div0;Leg-;Fine roots;2;Lol_peren;38.8;247.8;156.5778854;27
+RT27_d+21;Div0;Leg-;Fine roots;3;Lol_peren;11.1;65.6;169.2073171;27
+RT27_d+21;Div0;Leg-;Fine roots;4;Lol_peren;6.3;28.4;221.8309859;27
+RT27_d+24;Div0;Leg-;Fine roots;1;Ger_disse;14.5;108.2;134.0110906;27
+RT27_d+24;Div0;Leg-;Fine roots;2;Ger_disse;4.6;40.2;114.4278607;27
+RT27_d+3;Div0;Leg-;Fine roots;1;Ger_disse;4.3;34.7;123.9193084;27
+RT27_d+3;Div0;Leg-;Fine roots;2;Ger_disse;2.5;34.3;72.88629738;27
+RT27_d+6;Div0;Leg-;Fine roots;1;Ver_persi;5.5;47.9;114.822547;27
+RT27_d+6;Div0;Leg-;Fine roots;2;Ver_persi;2.8;28.2;99.29078014;27
+RT27_d+9;Div0;Leg-;Fine roots;1;Lol_peren;47.2;399.5;118.1476846;27
+RT27_d+9;Div0;Leg-;Fine roots;2;Lol_peren;70.1;580.6;120.7371684;27
+RT27_d+9;Div0;Leg-;Fine roots;3;Lol_peren;11.1;87.8;126.4236902;27
+RT27_d0;Div0;Leg-;Fine roots;1;Bra_napus;4.2;20.1;208.9552239;27
+RT27_d0;Div0;Leg-;Taproot;1;Bra_napus;165.4;1064.1;155.4365191;27
+RT27_d0;Div0;Leg-;Fine roots;2;Bra_napus;51.6;346.2;149.0467938;27
+RT27_d0;Div0;Leg-;Taproot;2;Bra_napus;39.2;301.9;129.8443193;27
+RT27_d0;Div0;Leg-;Fine roots;3;Bra_napus;120.7;754.8;159.9099099;27
+RT27_d0;Div0;Leg-;Taproot;3;Bra_napus;13.4;103.9;128.9701636;27
+RT27_d0;Div0;Leg-;Fine roots;4;Bra_napus;156.3;1275.5;122.5401803;27
+RT27_d-12;Div0;Leg-;Fine roots;1;Lol_peren;66.7;352.6;189.166194;27
+RT27_d-12;Div0;Leg-;Fine roots;2;Lol_peren;49.9;401.8;124.1911399;27
+RT27_d-12;Div0;Leg-;Fine roots;3;Lol_peren;4;22.8;175.4385965;27
+RT27_d-15;Div0;Leg-;Fine roots;1;Bra_napus;17.3;125.3;138.0686353;27
+RT27_d-15;Div0;Leg-;Taproot;1;Bra_napus;69.7;417.8;166.8262326;27
+RT27_d-15;Div0;Leg-;Fine roots;2;Bra_napus;44.7;341.3;130.9698213;27
+RT27_d-15;Div0;Leg-;Taproot;2;Bra_napus;22.6;157.3;143.6745073;27
+RT27_d-15;Div0;Leg-;Fine roots;3;Bra_napus;113.6;890.6;127.5544577;27
+RT27_d-15;Div0;Leg-;Taproot;3;Bra_napus;9.2;63;146.031746;27
+RT27_d-15;Div0;Leg-;Fine roots;4;Bra_napus;161.2;1360.2;118.5119835;27
+RT27_d-18;Div0;Leg-;Fine roots;1;Ver_persi;1.7;19.9;85.42713568;27
+RT27_d-21;Div0;Leg-;Fine roots;1;Ger_disse;2.6;18.1;143.6464088;27
+RT27_d-24;Div0;Leg-;Fine roots;1;Lol_peren;38.3;254.6;150.4320503;27
+RT27_d-24;Div0;Leg-;Fine roots;2;Lol_peren;40.5;311.9;129.8493107;27
+RT27_d-24;Div0;Leg-;Fine roots;3;Lol_peren;13.1;82.4;158.9805825;27
+RT27_d-3;Div0;Leg-;Fine roots;1;Lol_peren;51;339.1;150.3981127;27
+RT27_d-3;Div0;Leg-;Fine roots;2;Lol_peren;87.1;739.4;117.7982148;27
+RT27_d-3;Div0;Leg-;Fine roots;3;Lol_peren;41.4;408.6;101.3215859;27
+RT27_d-3;Div0;Leg-;Fine roots;4;Lol_peren;9.1;56.2;161.9217082;27
+RT27_d-6;Div0;Leg-;Fine roots;1;Ver_persi;1.5;12.3;121.9512195;27
+RT27_d-9;Div0;Leg-;Fine roots;1;Ger_disse;1.2;12.6;95.23809524;27
+RT27_d-9;Div0;Leg-;Fine roots;2;Ger_disse;1.7;8.8;193.1818182;27
+RT28_d+12;Div1;Leg-;Fine roots;1;Ger_disse;2.7;23.8;113.4453782;28
+RT28_d+15;Div1;Leg-;Fine roots;1;Bra_napus;26.2;195.5;134.0153453;28
+RT28_d+15;Div1;Leg-;Taproot;1;Bra_napus;94.4;625.3;150.9675356;28
+RT28_d+15;Div1;Leg-;Fine roots;2;Bra_napus;61.3;477.7;128.3232154;28
+RT28_d+15;Div1;Leg-;Taproot;2;Bra_napus;25.1;187.6;133.7953092;28
+RT28_d+15;Div1;Leg-;Fine roots;3;Bra_napus;180.7;1520.1;118.8737583;28
+RT28_d+15;Div1;Leg-;Taproot;3;Bra_napus;11.2;73.9;151.556157;28
+RT28_d+15;Div1;Leg-;Fine roots;4;Bra_napus;71.6;845.1;84.72370134;28
+RT28_d+15;Div1;Leg-;Taproot;4;Bra_napus;9.7;111.8;86.76207513;28
+RT28_d+18;Div1;Leg-;Fine roots;1;Ver_persi;6.8;63.7;106.7503925;28
+RT28_d+18;Div1;Leg-;Fine roots;2;Ver_persi;1.3;6.8;191.1764706;28
+RT28_d+21;Div1;Leg-;Fine roots;1;Lol_peren;115.2;651.9;176.71422;28
+RT28_d+21;Div1;Leg-;Fine roots;2;Lol_peren;190.9;1565.4;121.9496614;28
+RT28_d+21;Div1;Leg-;Fine roots;3;Lol_peren;2.8;32.2;86.95652174;28
+RT28_d+24;Div1;Leg-;Fine roots;1;Ger_disse;3.4;19.3;176.1658031;28
+RT28_d+3;Div1;Leg-;Fine roots;1;Ger_disse;3.3;33.9;97.34513274;28
+RT28_d+6;Div1;Leg-;Fine roots;1;Ver_persi;10.3;112.4;91.63701068;28
+RT28_d+6;Div1;Leg-;Fine roots;2;Ver_persi;4.7;60;78.33333333;28
+RT28_d+9;Div1;Leg-;Fine roots;1;Lol_peren;70.9;497.5;142.5125628;28
+RT28_d+9;Div1;Leg-;Fine roots;2;Lol_peren;183.7;1401.7;131.0551473;28
+RT28_d+9;Div1;Leg-;Fine roots;3;Lol_peren;23.1;267.9;86.22620381;28
+RT28_d0;Div1;Leg-;Fine roots;1;Bra_napus;5.6;52.6;106.4638783;28
+RT28_d0;Div1;Leg-;Taproot;1;Bra_napus;56.9;388.3;146.5361834;28
+RT28_d0;Div1;Leg-;Fine roots;2;Bra_napus;38.2;318.6;119.8995606;28
+RT28_d0;Div1;Leg-;Taproot;2;Bra_napus;15.3;118.8;128.7878788;28
+RT28_d0;Div1;Leg-;Fine roots;3;Bra_napus;55.1;405.7;135.8146414;28
+RT28_d0;Div1;Leg-;Taproot;3;Bra_napus;6.7;45.6;146.9298246;28
+RT28_d0;Div1;Leg-;Fine roots;4;Bra_napus;16.4;201.6;81.34920635;28
+RT28_d-12;Div1;Leg-;Fine roots;1;Lol_peren;22.1;125.9;175.5361398;28
+RT28_d-12;Div1;Leg-;Fine roots;2;Lol_peren;4.2;33.9;123.8938053;28
+RT28_d-15;Div1;Leg-;Fine roots;1;Bra_napus;18.7;166.1;112.5827815;28
+RT28_d-15;Div1;Leg-;Taproot;1;Bra_napus;67.7;463.2;146.1571675;28
+RT28_d-15;Div1;Leg-;Fine roots;2;Bra_napus;71.4;410.4;173.9766082;28
+RT28_d-15;Div1;Leg-;Taproot;2;Bra_napus;18.9;129.2;146.2848297;28
+RT28_d-15;Div1;Leg-;Fine roots;3;Bra_napus;98.1;634.4;154.6343001;28
+RT28_d-15;Div1;Leg-;Taproot;3;Bra_napus;11.2;72.1;155.3398058;28
+RT28_d-15;Div1;Leg-;Fine roots;4;Bra_napus;78.9;740.2;106.5928128;28
+RT28_d-15;Div1;Leg-;Taproot;4;Bra_napus;12.5;95.6;130.7531381;28
+RT28_d-18;Div1;Leg-;Fine roots;1;Ver_persi;15.3;153.2;99.8694517;28
+RT28_d-18;Div1;Leg-;Fine roots;2;Ver_persi;4.1;38;107.8947368;28
+RT28_d-21;Div1;Leg-;Fine roots;1;Ger_disse;4.6;36.4;126.3736264;28
+RT28_d-21;Div1;Leg-;Fine roots;2;Ger_disse;5.2;37.7;137.9310345;28
+RT28_d-24;Div1;Leg-;Fine roots;1;Lol_peren;36.2;230.7;156.9137408;28
+RT28_d-24;Div1;Leg-;Fine roots;2;Lol_peren;29.2;138.5;210.8303249;28
+RT28_d-24;Div1;Leg-;Fine roots;3;Lol_peren;13.4;39.8;336.6834171;28
+RT28_d-24;Div1;Leg-;Fine roots;4;Lol_peren;1.1;8.3;132.5301205;28
+RT28_d-3;Div1;Leg-;Fine roots;1;Lol_peren;88.9;664.9;133.7043164;28
+RT28_d-3;Div1;Leg-;Fine roots;2;Lol_peren;167.7;1339;125.2427184;28
+RT28_d-3;Div1;Leg-;Fine roots;3;Lol_peren;48.6;431.9;112.5260477;28
+RT28_d-3;Div1;Leg-;Fine roots;4;Lol_peren;3.6;32.7;110.0917431;28
+RT28_d-6;Div1;Leg-;Fine roots;1;Ver_persi;6.9;68;101.4705882;28
+RT28_d-6;Div1;Leg-;Fine roots;2;Ver_persi;1.1;8.9;123.5955056;28
+RT28_d-9;Div1;Leg-;Fine roots;1;Ger_disse;3.3;27.7;119.133574;28
+RT29_d+12;Div2;Leg-;Fine roots;1;Ger_disse;5.4;46.1;117.1366594;29
+RT29_d+15;Div2;Leg-;Fine roots;1;Bra_napus;17.5;112.6;155.4174067;29
+RT29_d+15;Div2;Leg-;Taproot;1;Bra_napus;70.7;477.2;148.1559095;29
+RT29_d+15;Div2;Leg-;Fine roots;2;Bra_napus;134.6;696.4;193.2797243;29
+RT29_d+15;Div2;Leg-;Taproot;2;Bra_napus;15.3;100.6;152.0874751;29
+RT29_d+15;Div2;Leg-;Fine roots;3;Bra_napus;175.1;958.1;182.757541;29
+RT29_d+15;Div2;Leg-;Fine roots;4;Bra_napus;21.3;234.6;90.79283887;29
+RT29_d+18;Div2;Leg-;Fine roots;1;Ver_persi;7.6;83.1;91.45607702;29
+RT29_d+18;Div2;Leg-;Fine roots;2;Ver_persi;2.8;21.1;132.7014218;29
+RT29_d+21;Div2;Leg-;Fine roots;1;Lol_peren;54.6;332.8;164.0625;29
+RT29_d+21;Div2;Leg-;Fine roots;2;Lol_peren;49.3;300.2;164.2238508;29
+RT29_d+21;Div2;Leg-;Fine roots;3;Lol_peren;1.7;17.1;99.41520468;29
+RT29_d+24;Div2;Leg-;Fine roots;1;Ger_disse;3;21.1;142.1800948;29
+RT29_d+24;Div2;Leg-;Fine roots;2;Ger_disse;2.2;11.3;194.6902655;29
+RT29_d+3;Div2;Leg-;Fine roots;1;Ger_disse;9.5;81.5;116.5644172;29
+RT29_d+6;Div2;Leg-;Fine roots;1;Ver_persi;13.8;141.4;97.59547383;29
+RT29_d+6;Div2;Leg-;Fine roots;2;Ver_persi;0.2;3.2;62.5;29
+RT29_d+9;Div2;Leg-;Fine roots;1;Lol_peren;115.9;754.2;153.6727658;29
+RT29_d+9;Div2;Leg-;Fine roots;2;Lol_peren;72.6;468.2;155.0619393;29
+RT29_d+9;Div2;Leg-;Fine roots;3;Lol_peren;1.1;10.8;101.8518519;29
+RT29_d0;Div2;Leg-;Fine roots;1;Bra_napus;53.3;380.3;140.1525112;29
+RT29_d0;Div2;Leg-;Taproot;1;Bra_napus;94.4;632.6;149.2254189;29
+RT29_d0;Div2;Leg-;Fine roots;2;Bra_napus;171.1;1186.5;144.2056469;29
+RT29_d0;Div2;Leg-;Taproot;2;Bra_napus;28.2;192.2;146.7221644;29
+RT29_d0;Div2;Leg-;Fine roots;3;Bra_napus;200.9;1633.7;122.972394;29
+RT29_d0;Div2;Leg-;Taproot;3;Bra_napus;9.7;136.9;70.85463842;29
+RT29_d0;Div2;Leg-;Fine roots;4;Bra_napus;78.5;926;84.77321814;29
+RT29_d0;Div2;Leg-;Taproot;4;Bra_napus;5.6;62.7;89.31419458;29
+RT29_d-12;Div2;Leg-;Fine roots;1;Lol_peren;25.4;167.7;151.4609422;29
+RT29_d-12;Div2;Leg-;Fine roots;2;Lol_peren;17.6;124.8;141.025641;29
+RT29_d-12;Div2;Leg-;Fine roots;3;Lol_peren;7.4;55.3;133.8155515;29
+RT29_d-15;Div2;Leg-;Fine roots;1;Bra_napus;14.3;145.4;98.34938102;29
+RT29_d-15;Div2;Leg-;Taproot;1;Bra_napus;123;761.9;161.438509;29
+RT29_d-15;Div2;Leg-;Fine roots;2;Bra_napus;131.2;847;154.8996458;29
+RT29_d-15;Div2;Leg-;Taproot;2;Bra_napus;27.2;189.7;143.384291;29
+RT29_d-15;Div2;Leg-;Fine roots;3;Bra_napus;208.5;1233.4;169.0449165;29
+RT29_d-15;Div2;Leg-;Fine roots;4;Bra_napus;134.4;1200.4;111.9626791;29
+RT29_d-15;Div2;Leg-;Taproot;4;Bra_napus;1.8;10.3;174.7572816;29
+RT29_d-18;Div2;Leg-;Fine roots;1;Ver_persi;11.1;121.4;91.43327842;29
+RT29_d-18;Div2;Leg-;Fine roots;2;Ver_persi;1;9.6;104.1666667;29
+RT29_d-21;Div2;Leg-;Fine roots;1;Ger_disse;8.1;66.1;122.5416036;29
+RT29_d-24;Div2;Leg-;Fine roots;1;Lol_peren;43;277.6;154.8991354;29
+RT29_d-24;Div2;Leg-;Fine roots;2;Lol_peren;27;190;142.1052632;29
+RT29_d-3;Div2;Leg-;Fine roots;1;Lol_peren;64.3;445.3;144.3970357;29
+RT29_d-3;Div2;Leg-;Fine roots;2;Lol_peren;5.5;59.3;92.74873524;29
+RT29_d-6;Div2;Leg-;Fine roots;1;Ver_persi;1.1;13.1;83.96946565;29
+RT29_d-9;Div2;Leg-;Fine roots;1;Ger_disse;10.1;61.9;163.1663974;29
+RT29_d-9;Div2;Leg-;Fine roots;2;Ger_disse;2.1;16.7;125.748503;29
+RT30_d+12;Div3;Leg-;Fine roots;1;Ger_disse;5.8;49.4;117.4089069;30
+RT30_d+15;Div3;Leg-;Fine roots;1;Bra_napus;10.9;78.8;138.3248731;30
+RT30_d+15;Div3;Leg-;Taproot;1;Bra_napus;137.7;834.9;164.9299317;30
+RT30_d+15;Div3;Leg-;Fine roots;2;Bra_napus;124.5;930.8;133.7559089;30
+RT30_d+15;Div3;Leg-;Taproot;2;Bra_napus;48.6;343.8;141.3612565;30
+RT30_d+15;Div3;Leg-;Fine roots;3;Bra_napus;238.7;1693.9;140.9174095;30
+RT30_d+15;Div3;Leg-;Taproot;3;Bra_napus;12.8;80.3;159.4022416;30
+RT30_d+15;Div3;Leg-;Fine roots;4;Bra_napus;180.1;1336.4;134.7650404;30
+RT30_d+18;Div3;Leg-;Fine roots;1;Ver_persi;14.1;124.4;113.3440514;30
+RT30_d+18;Div3;Leg-;Fine roots;2;Ver_persi;2.1;17.1;122.8070175;30
+RT30_d+21;Div3;Leg-;Fine roots;1;Lol_peren;62.4;377.3;165.3856348;30
+RT30_d+21;Div3;Leg-;Fine roots;2;Lol_peren;46.4;305.6;151.8324607;30
+RT30_d+21;Div3;Leg-;Fine roots;3;Lol_peren;11.9;80.2;148.3790524;30
+RT30_d+24;Div3;Leg-;Fine roots;1;Ger_disse;2.4;17.9;134.0782123;30
+RT30_d+3;Div3;Leg-;Fine roots;1;Ger_disse;5.5;39.6;138.8888889;30
+RT30_d+3;Div3;Leg-;Fine roots;2;Ger_disse;2.3;20.4;112.745098;30
+RT30_d+6;Div3;Leg-;Fine roots;1;Ver_persi;19.2;183.7;104.5182363;30
+RT30_d+6;Div3;Leg-;Fine roots;2;Ver_persi;6;52.7;113.8519924;30
+RT30_d+9;Div3;Leg-;Fine roots;1;Lol_peren;61;394.8;154.508612;30
+RT30_d+9;Div3;Leg-;Fine roots;2;Lol_peren;37.6;233.7;160.89003;30
+RT30_d+9;Div3;Leg-;Fine roots;3;Lol_peren;32.6;230.3;141.5544941;30
+RT30_d+9;Div3;Leg-;Fine roots;4;Lol_peren;10.6;71.3;148.6676017;30
+RT30_d0;Div3;Leg-;Fine roots;1;Bra_napus;22.2;153.9;144.2495127;30
+RT30_d0;Div3;Leg-;Taproot;1;Bra_napus;71;418.2;169.7752272;30
+RT30_d0;Div3;Leg-;Fine roots;2;Bra_napus;99.8;806;123.82134;30
+RT30_d0;Div3;Leg-;Taproot;2;Bra_napus;16.1;99.3;162.1349446;30
+RT30_d0;Div3;Leg-;Fine roots;3;Bra_napus;83.6;728.9;114.6933736;30
+RT30_d0;Div3;Leg-;Taproot;3;Bra_napus;7.3;57.2;127.6223776;30
+RT30_d0;Div3;Leg-;Fine roots;4;Bra_napus;35.7;372.4;95.86466165;30
+RT30_d-12;Div3;Leg-;Fine roots;1;Lol_peren;95.4;628.3;151.8382938;30
+RT30_d-12;Div3;Leg-;Fine roots;2;Lol_peren;11.9;49.5;240.4040404;30
+RT30_d-15;Div3;Leg-;Fine roots;1;Bra_napus;51.5;368.8;139.6420824;30
+RT30_d-15;Div3;Leg-;Taproot;1;Bra_napus;137.9;848.7;162.4837988;30
+RT30_d-15;Div3;Leg-;Fine roots;2;Bra_napus;142.4;1008.3;141.2278092;30
+RT30_d-15;Div3;Leg-;Taproot;2;Bra_napus;33.9;204.1;166.0950514;30
+RT30_d-15;Div3;Leg-;Fine roots;3;Bra_napus;136.3;1037.6;131.3608327;30
+RT30_d-15;Div3;Leg-;Taproot;3;Bra_napus;30;190.6;157.3976915;30
+RT30_d-15;Div3;Leg-;Fine roots;4;Bra_napus;301.2;2600.4;115.8283341;30
+RT30_d-15;Div3;Leg-;Taproot;4;Bra_napus;7.9;45.6;173.245614;30
+RT30_d-18;Div3;Leg-;Fine roots;1;Ver_persi;10.9;88.6;123.0248307;30
+RT30_d-21;Div3;Leg-;Fine roots;1;Ger_disse;3.6;26.9;133.8289963;30
+RT30_d-24;Div3;Leg-;Fine roots;1;Lol_peren;81.7;494.9;165.0838553;30
+RT30_d-24;Div3;Leg-;Fine roots;2;Lol_peren;12.4;79.9;155.1939925;30
+RT30_d-24;Div3;Leg-;Fine roots;3;Lol_peren;6.7;41.2;162.6213592;30
+RT30_d-24;Div3;Leg-;Fine roots;4;Lol_peren;1.9;10.8;175.9259259;30
+RT30_d-3;Div3;Leg-;Fine roots;1;Lol_peren;50.6;261.4;193.5730681;30
+RT30_d-3;Div3;Leg-;Fine roots;2;Lol_peren;20;143;139.8601399;30
+RT30_d-6;Div3;Leg-;Fine roots;1;Ver_persi;19.9;194.5;102.3136247;30
+RT30_d-6;Div3;Leg-;Fine roots;2;Ver_persi;5.6;44.9;124.7216036;30
+RT30_d-9;Div3;Leg-;Fine roots;1;Ger_disse;3.4;18.3;185.7923497;30
+RT31_d+12;Div2;Leg+;Fine roots;1;Tri_alexa;3.8;32.4;117.2839506;31
+RT31_d+12;Div2;Leg+;Fine roots;2;Tri_alexa;11.8;89.8;131.403118;31
+RT31_d+12;Div2;Leg+;Fine roots;3;Tri_alexa;0.3;2.1;142.8571429;31
+RT31_d+15;Div2;Leg+;Fine roots;1;Bra_napus;75.4;439;171.7539863;31
+RT31_d+15;Div2;Leg+;Taproot;1;Bra_napus;77.7;382.5;203.1372549;31
+RT31_d+15;Div2;Leg+;Fine roots;2;Bra_napus;152.6;983.8;155.1128278;31
+RT31_d+15;Div2;Leg+;Taproot;2;Bra_napus;12.3;66.9;183.8565022;31
+RT31_d+15;Div2;Leg+;Fine roots;3;Bra_napus;33.2;511;64.97064579;31
+RT31_d+15;Div2;Leg+;Taproot;3;Bra_napus;4.7;22.8;206.1403509;31
+RT31_d+15;Div2;Leg+;Fine roots;4;Bra_napus;28.7;242.8;118.2042834;31
+RT31_d+15;Div2;Leg+;Taproot;4;Bra_napus;4.5;32.9;136.7781155;31
+RT31_d+18;Div2;Leg+;Fine roots;1;Ver_persi;20;166.7;119.9760048;31
+RT31_d+21;Div2;Leg+;Fine roots;1;Tri_alexa;37.2;313.9;118.5090793;31
+RT31_d+24;Div2;Leg+;Fine roots;1;Ger_disse;5.4;29.6;182.4324324;31
+RT31_d+3;Div2;Leg+;Fine roots;1;Ger_disse;2.7;19;142.1052632;31
+RT31_d+6;Div2;Leg+;Fine roots;1;Tri_alexa;18.3;114.1;160.3856266;31
+RT31_d+6;Div2;Leg+;Fine roots;2;Tri_alexa;24.2;111.5;217.0403587;31
+RT31_d+6;Div2;Leg+;Fine roots;3;Tri_alexa;8.2;71.3;115.0070126;31
+RT31_d+9;Div2;Leg+;Fine roots;1;Lol_peren;12.5;68.5;182.4817518;31
+RT31_d+9;Div2;Leg+;Fine roots;2;Lol_peren;7.5;40.9;183.3740831;31
+RT31_d0;Div2;Leg+;Fine roots;1;Bra_napus;56.4;352.4;160.045403;31
+RT31_d0;Div2;Leg+;Taproot;1;Bra_napus;259.2;1499.2;172.8922092;31
+RT31_d0;Div2;Leg+;Fine roots;2;Bra_napus;250.7;1622.5;154.5146379;31
+RT31_d0;Div2;Leg+;Taproot;2;Bra_napus;72.6;495.4;146.5482438;31
+RT31_d0;Div2;Leg+;Fine roots;3;Bra_napus;282.5;1531;184.5199216;31
+RT31_d0;Div2;Leg+;Taproot;3;Bra_napus;11.9;76.1;156.3731932;31
+RT31_d0;Div2;Leg+;Fine roots;4;Bra_napus;347.8;2360.6;147.3354232;31
+RT31_d0;Div2;Leg+;Taproot;4;Bra_napus;19.3;184.4;104.6637744;31
+RT31_d-12;Div2;Leg+;Fine roots;1;Lol_peren;29.4;182.1;161.4497529;31
+RT31_d-12;Div2;Leg+;Fine roots;2;Lol_peren;31.5;156.1;201.793722;31
+RT31_d-12;Div2;Leg+;Fine roots;3;Lol_peren;17;105.3;161.4434948;31
+RT31_d-12;Div2;Leg+;Fine roots;4;Lol_peren;1.5;11.6;129.3103448;31
+RT31_d-15;Div2;Leg+;Fine roots;1;Bra_napus;21.1;149.6;141.0427807;31
+RT31_d-15;Div2;Leg+;Taproot;1;Bra_napus;104.4;629.6;165.819568;31
+RT31_d-15;Div2;Leg+;Fine roots;2;Bra_napus;83.8;577.6;145.0831025;31
+RT31_d-15;Div2;Leg+;Taproot;2;Bra_napus;36.4;241.3;150.8495649;31
+RT31_d-15;Div2;Leg+;Fine roots;3;Bra_napus;189;1333.8;141.7004049;31
+RT31_d-15;Div2;Leg+;Taproot;3;Bra_napus;15.4;88.1;174.8013621;31
+RT31_d-15;Div2;Leg+;Fine roots;4;Bra_napus;147.7;1634.1;90.38614528;31
+RT31_d-15;Div2;Leg+;Taproot;4;Bra_napus;4;30.6;130.7189542;31
+RT31_d-18;Div2;Leg+;Fine roots;1;Tri_alexa;13.4;94.4;141.9491525;31
+RT31_d-18;Div2;Leg+;Fine roots;2;Tri_alexa;12.3;89.6;137.2767857;31
+RT31_d-18;Div2;Leg+;Fine roots;3;Tri_alexa;6.7;72.5;92.4137931;31
+RT31_d-21;Div2;Leg+;Fine roots;1;Ger_disse;3.7;21.1;175.3554502;31
+RT31_d-24;Div2;Leg+;Fine roots;1;Tri_alexa;29.6;165.4;178.9600967;31
+RT31_d-24;Div2;Leg+;Fine roots;2;Tri_alexa;32.6;214.4;152.0522388;31
+RT31_d-24;Div2;Leg+;Fine roots;3;Tri_alexa;17.2;131;131.2977099;31
+RT31_d-3;Div2;Leg+;Fine roots;1;Tri_alexa;8.9;73.1;121.751026;31
+RT31_d-3;Div2;Leg+;Fine roots;2;Tri_alexa;1.6;10.7;149.5327103;31
+RT31_d-6;Div2;Leg+;Fine roots;1;Ver_persi;2.2;23.5;93.61702128;31
+RT31_d-9;Div2;Leg+;Fine roots;1;Tri_alexa;6.4;43.6;146.7889908;31
+RT31_d-9;Div2;Leg+;Fine roots;2;Tri_alexa;4.2;20.6;203.8834951;31
+RT32_d+12;Div3;Leg+;Fine roots;1;Tri_alexa;12.1;71.7;168.7587169;32
+RT32_d+12;Div3;Leg+;Fine roots;2;Tri_alexa;19;170.1;111.6990006;32
+RT32_d+12;Div3;Leg+;Fine roots;3;Tri_alexa;10.9;113.3;96.20476611;32
+RT32_d+12;Div3;Leg+;Fine roots;4;Tri_alexa;1.8;36;50;32
+RT32_d+15;Div3;Leg+;Fine roots;1;Bra_napus;22.1;198.8;111.167002;32
+RT32_d+15;Div3;Leg+;Taproot;1;Bra_napus;63.8;428.9;148.752623;32
+RT32_d+15;Div3;Leg+;Fine roots;2;Bra_napus;86.7;644.6;134.5020168;32
+RT32_d+15;Div3;Leg+;Taproot;2;Bra_napus;23.8;164;145.1219512;32
+RT32_d+15;Div3;Leg+;Fine roots;3;Bra_napus;110.5;866.1;127.5834199;32
+RT32_d+15;Div3;Leg+;Taproot;3;Bra_napus;8.2;44;186.3636364;32
+RT32_d+15;Div3;Leg+;Fine roots;4;Bra_napus;54;685.7;78.75164066;32
+RT32_d+18;Div3;Leg+;Fine roots;1;Ver_persi;4.6;35.5;129.5774648;32
+RT32_d+21;Div3;Leg+;Fine roots;1;Tri_alexa;32.6;208.2;156.5802113;32
+RT32_d+21;Div3;Leg+;Fine roots;2;Tri_alexa;45.1;330.7;136.3773813;32
+RT32_d+21;Div3;Leg+;Fine roots;3;Tri_alexa;27.4;262.6;104.3412034;32
+RT32_d+21;Div3;Leg+;Fine roots;4;Tri_alexa;8.9;119.5;74.47698745;32
+RT32_d+24;Div3;Leg+;Fine roots;1;Ger_disse;4.1;27.7;148.0144404;32
+RT32_d+24;Div3;Leg+;Fine roots;2;Ger_disse;13.2;118.6;111.2984823;32
+RT32_d+3;Div3;Leg+;Fine roots;1;Ger_disse;4.1;37;110.8108108;32
+RT32_d+3;Div3;Leg+;Fine roots;2;Ger_disse;3.5;30.2;115.8940397;32
+RT32_d+6;Div3;Leg+;Fine roots;1;Tri_alexa;20.9;161.3;129.5722257;32
+RT32_d+6;Div3;Leg+;Fine roots;2;Tri_alexa;10.8;91.3;118.2913472;32
+RT32_d+6;Div3;Leg+;Fine roots;3;Tri_alexa;3.9;39.7;98.23677582;32
+RT32_d+9;Div3;Leg+;Fine roots;1;Lol_peren;29.5;241.3;122.254455;32
+RT32_d+9;Div3;Leg+;Fine roots;2;Lol_peren;24.2;186.3;129.898014;32
+RT32_d+9;Div3;Leg+;Fine roots;3;Lol_peren;12;54.1;221.8114603;32
+RT32_d0;Div3;Leg+;Fine roots;1;Bra_napus;27.6;258.7;106.6872826;32
+RT32_d0;Div3;Leg+;Taproot;1;Bra_napus;23.6;129.2;182.6625387;32
+RT32_d0;Div3;Leg+;Fine roots;2;Bra_napus;31.8;288.6;110.1871102;32
+RT32_d0;Div3;Leg+;Fine roots;3;Bra_napus;23;235.9;97.49894023;32
+RT32_d-12;Div3;Leg+;Fine roots;1;Lol_peren;61.1;371.4;164.5126548;32
+RT32_d-12;Div3;Leg+;Fine roots;2;Lol_peren;8.8;55.4;158.8447653;32
+RT32_d-15;Div3;Leg+;Fine roots;1;Bra_napus;40.5;330.2;122.6529376;32
+RT32_d-15;Div3;Leg+;Taproot;1;Bra_napus;299.7;1739.8;172.2611794;32
+RT32_d-15;Div3;Leg+;Fine roots;2;Bra_napus;313.4;2410;130.0414938;32
+RT32_d-15;Div3;Leg+;Taproot;2;Bra_napus;42.8;279.3;153.2402435;32
+RT32_d-15;Div3;Leg+;Fine roots;3;Bra_napus;575.3;5130.6;112.1311348;32
+RT32_d-15;Div3;Leg+;Taproot;3;Bra_napus;11.5;73.8;155.8265583;32
+RT32_d-15;Div3;Leg+;Fine roots;4;Bra_napus;476;5864.8;81.16218797;32
+RT32_d-15;Div3;Leg+;Taproot;4;Bra_napus;11.8;112.7;104.7027507;32
+RT32_d-18;Div3;Leg+;Fine roots;1;Tri_alexa;10.9;86.8;125.5760369;32
+RT32_d-18;Div3;Leg+;Fine roots;2;Tri_alexa;1.8;16;112.5;32
+RT32_d-21;Div3;Leg+;Fine roots;1;Ger_disse;5.6;50.8;110.2362205;32
+RT32_d-24;Div3;Leg+;Fine roots;1;Tri_alexa;21.4;148.8;143.8172043;32
+RT32_d-24;Div3;Leg+;Fine roots;2;Tri_alexa;15.6;124.5;125.3012048;32
+RT32_d-9;Div3;Leg+;Fine roots;1;Tri_alexa;8.6;62;138.7096774;32
+RT32_d-9;Div3;Leg+;Fine roots;2;Tri_alexa;9.4;70.6;133.1444759;32
+RT32_d-9;Div3;Leg+;Fine roots;3;Tri_alexa;0.2;0.9;222.2222222;32
+RT33_d+12;Div0;Leg+;Fine roots;1;Tri_alexa;7.6;67;113.4328358;33
+RT33_d+12;Div0;Leg+;Fine roots;2;Tri_alexa;8.8;89.7;98.10479376;33
+RT33_d+12;Div0;Leg+;Fine roots;3;Tri_alexa;2.9;34.5;84.05797101;33
+RT33_d+15;Div0;Leg+;Fine roots;1;Bra_napus;5.1;37.3;136.7292225;33
+RT33_d+15;Div0;Leg+;Taproot;1;Bra_napus;75.3;485.2;155.1937345;33
+RT33_d+15;Div0;Leg+;Fine roots;2;Bra_napus;66.4;465.2;142.7343078;33
+RT33_d+15;Div0;Leg+;Taproot;2;Bra_napus;29.9;195.8;152.7068437;33
+RT33_d+15;Div0;Leg+;Fine roots;3;Bra_napus;114.7;776.2;147.771193;33
+RT33_d+15;Div0;Leg+;Taproot;3;Bra_napus;20;149.7;133.6005344;33
+RT33_d+15;Div0;Leg+;Fine roots;4;Bra_napus;92.2;640.7;143.9051038;33
+RT33_d+15;Div0;Leg+;Taproot;4;Bra_napus;4.5;62.6;71.88498403;33
+RT33_d+18;Div0;Leg+;Fine roots;1;Ver_persi;12.9;117;110.2564103;33
+RT33_d+18;Div0;Leg+;Fine roots;2;Ver_persi;2.2;17.4;126.4367816;33
+RT33_d+21;Div0;Leg+;Fine roots;1;Tri_alexa;9.2;69.2;132.9479769;33
+RT33_d+21;Div0;Leg+;Fine roots;2;Tri_alexa;0.2;1.3;153.8461538;33
+RT33_d+24;Div0;Leg+;Fine roots;1;Ger_disse;5.7;42.4;134.4339623;33
+RT33_d+24;Div0;Leg+;Fine roots;2;Ger_disse;0.1;4.1;24.3902439;33
+RT33_d+3;Div0;Leg+;Fine roots;1;Ger_disse;2.3;15.2;151.3157895;33
+RT33_d+9;Div0;Leg+;Fine roots;1;Lol_peren;32.3;205;157.5609756;33
+RT33_d+9;Div0;Leg+;Fine roots;2;Lol_peren;6.5;58.7;110.7325383;33
+RT33_d+9;Div0;Leg+;Fine roots;3;Lol_peren;0.3;2.6;115.3846154;33
+RT33_d0;Div0;Leg+;Fine roots;1;Bra_napus;108.1;582.7;185.5157028;33
+RT33_d0;Div0;Leg+;Taproot;1;Bra_napus;17.2;145.5;118.2130584;33
+RT33_d0;Div0;Leg+;Fine roots;2;Bra_napus;162.6;1128;144.1489362;33
+RT33_d0;Div0;Leg+;Taproot;2;Bra_napus;7.7;47.6;161.7647059;33
+RT33_d0;Div0;Leg+;Fine roots;3;Bra_napus;222.5;1729.6;128.6424607;33
+RT33_d0;Div0;Leg+;Fine roots;4;Bra_napus;47.1;536.2;87.84035808;33
+RT33_d-12;Div0;Leg+;Fine roots;1;Lol_peren;48.2;371.3;129.8141664;33
+RT33_d-12;Div0;Leg+;Fine roots;2;Lol_peren;30.3;248;122.1774194;33
+RT33_d-15;Div0;Leg+;Fine roots;1;Bra_napus;18.1;140.8;128.5511364;33
+RT33_d-15;Div0;Leg+;Taproot;1;Bra_napus;90.8;611.5;148.4873262;33
+RT33_d-15;Div0;Leg+;Fine roots;2;Bra_napus;86.4;602.9;143.3073478;33
+RT33_d-15;Div0;Leg+;Taproot;2;Bra_napus;11.3;82.7;136.6384522;33
+RT33_d-15;Div0;Leg+;Fine roots;3;Bra_napus;168.9;1364.8;123.7543962;33
+RT33_d-15;Div0;Leg+;Taproot;3;Bra_napus;9.7;74.7;129.8527443;33
+RT33_d-15;Div0;Leg+;Fine roots;4;Bra_napus;214.3;2278.6;94.04897744;33
+RT33_d-18;Div0;Leg+;Fine roots;1;Tri_alexa;26;163.2;159.3137255;33
+RT33_d-18;Div0;Leg+;Fine roots;2;Tri_alexa;35.6;374.4;95.08547009;33
+RT33_d-18;Div0;Leg+;Fine roots;3;Tri_alexa;5.9;60;98.33333333;33
+RT33_d-18;Div0;Leg+;Fine roots;4;Tri_alexa;3.1;49;63.26530612;33
+RT33_d-21;Div0;Leg+;Fine roots;1;Ger_disse;3.1;24.1;128.6307054;33
+RT33_d-21;Div0;Leg+;Fine roots;2;Ger_disse;2.4;19.6;122.4489796;33
+RT33_d-24;Div0;Leg+;Fine roots;1;Tri_alexa;44.3;263.6;168.0576631;33
+RT33_d-24;Div0;Leg+;Fine roots;2;Tri_alexa;44.4;325.2;136.5313653;33
+RT33_d-24;Div0;Leg+;Fine roots;3;Tri_alexa;25.4;237.4;106.9924179;33
+RT33_d-24;Div0;Leg+;Fine roots;4;Tri_alexa;10.3;128.4;80.21806854;33
+RT33_d-3;Div0;Leg+;Fine roots;1;Tri_alexa;19;124.5;152.6104418;33
+RT33_d-3;Div0;Leg+;Fine roots;2;Tri_alexa;6.7;67.1;99.8509687;33
+RT33_d-6;Div0;Leg+;Fine roots;1;Ver_persi;11.7;114.5;102.1834061;33
+RT33_d-6;Div0;Leg+;Fine roots;2;Ver_persi;1.2;12.1;99.17355372;33
+RT33_d-9;Div0;Leg+;Fine roots;1;Tri_alexa;3.8;23.8;159.6638655;33
+RT33_d-9;Div0;Leg+;Fine roots;2;Tri_alexa;3.1;25.6;121.09375;33
+RT33_d-9;Div0;Leg+;Fine roots;3;Tri_alexa;1.6;19.5;82.05128205;33
+RT34_d+12;Div1;Leg+;Fine roots;1;Tri_alexa;9.8;82.8;118.3574879;34
+RT34_d+12;Div1;Leg+;Fine roots;2;Tri_alexa;4;44.2;90.49773756;34
+RT34_d+15;Div1;Leg+;Fine roots;1;Bra_napus;24.9;160.5;155.1401869;34
+RT34_d+15;Div1;Leg+;Taproot;1;Bra_napus;72.3;428.3;168.806911;34
+RT34_d+15;Div1;Leg+;Fine roots;2;Bra_napus;85.6;531.4;161.0839292;34
+RT34_d+15;Div1;Leg+;Taproot;2;Bra_napus;18.1;116.5;155.3648069;34
+RT34_d+15;Div1;Leg+;Fine roots;3;Bra_napus;167.4;1245.3;134.4254397;34
+RT34_d+15;Div1;Leg+;Taproot;3;Bra_napus;7.2;51.7;139.2649903;34
+RT34_d+15;Div1;Leg+;Fine roots;4;Bra_napus;60.4;645.3;93.59987603;34
+RT34_d+15;Div1;Leg+;Taproot;4;Bra_napus;7.3;76.1;95.92641261;34
+RT34_d+18;Div1;Leg+;Fine roots;1;Ver_persi;18.9;176.8;106.9004525;34
+RT34_d+18;Div1;Leg+;Fine roots;2;Ver_persi;13.3;98.2;135.4378819;34
+RT34_d+21;Div1;Leg+;Fine roots;1;Tri_alexa;18.6;138.9;133.9092873;34
+RT34_d+21;Div1;Leg+;Fine roots;2;Tri_alexa;20.4;182;112.0879121;34
+RT34_d+21;Div1;Leg+;Fine roots;3;Tri_alexa;12.7;76.9;165.1495449;34
+RT34_d+21;Div1;Leg+;Fine roots;4;Tri_alexa;0.2;3.4;58.82352941;34
+RT34_d+24;Div1;Leg+;Fine roots;1;Ger_disse;5.1;43.3;117.7829099;34
+RT34_d+24;Div1;Leg+;Fine roots;2;Ger_disse;1.6;12.7;125.984252;34
+RT34_d+3;Div1;Leg+;Fine roots;1;Ger_disse;9.7;54.3;178.6372007;34
+RT34_d+3;Div1;Leg+;Fine roots;2;Ger_disse;7.7;48.4;159.0909091;34
+RT34_d+6;Div1;Leg+;Fine roots;1;Tri_alexa;3.6;29.4;122.4489796;34
+RT34_d+9;Div1;Leg+;Fine roots;1;Lol_peren;25.7;185.9;138.246369;34
+RT34_d+9;Div1;Leg+;Fine roots;2;Lol_peren;2.8;7.5;373.3333333;34
+RT34_d0;Div1;Leg+;Fine roots;1;Bra_napus;32.4;273.3;118.5510428;34
+RT34_d0;Div1;Leg+;Taproot;1;Bra_napus;128.7;769.1;167.3384475;34
+RT34_d0;Div1;Leg+;Fine roots;2;Bra_napus;96.5;651.9;148.0288388;34
+RT34_d0;Div1;Leg+;Taproot;2;Bra_napus;44.5;287.6;154.72879;34
+RT34_d0;Div1;Leg+;Fine roots;3;Bra_napus;151.2;1393.5;108.5037675;34
+RT34_d0;Div1;Leg+;Taproot;3;Bra_napus;18;133.7;134.6297681;34
+RT34_d0;Div1;Leg+;Fine roots;4;Bra_napus;149.8;2040.5;73.41337907;34
+RT34_d-12;Div1;Leg+;Fine roots;1;Lol_peren;50.5;301.9;167.2739318;34
+RT34_d-12;Div1;Leg+;Fine roots;2;Lol_peren;9.4;59.9;156.9282137;34
+RT34_d-15;Div1;Leg+;Fine roots;1;Bra_napus;28.9;200.4;144.2115768;34
+RT34_d-15;Div1;Leg+;Taproot;1;Bra_napus;196.8;1234.1;159.4684385;34
+RT34_d-15;Div1;Leg+;Fine roots;2;Bra_napus;183.8;985.3;186.5421699;34
+RT34_d-15;Div1;Leg+;Taproot;2;Bra_napus;45.3;324.5;139.5993837;34
+RT34_d-15;Div1;Leg+;Fine roots;3;Bra_napus;241.4;1692.6;142.62082;34
+RT34_d-15;Div1;Leg+;Taproot;3;Bra_napus;11.3;78.6;143.7659033;34
+RT34_d-15;Div1;Leg+;Fine roots;4;Bra_napus;263.3;3267.2;80.58888345;34
+RT34_d-18;Div1;Leg+;Fine roots;1;Tri_alexa;11.8;98.5;119.7969543;34
+RT34_d-18;Div1;Leg+;Fine roots;2;Tri_alexa;5.5;47.4;116.0337553;34
+RT34_d-21;Div1;Leg+;Fine roots;1;Ger_disse;10.1;63.9;158.0594679;34
+RT34_d-21;Div1;Leg+;Fine roots;2;Ger_disse;1.2;8.8;136.3636364;34
+RT34_d-24;Div1;Leg+;Fine roots;1;Tri_alexa;11.2;73.4;152.5885559;34
+RT34_d-24;Div1;Leg+;Fine roots;2;Tri_alexa;5.6;51.5;108.7378641;34
+RT34_d-6;Div1;Leg+;Fine roots;1;Ver_persi;19.8;172.6;114.7161066;34
+RT34_d-6;Div1;Leg+;Fine roots;2;Ver_persi;1.9;15.4;123.3766234;34
+RT34_d-9;Div1;Leg+;Fine roots;1;Tri_alexa;1.7;17.5;97.14285714;34
+RT34_d-9;Div1;Leg+;Fine roots;2;Tri_alexa;6.3;55.9;112.7012522;34
+RT34_d-9;Div1;Leg+;Fine roots;3;Tri_alexa;11.6;80.4;144.278607;34
+RT35_d+15;Div2;Leg+;Fine roots;1;Bra_napus;20.5;153.5;133.5504886;35
+RT35_d+15;Div2;Leg+;Taproot;1;Bra_napus;136;927.1;146.693992;35
+RT35_d+15;Div2;Leg+;Fine roots;2;Bra_napus;166.8;1202.1;138.7571749;35
+RT35_d+15;Div2;Leg+;Taproot;2;Bra_napus;28.1;201.7;139.3158156;35
+RT35_d+15;Div2;Leg+;Fine roots;3;Bra_napus;340.1;2339.3;145.3853717;35
+RT35_d+15;Div2;Leg+;Fine roots;4;Bra_napus;169;2174.2;77.72973967;35
+RT35_d+18;Div2;Leg+;Fine roots;1;Ver_persi;2.2;23.9;92.05020921;35
+RT35_d+21;Div2;Leg+;Fine roots;1;Tri_alexa;10.3;68.1;151.2481645;35
+RT35_d+21;Div2;Leg+;Fine roots;2;Tri_alexa;10.5;75;140;35
+RT35_d+21;Div2;Leg+;Fine roots;3;Tri_alexa;12.7;95.9;132.4296142;35
+RT35_d+21;Div2;Leg+;Fine roots;4;Tri_alexa;6.8;63;107.9365079;35
+RT35_d+3;Div2;Leg+;Fine roots;1;Ger_disse;0.8;5.5;145.4545455;35
+RT35_d+6;Div2;Leg+;Fine roots;1;Tri_alexa;6.7;65;103.0769231;35
+RT35_d+6;Div2;Leg+;Fine roots;2;Tri_alexa;2.5;20.4;122.5490196;35
+RT35_d+9;Div2;Leg+;Fine roots;1;Lol_peren;28.5;165;172.7272727;35
+RT35_d+9;Div2;Leg+;Fine roots;2;Lol_peren;4.5;33.7;133.5311573;35
+RT35_d0;Div2;Leg+;Fine roots;1;Bra_napus;27.6;205.6;134.2412451;35
+RT35_d0;Div2;Leg+;Taproot;1;Bra_napus;102.7;669.4;153.420974;35
+RT35_d0;Div2;Leg+;Fine roots;2;Bra_napus;134;1270.2;105.4951976;35
+RT35_d0;Div2;Leg+;Taproot;2;Bra_napus;25;191.6;130.480167;35
+RT35_d0;Div2;Leg+;Fine roots;3;Bra_napus;210.7;2355;89.46921444;35
+RT35_d0;Div2;Leg+;Fine roots;4;Bra_napus;96.9;1260.7;76.86206076;35
+RT35_d-12;Div2;Leg+;Fine roots;1;Lol_peren;13.1;93.9;139.5101171;35
+RT35_d-12;Div2;Leg+;Fine roots;2;Lol_peren;54;344.6;156.7034243;35
+RT35_d-12;Div2;Leg+;Fine roots;3;Lol_peren;28.9;211.9;136.3850873;35
+RT35_d-12;Div2;Leg+;Fine roots;4;Lol_peren;2.3;34.7;66.28242075;35
+RT35_d-15;Div2;Leg+;Fine roots;1;Bra_napus;44;349.5;125.8941345;35
+RT35_d-15;Div2;Leg+;Taproot;1;Bra_napus;46;349.5;131.6165951;35
+RT35_d-15;Div2;Leg+;Fine roots;2;Bra_napus;80.4;614.3;130.8806772;35
+RT35_d-15;Div2;Leg+;Taproot;2;Bra_napus;20;156.8;127.5510204;35
+RT35_d-15;Div2;Leg+;Fine roots;3;Bra_napus;110.4;1037.3;106.4301552;35
+RT35_d-15;Div2;Leg+;Taproot;3;Bra_napus;8.7;79.5;109.4339623;35
+RT35_d-15;Div2;Leg+;Fine roots;4;Bra_napus;79.8;1225.3;65.1269077;35
+RT35_d-15;Div2;Leg+;Taproot;4;Bra_napus;10.8;137.6;78.48837209;35
+RT35_d-18;Div2;Leg+;Fine roots;1;Tri_alexa;6.1;55.8;109.3189964;35
+RT35_d-18;Div2;Leg+;Fine roots;2;Tri_alexa;5.1;59.5;85.71428571;35
+RT35_d-18;Div2;Leg+;Fine roots;3;Tri_alexa;0.9;11.2;80.35714286;35
+RT35_d-21;Div2;Leg+;Fine roots;1;Ger_disse;4.8;29.9;160.5351171;35
+RT35_d-21;Div2;Leg+;Fine roots;2;Ger_disse;1.3;8.6;151.1627907;35
+RT35_d-24;Div2;Leg+;Fine roots;1;Tri_alexa;8.8;73.8;119.2411924;35
+RT35_d-24;Div2;Leg+;Fine roots;2;Tri_alexa;11.8;108.5;108.7557604;35
+RT35_d-3;Div2;Leg+;Fine roots;1;Tri_alexa;16.3;135.4;120.3840473;35
+RT35_d-3;Div2;Leg+;Fine roots;2;Tri_alexa;23.7;273.9;86.5279299;35
+RT35_d-3;Div2;Leg+;Fine roots;3;Tri_alexa;7.6;112.8;67.37588652;35
+RT35_d-6;Div2;Leg+;Fine roots;1;Ver_persi;18;118;152.5423729;35
+RT35_d-6;Div2;Leg+;Fine roots;2;Ver_persi;14;143.1;97.83368274;35
+RT35_d-9;Div2;Leg+;Fine roots;1;Tri_alexa;10.5;88.6;118.510158;35
+RT35_d-9;Div2;Leg+;Fine roots;2;Tri_alexa;8.5;85.2;99.76525822;35
+RT35_d-9;Div2;Leg+;Fine roots;3;Tri_alexa;0.6;7;85.71428571;35
+RT36_d+12;Div3;Leg+;Fine roots;1;Tri_alexa;14.9;87.4;170.4805492;36
+RT36_d+12;Div3;Leg+;Fine roots;2;Tri_alexa;23.6;226.4;104.2402827;36
+RT36_d+12;Div3;Leg+;Fine roots;3;Tri_alexa;14.8;182.2;81.22941822;36
+RT36_d+15;Div3;Leg+;Fine roots;1;Bra_napus;46.5;387.1;120.123999;36
+RT36_d+15;Div3;Leg+;Taproot;1;Bra_napus;195.7;1304;150.0766871;36
+RT36_d+15;Div3;Leg+;Fine roots;2;Bra_napus;174.9;1516.7;115.3161469;36
+RT36_d+15;Div3;Leg+;Taproot;2;Bra_napus;39.6;315.8;125.3958201;36
+RT36_d+15;Div3;Leg+;Fine roots;3;Bra_napus;323.1;2453.3;131.700159;36
+RT36_d+15;Div3;Leg+;Taproot;3;Bra_napus;13.9;91.2;152.4122807;36
+RT36_d+15;Div3;Leg+;Fine roots;4;Bra_napus;226.4;2461.6;91.97270068;36
+RT36_d+15;Div3;Leg+;Taproot;4;Bra_napus;3.3;49.1;67.20977597;36
+RT36_d+18;Div3;Leg+;Fine roots;1;Ver_persi;5.2;34.7;149.8559078;36
+RT36_d+21;Div3;Leg+;Fine roots;1;Tri_alexa;41.2;283.7;145.223828;36
+RT36_d+21;Div3;Leg+;Fine roots;2;Tri_alexa;66.5;708.4;93.87351779;36
+RT36_d+21;Div3;Leg+;Fine roots;3;Tri_alexa;17.3;169.9;101.8246027;36
+RT36_d+21;Div3;Leg+;Fine roots;4;Tri_alexa;5.7;65.9;86.49468892;36
+RT36_d+24;Div3;Leg+;Fine roots;1;Ger_disse;12.6;74;170.2702703;36
+RT36_d+24;Div3;Leg+;Fine roots;2;Ger_disse;2.3;11.3;203.539823;36
+RT36_d+3;Div3;Leg+;Fine roots;1;Ger_disse;15.3;139.4;109.7560976;36
+RT36_d+3;Div3;Leg+;Fine roots;2;Ger_disse;22.2;236.8;93.75;36
+RT36_d+6;Div3;Leg+;Fine roots;1;Tri_alexa;9.2;74.2;123.9892183;36
+RT36_d+6;Div3;Leg+;Fine roots;2;Tri_alexa;6.7;82.3;81.40947752;36
+RT36_d+6;Div3;Leg+;Fine roots;3;Tri_alexa;3.6;53.3;67.54221388;36
+RT36_d+9;Div3;Leg+;Fine roots;1;Lol_peren;35.3;262.6;134.424981;36
+RT36_d+9;Div3;Leg+;Fine roots;2;Lol_peren;34.9;327.9;106.4348887;36
+RT36_d+9;Div3;Leg+;Fine roots;3;Lol_peren;6.5;57.7;112.6516464;36
+RT36_d-12;Div3;Leg+;Fine roots;1;Lol_peren;112.4;847.6;132.6097216;36
+RT36_d-12;Div3;Leg+;Fine roots;2;Lol_peren;130.2;1318.4;98.75606796;36
+RT36_d-12;Div3;Leg+;Fine roots;3;Lol_peren;92.8;547;169.6526508;36
+RT36_d-12;Div3;Leg+;Fine roots;4;Lol_peren;0.2;3.7;54.05405405;36
+RT36_d-15;Div3;Leg+;Fine roots;1;Bra_napus;0.4;3.4;117.6470588;36
+RT36_d-15;Div3;Leg+;Taproot;1;Bra_napus;66.7;496.2;134.4216042;36
+RT36_d-15;Div3;Leg+;Fine roots;2;Bra_napus;12.9;112.7;114.4631766;36
+RT36_d-15;Div3;Leg+;Taproot;2;Bra_napus;2.4;17.8;134.8314607;36
+RT36_d-15;Div3;Leg+;Fine roots;3;Bra_napus;47.8;580.4;82.35699518;36
+RT36_d-15;Div3;Leg+;Taproot;3;Bra_napus;1.7;17.9;94.97206704;36
+RT36_d-15;Div3;Leg+;Fine roots;4;Bra_napus;196.8;2019.2;97.46434231;36
+RT36_d-18;Div3;Leg+;Fine roots;1;Tri_alexa;2.8;20.2;138.6138614;36
+RT36_d-21;Div3;Leg+;Fine roots;1;Ger_disse;26.7;207;128.9855072;36
+RT36_d-21;Div3;Leg+;Fine roots;2;Ger_disse;6.6;55;120;36
+RT36_d-24;Div3;Leg+;Fine roots;1;Tri_alexa;38.3;245;156.3265306;36
+RT36_d-24;Div3;Leg+;Fine roots;2;Tri_alexa;51.1;484.3;105.5131117;36
+RT36_d-24;Div3;Leg+;Fine roots;3;Tri_alexa;35.5;428.7;82.80849079;36
+RT36_d-24;Div3;Leg+;Fine roots;4;Tri_alexa;16.4;229.5;71.45969499;36
+RT36_d-3;Div3;Leg+;Fine roots;1;Tri_alexa;46.2;385.5;119.844358;36
+RT36_d-3;Div3;Leg+;Fine roots;2;Tri_alexa;37.8;415.2;91.04046243;36
+RT36_d-3;Div3;Leg+;Fine roots;3;Tri_alexa;20.3;280.6;72.34497505;36
+RT36_d-6;Div3;Leg+;Fine roots;1;Ver_persi;9.5;63.9;148.6697966;36
+RT36_d-6;Div3;Leg+;Fine roots;2;Ver_persi;0.6;6;100;36
+RT36_d-9;Div3;Leg+;Fine roots;1;Tri_alexa;22.8;218.3;104.4434265;36
+RT36_d-9;Div3;Leg+;Fine roots;2;Tri_alexa;19;239.5;79.33194154;36
+RT37_d+12;Div0;Leg+;Fine roots;1;Tri_alexa;19.8;119;166.3865546;37
+RT37_d+12;Div0;Leg+;Fine roots;2;Tri_alexa;35.8;362;98.89502762;37
+RT37_d+12;Div0;Leg+;Fine roots;3;Tri_alexa;22.5;244.9;91.87423438;37
+RT37_d+12;Div0;Leg+;Fine roots;4;Tri_alexa;11.6;184.5;62.87262873;37
+RT37_d+15;Div0;Leg+;Fine roots;1;Bra_napus;26.5;193.8;136.7389061;37
+RT37_d+15;Div0;Leg+;Taproot;1;Bra_napus;64.8;432;150;37
+RT37_d+15;Div0;Leg+;Fine roots;2;Bra_napus;53.3;412.3;129.2747999;37
+RT37_d+15;Div0;Leg+;Taproot;2;Bra_napus;32.8;229.9;142.6707264;37
+RT37_d+15;Div0;Leg+;Fine roots;3;Bra_napus;134.8;879.4;153.2863316;37
+RT37_d+15;Div0;Leg+;Taproot;3;Bra_napus;11.3;63.2;178.7974684;37
+RT37_d+15;Div0;Leg+;Fine roots;4;Bra_napus;140.8;1111.2;126.7098632;37
+RT37_d+18;Div0;Leg+;Fine roots;1;Ver_persi;3.6;21.3;169.0140845;37
+RT37_d+21;Div0;Leg+;Fine roots;1;Tri_alexa;14;101.6;137.7952756;37
+RT37_d+21;Div0;Leg+;Fine roots;2;Tri_alexa;13.8;108.6;127.0718232;37
+RT37_d+21;Div0;Leg+;Fine roots;3;Tri_alexa;3.9;42.4;91.98113208;37
+RT37_d+6;Div0;Leg+;Fine roots;1;Tri_alexa;21.4;161.1;132.8367474;37
+RT37_d+6;Div0;Leg+;Fine roots;2;Tri_alexa;30.9;313.3;98.62751357;37
+RT37_d+6;Div0;Leg+;Fine roots;3;Tri_alexa;11.8;151.6;77.83641161;37
+RT37_d+9;Div0;Leg+;Fine roots;1;Lol_peren;30.2;206.8;146.0348162;37
+RT37_d+9;Div0;Leg+;Fine roots;2;Lol_peren;27.8;212.4;130.8851224;37
+RT37_d+9;Div0;Leg+;Fine roots;3;Lol_peren;36.4;326;111.6564417;37
+RT37_d+9;Div0;Leg+;Fine roots;4;Lol_peren;7.5;85.5;87.71929825;37
+RT37_d0;Div0;Leg+;Fine roots;1;Bra_napus;28;209.6;133.5877863;37
+RT37_d0;Div0;Leg+;Taproot;1;Bra_napus;164.4;1050.9;156.4373394;37
+RT37_d0;Div0;Leg+;Fine roots;2;Bra_napus;157.1;1170.1;134.2620289;37
+RT37_d0;Div0;Leg+;Taproot;2;Bra_napus;52.7;365;144.3835616;37
+RT37_d0;Div0;Leg+;Fine roots;3;Bra_napus;255.1;1982.7;128.6629344;37
+RT37_d0;Div0;Leg+;Taproot;3;Bra_napus;6.5;67;97.01492537;37
+RT37_d0;Div0;Leg+;Fine roots;4;Bra_napus;191.8;1731.7;110.7582145;37
+RT37_d0;Div0;Leg+;Taproot;4;Bra_napus;6.5;64.4;100.931677;37
+RT37_d-12;Div0;Leg+;Fine roots;1;Lol_peren;23.8;202.7;117.4148989;37
+RT37_d-12;Div0;Leg+;Fine roots;2;Lol_peren;45.4;464.4;97.76055125;37
+RT37_d-12;Div0;Leg+;Fine roots;3;Lol_peren;37.4;384.3;97.31980224;37
+RT37_d-12;Div0;Leg+;Fine roots;4;Lol_peren;21.8;227.3;95.90849098;37
+RT37_d-15;Div0;Leg+;Fine roots;1;Bra_napus;2.4;25;96;37
+RT37_d-15;Div0;Leg+;Taproot;1;Bra_napus;11.2;78.1;143.4058899;37
+RT37_d-15;Div0;Leg+;Fine roots;2;Bra_napus;4.9;34.2;143.2748538;37
+RT37_d-15;Div0;Leg+;Fine roots;3;Bra_napus;3.6;30.8;116.8831169;37
+RT37_d-15;Div0;Leg+;Fine roots;4;Bra_napus;1.6;11.9;134.4537815;37
+RT37_d-18;Div0;Leg+;Fine roots;1;Tri_alexa;10;90.8;110.1321586;37
+RT37_d-18;Div0;Leg+;Fine roots;2;Tri_alexa;6.7;70.5;95.03546099;37
+RT37_d-21;Div0;Leg+;Fine roots;1;Ger_disse;4.4;44.8;98.21428571;37
+RT37_d-21;Div0;Leg+;Fine roots;2;Ger_disse;3.1;24.2;128.0991736;37
+RT37_d-24;Div0;Leg+;Fine roots;1;Tri_alexa;20.9;165.6;126.2077295;37
+RT37_d-24;Div0;Leg+;Fine roots;2;Tri_alexa;56.6;657.5;86.08365019;37
+RT37_d-24;Div0;Leg+;Fine roots;3;Tri_alexa;9.5;88;107.9545455;37
+RT37_d-3;Div0;Leg+;Fine roots;1;Tri_alexa;15.3;104.2;146.8330134;37
+RT37_d-3;Div0;Leg+;Fine roots;2;Tri_alexa;21.2;249.8;84.86789432;37
+RT37_d-3;Div0;Leg+;Fine roots;3;Tri_alexa;6;86.6;69.28406467;37
+RT37_d-6;Div0;Leg+;Fine roots;1;Ver_persi;9.1;104.6;86.99808795;37
+RT37_d-6;Div0;Leg+;Fine roots;2;Ver_persi;4.5;49.5;90.90909091;37
+RT37_d-9;Div0;Leg+;Fine roots;1;Tri_alexa;15.9;125.4;126.7942584;37
+RT37_d-9;Div0;Leg+;Fine roots;2;Tri_alexa;18;179.6;100.2227171;37
+RT37_d-9;Div0;Leg+;Fine roots;3;Tri_alexa;5;71.3;70.12622721;37
+RT37_d-9;Div0;Leg+;Fine roots;4;Tri_alexa;1.5;26.5;56.60377358;37
+RT38_d+15;Div1;Leg+;Fine roots;1;Bra_napus;41.8;326.8;127.9069767;38
+RT38_d+15;Div1;Leg+;Taproot;1;Bra_napus;192.5;1116.8;172.3674785;38
+RT38_d+15;Div1;Leg+;Fine roots;2;Bra_napus;112.6;819.4;137.4176227;38
+RT38_d+15;Div1;Leg+;Taproot;2;Bra_napus;72.4;470;154.0425532;38
+RT38_d+15;Div1;Leg+;Fine roots;3;Bra_napus;262.8;1892.9;138.8345924;38
+RT38_d+15;Div1;Leg+;Taproot;3;Bra_napus;15.5;86.5;179.1907514;38
+RT38_d+15;Div1;Leg+;Fine roots;4;Bra_napus;339.2;2803.4;120.9959335;38
+RT38_d+15;Div1;Leg+;Taproot;4;Bra_napus;24.7;171.2;144.2757009;38
+RT38_d+18;Div1;Leg+;Fine roots;1;Ver_persi;3.9;38.4;101.5625;38
+RT38_d+24;Div1;Leg+;Fine roots;1;Ger_disse;5.9;41.3;142.8571429;38
+RT38_d+6;Div1;Leg+;Fine roots;1;Tri_alexa;9.2;65.3;140.8882083;38
+RT38_d+6;Div1;Leg+;Fine roots;2;Tri_alexa;7.3;55.8;130.8243728;38
+RT38_d+6;Div1;Leg+;Fine roots;3;Tri_alexa;4.2;43.5;96.55172414;38
+RT38_d+9;Div1;Leg+;Fine roots;1;Lol_peren;37.9;225.6;167.9964539;38
+RT38_d+9;Div1;Leg+;Fine roots;2;Lol_peren;0.3;5.3;56.60377358;38
+RT38_d0;Div1;Leg+;Fine roots;1;Bra_napus;42.1;303.6;138.6693017;38
+RT38_d0;Div1;Leg+;Taproot;1;Bra_napus;161.3;1001.1;161.122765;38
+RT38_d0;Div1;Leg+;Fine roots;2;Bra_napus;119.7;917.7;130.4347826;38
+RT38_d0;Div1;Leg+;Taproot;2;Bra_napus;59.4;392.5;151.3375796;38
+RT38_d0;Div1;Leg+;Fine roots;3;Bra_napus;291.8;2238.4;130.3609721;38
+RT38_d0;Div1;Leg+;Taproot;3;Bra_napus;21.8;127.8;170.5790297;38
+RT38_d0;Div1;Leg+;Fine roots;4;Bra_napus;205.6;1888;108.8983051;38
+RT38_d0;Div1;Leg+;Taproot;4;Bra_napus;16.6;146.6;113.2332879;38
+RT38_d-12;Div1;Leg+;Fine roots;1;Lol_peren;39.3;365.6;107.4945295;38
+RT38_d-12;Div1;Leg+;Fine roots;2;Lol_peren;38.4;332.9;115.3499549;38
+RT38_d-12;Div1;Leg+;Fine roots;3;Lol_peren;7.3;56.5;129.2035398;38
+RT38_d-12;Div1;Leg+;Fine roots;4;Lol_peren;1;13.3;75.18796992;38
+RT38_d-15;Div1;Leg+;Fine roots;1;Bra_napus;8.6;65.1;132.1044547;38
+RT38_d-15;Div1;Leg+;Taproot;1;Bra_napus;40.4;220.4;183.3030853;38
+RT38_d-15;Div1;Leg+;Fine roots;2;Bra_napus;42;373.4;112.4799143;38
+RT38_d-15;Div1;Leg+;Taproot;2;Bra_napus;12.8;80.6;158.808933;38
+RT38_d-15;Div1;Leg+;Fine roots;3;Bra_napus;13.3;110.1;120.7992734;38
+RT38_d-15;Div1;Leg+;Taproot;3;Bra_napus;5.1;30.1;169.4352159;38
+RT38_d-15;Div1;Leg+;Fine roots;4;Bra_napus;3.8;50;76;38
+RT38_d-18;Div1;Leg+;Fine roots;1;Tri_alexa;53.3;386.3;137.9756666;38
+RT38_d-18;Div1;Leg+;Fine roots;2;Tri_alexa;56.1;583.7;96.11101593;38
+RT38_d-18;Div1;Leg+;Fine roots;3;Tri_alexa;35.9;452.9;79.26694635;38
+RT38_d-18;Div1;Leg+;Fine roots;4;Tri_alexa;9.2;135.9;67.69683591;38
+RT38_d-21;Div1;Leg+;Fine roots;1;Ger_disse;5.8;48.9;118.609407;38
+RT38_d-24;Div1;Leg+;Fine roots;1;Tri_alexa;27.8;183.7;151.3336962;38
+RT38_d-24;Div1;Leg+;Fine roots;2;Tri_alexa;30.8;249.8;123.2986389;38
+RT38_d-24;Div1;Leg+;Fine roots;3;Tri_alexa;24.7;184.6;133.8028169;38
+RT38_d-3;Div1;Leg+;Fine roots;1;Tri_alexa;10.2;82.6;123.4866828;38
+RT38_d-3;Div1;Leg+;Fine roots;2;Tri_alexa;9;86.3;104.2873696;38
+RT38_d-3;Div1;Leg+;Fine roots;3;Tri_alexa;0.7;9.5;73.68421053;38
+RT38_d-6;Div1;Leg+;Fine roots;1;Ver_persi;32.4;272.4;118.9427313;38
+RT38_d-6;Div1;Leg+;Fine roots;2;Ver_persi;36;397.1;90.65726517;38
+RT38_d-9;Div1;Leg+;Fine roots;1;Tri_alexa;8.5;69.9;121.602289;38
+RT38_d-9;Div1;Leg+;Fine roots;2;Tri_alexa;2.2;18.3;120.2185792;38
+RT39_d+12;Div2;Leg+;Fine roots;1;Tri_alexa;8.1;53.1;152.5423729;39
+RT39_d+12;Div2;Leg+;Fine roots;2;Tri_alexa;16.9;170.1;99.35332158;39
+RT39_d+12;Div2;Leg+;Fine roots;3;Tri_alexa;4;57.3;69.80802792;39
+RT39_d+15;Div2;Leg+;Fine roots;1;Bra_napus;23.3;89.5;260.3351955;39
+RT39_d+15;Div2;Leg+;Taproot;1;Bra_napus;94.6;925.92;102.1686539;39
+RT39_d+15;Div2;Leg+;Fine roots;2;Bra_napus;105.9;1105.4;95.80242446;39
+RT39_d+15;Div2;Leg+;Taproot;2;Bra_napus;21.8;221.4;98.46431798;39
+RT39_d+15;Div2;Leg+;Fine roots;3;Bra_napus;203.3;1801;112.8817324;39
+RT39_d+15;Div2;Leg+;Taproot;3;Bra_napus;13.8;88.8;155.4054054;39
+RT39_d+15;Div2;Leg+;Fine roots;4;Bra_napus;92.8;1503;61.74318031;39
+RT39_d+15;Div2;Leg+;Taproot;4;Bra_napus;7.3;60.8;120.0657895;39
+RT39_d+18;Div2;Leg+;Fine roots;1;Ver_persi;7.5;53.9;139.1465677;39
+RT39_d+18;Div2;Leg+;Fine roots;2;Ver_persi;1.6;14.6;109.5890411;39
+RT39_d+21;Div2;Leg+;Fine roots;1;Tri_alexa;14;105.1;133.20647;39
+RT39_d+21;Div2;Leg+;Fine roots;2;Tri_alexa;12.8;117.4;109.0289608;39
+RT39_d+21;Div2;Leg+;Fine roots;3;Tri_alexa;15;137.2;109.3294461;39
+RT39_d+24;Div2;Leg+;Fine roots;1;Ger_disse;6;41.6;144.2307692;39
+RT39_d+24;Div2;Leg+;Fine roots;2;Ger_disse;10.3;91.9;112.078346;39
+RT39_d+24;Div2;Leg+;Fine roots;3;Ger_disse;12.5;112.5;111.1111111;39
+RT39_d+3;Div2;Leg+;Fine roots;1;Ger_disse;3.1;25.3;122.5296443;39
+RT39_d+3;Div2;Leg+;Fine roots;2;Ger_disse;7.3;73.3;99.59072306;39
+RT39_d+6;Div2;Leg+;Fine roots;1;Tri_alexa;16.9;117.5;143.8297872;39
+RT39_d+6;Div2;Leg+;Fine roots;2;Tri_alexa;16;160;100;39
+RT39_d+6;Div2;Leg+;Fine roots;3;Tri_alexa;12.9;141.2;91.35977337;39
+RT39_d+6;Div2;Leg+;Fine roots;4;Tri_alexa;3.3;57.7;57.19237435;39
+RT39_d+9;Div2;Leg+;Fine roots;1;Lol_peren;20.2;118.1;171.0414903;39
+RT39_d+9;Div2;Leg+;Fine roots;2;Lol_peren;42.6;317.6;134.1309824;39
+RT39_d+9;Div2;Leg+;Fine roots;3;Lol_peren;38.1;336;113.3928571;39
+RT39_d+9;Div2;Leg+;Fine roots;4;Lol_peren;3.5;51.9;67.43737958;39
+RT39_d0;Div2;Leg+;Fine roots;1;Bra_napus;18;146.6;122.7830832;39
+RT39_d0;Div2;Leg+;Taproot;1;Bra_napus;48.6;312;155.7692308;39
+RT39_d0;Div2;Leg+;Fine roots;2;Bra_napus;91;828.1;109.8901099;39
+RT39_d0;Div2;Leg+;Taproot;2;Bra_napus;4.6;45.4;101.3215859;39
+RT39_d0;Div2;Leg+;Fine roots;3;Bra_napus;165.1;1629.2;101.33808;39
+RT39_d0;Div2;Leg+;Fine roots;4;Bra_napus;39.9;630;63.33333333;39
+RT39_d-12;Div2;Leg+;Fine roots;1;Lol_peren;53.6;427.6;125.3507951;39
+RT39_d-12;Div2;Leg+;Fine roots;2;Lol_peren;67.1;595.3;112.7162775;39
+RT39_d-12;Div2;Leg+;Fine roots;3;Lol_peren;18.7;176.4;106.0090703;39
+RT39_d-12;Div2;Leg+;Fine roots;4;Lol_peren;3.5;34.6;101.1560694;39
+RT39_d-15;Div2;Leg+;Fine roots;1;Bra_napus;36.3;296;122.6351351;39
+RT39_d-15;Div2;Leg+;Taproot;1;Bra_napus;100.3;669.4;149.8356737;39
+RT39_d-15;Div2;Leg+;Fine roots;2;Bra_napus;132.1;994.5;132.8305681;39
+RT39_d-15;Div2;Leg+;Taproot;2;Bra_napus;24.8;177.6;139.6396396;39
+RT39_d-15;Div2;Leg+;Fine roots;3;Bra_napus;139.4;1660;83.97590361;39
+RT39_d-15;Div2;Leg+;Taproot;3;Bra_napus;12.8;92.7;138.0798274;39
+RT39_d-15;Div2;Leg+;Fine roots;4;Bra_napus;128.1;1793.2;71.43653803;39
+RT39_d-15;Div2;Leg+;Taproot;4;Bra_napus;16.2;205.2;78.94736842;39
+RT39_d-18;Div2;Leg+;Fine roots;1;Tri_alexa;37.6;298.6;125.9209645;39
+RT39_d-18;Div2;Leg+;Fine roots;2;Tri_alexa;29.3;209.3;139.9904443;39
+RT39_d-18;Div2;Leg+;Fine roots;3;Tri_alexa;14.9;103.1;144.5198836;39
+RT39_d-21;Div2;Leg+;Fine roots;1;Ger_disse;4.4;28;157.1428571;39
+RT39_d-24;Div2;Leg+;Fine roots;1;Tri_alexa;9.5;63.3;150.0789889;39
+RT39_d-24;Div2;Leg+;Fine roots;2;Tri_alexa;9.6;85.3;112.5439625;39
+RT39_d-3;Div2;Leg+;Fine roots;1;Tri_alexa;15.8;134.7;117.2976986;39
+RT39_d-3;Div2;Leg+;Fine roots;2;Tri_alexa;12.8;154.1;83.06294614;39
+RT39_d-3;Div2;Leg+;Fine roots;3;Tri_alexa;4.8;75.1;63.91478029;39
+RT39_d-9;Div2;Leg+;Fine roots;1;Tri_alexa;31.2;218.2;142.9880843;39
+RT39_d-9;Div2;Leg+;Fine roots;2;Tri_alexa;77.2;647.4;119.2462156;39
+RT39_d-9;Div2;Leg+;Fine roots;3;Tri_alexa;26.9;322.9;83.30752555;39
+RT39_d-9;Div2;Leg+;Fine roots;4;Tri_alexa;5.3;75.2;70.4787234;39
+RT40_d+12;Div3;Leg+;Fine roots;1;Tri_alexa;34.3;181.1;189.3981226;40
+RT40_d+12;Div3;Leg+;Fine roots;2;Tri_alexa;32.2;219.5;146.6970387;40
+RT40_d+15;Div3;Leg+;Fine roots;1;Bra_napus;26.2;209.2;125.2390057;40
+RT40_d+15;Div3;Leg+;Taproot;1;Bra_napus;198;1440;137.5;40
+RT40_d+15;Div3;Leg+;Fine roots;2;Bra_napus;112.7;776.3;145.1758341;40
+RT40_d+15;Div3;Leg+;Taproot;2;Bra_napus;43.1;334.9;128.6951329;40
+RT40_d+15;Div3;Leg+;Fine roots;3;Bra_napus;289.1;2095.3;137.9754689;40
+RT40_d+15;Div3;Leg+;Taproot;3;Bra_napus;16.6;119.2;139.261745;40
+RT40_d+15;Div3;Leg+;Fine roots;4;Bra_napus;222.1;1303.7;170.3612794;40
+RT40_d+15;Div3;Leg+;Taproot;4;Bra_napus;16.8;148.7;112.9791527;40
+RT40_d+18;Div3;Leg+;Fine roots;1;Ver_persi;15;138.2;108.5383502;40
+RT40_d+18;Div3;Leg+;Fine roots;2;Ver_persi;4.3;48.6;88.47736626;40
+RT40_d+24;Div3;Leg+;Fine roots;1;Ger_disse;10.5;81.2;129.3103448;40
+RT40_d+24;Div3;Leg+;Fine roots;2;Ger_disse;4.4;37.4;117.6470588;40
+RT40_d+24;Div3;Leg+;Fine roots;3;Ger_disse;0.6;9.5;63.15789474;40
+RT40_d+3;Div3;Leg+;Fine roots;1;Ger_disse;13;107.7;120.7056639;40
+RT40_d+3;Div3;Leg+;Fine roots;2;Ger_disse;7.4;74.5;99.32885906;40
+RT40_d+6;Div3;Leg+;Fine roots;1;Tri_alexa;11.4;91.3;124.8630887;40
+RT40_d+6;Div3;Leg+;Fine roots;2;Tri_alexa;0.9;3.7;243.2432432;40
+RT40_d+9;Div3;Leg+;Fine roots;1;Lol_peren;63.9;464.1;137.6858436;40
+RT40_d+9;Div3;Leg+;Fine roots;2;Lol_peren;47.5;454.4;104.5334507;40
+RT40_d+9;Div3;Leg+;Fine roots;3;Lol_peren;13;88.6;146.7268623;40
+RT40_d0;Div3;Leg+;Fine roots;1;Bra_napus;32.3;223.9;144.2608307;40
+RT40_d0;Div3;Leg+;Taproot;1;Bra_napus;86.2;524.4;164.3783371;40
+RT40_d0;Div3;Leg+;Fine roots;2;Bra_napus;83.6;494.1;169.1965189;40
+RT40_d0;Div3;Leg+;Taproot;2;Bra_napus;23.2;154.6;150.0646831;40
+RT40_d0;Div3;Leg+;Fine roots;3;Bra_napus;86.5;502;172.310757;40
+RT40_d0;Div3;Leg+;Taproot;3;Bra_napus;13.1;66.2;197.8851964;40
+RT40_d0;Div3;Leg+;Fine roots;4;Bra_napus;36.3;425.7;85.27131783;40
+RT40_d0;Div3;Leg+;Taproot;4;Bra_napus;12.9;113.8;113.3567663;40
+RT40_d-12;Div3;Leg+;Fine roots;1;Lol_peren;84.6;531.1;159.2920354;40
+RT40_d-12;Div3;Leg+;Fine roots;2;Lol_peren;93.6;724;129.281768;40
+RT40_d-15;Div3;Leg+;Fine roots;1;Bra_napus;26.8;198.7;134.8766985;40
+RT40_d-15;Div3;Leg+;Taproot;1;Bra_napus;130.6;905;144.3093923;40
+RT40_d-15;Div3;Leg+;Fine roots;2;Bra_napus;93.9;751.2;125;40
+RT40_d-15;Div3;Leg+;Taproot;2;Bra_napus;61;473.3;128.8823157;40
+RT40_d-15;Div3;Leg+;Fine roots;3;Bra_napus;252.9;1376.9;183.6734694;40
+RT40_d-15;Div3;Leg+;Taproot;3;Bra_napus;17.9;117.9;151.8235793;40
+RT40_d-15;Div3;Leg+;Fine roots;4;Bra_napus;311;2664.5;116.7198349;40
+RT40_d-15;Div3;Leg+;Taproot;4;Bra_napus;18.1;166.5;108.7087087;40
+RT40_d-18;Div3;Leg+;Fine roots;1;Tri_alexa;23.1;135.2;170.8579882;40
+RT40_d-18;Div3;Leg+;Fine roots;2;Tri_alexa;56.1;464.3;120.8270515;40
+RT40_d-18;Div3;Leg+;Fine roots;3;Tri_alexa;19.5;141.4;137.9066478;40
+RT40_d-18;Div3;Leg+;Fine roots;4;Tri_alexa;1.4;22.6;61.94690265;40
+RT40_d-21;Div3;Leg+;Fine roots;1;Ger_disse;1.7;9.7;175.257732;40
+RT40_d-9;Div3;Leg+;Fine roots;1;Tri_alexa;16.1;117.2;137.3720137;40
+RT40_d-9;Div3;Leg+;Fine roots;2;Tri_alexa;10.1;87.4;115.5606407;40
+RT40_d-9;Div3;Leg+;Fine roots;3;Tri_alexa;1.9;20.4;93.1372549;40
+RT40_d-9;Div3;Leg+;Fine roots;4;Tri_alexa;16;159.2;100.5025126;40
+RT41_d+12;Div1;Leg-;Fine roots;1;Ger_disse;0.8;6.5;123.0769231;41
+RT41_d+15;Div1;Leg-;Fine roots;1;Bra_napus;10.2;75.5;135.0993377;41
+RT41_d+15;Div1;Leg-;Taproot;1;Bra_napus;80.7;563;143.339254;41
+RT41_d+15;Div1;Leg-;Fine roots;2;Bra_napus;48.8;329.9;147.9236132;41
+RT41_d+15;Div1;Leg-;Taproot;2;Bra_napus;23.7;173.7;136.4421416;41
+RT41_d+15;Div1;Leg-;Fine roots;3;Bra_napus;133.7;943.7;141.6763802;41
+RT41_d+15;Div1;Leg-;Taproot;3;Bra_napus;6.5;52;125;41
+RT41_d+15;Div1;Leg-;Fine roots;4;Bra_napus;138.2;1155.6;119.5915542;41
+RT41_d+18;Div1;Leg-;Fine roots;1;Ver_persi;16.8;156.8;107.1428571;41
+RT41_d+18;Div1;Leg-;Fine roots;2;Ver_persi;0.5;6.8;73.52941176;41
+RT41_d+21;Div1;Leg-;Fine roots;1;Lol_peren;44.4;203.1;218.6115214;41
+RT41_d+21;Div1;Leg-;Fine roots;2;Lol_peren;50.9;300.6;169.3280106;41
+RT41_d+21;Div1;Leg-;Fine roots;3;Lol_peren;8;51.2;156.25;41
+RT41_d+21;Div1;Leg-;Fine roots;4;Lol_peren;0.9;10.6;84.90566038;41
+RT41_d+24;Div1;Leg-;Fine roots;1;Ger_disse;3.8;23;165.2173913;41
+RT41_d+3;Div1;Leg-;Fine roots;1;Ger_disse;2.2;13.2;166.6666667;41
+RT41_d+6;Div1;Leg-;Fine roots;1;Ver_persi;22.5;202.2;111.2759644;41
+RT41_d+6;Div1;Leg-;Fine roots;2;Ver_persi;12;119.1;100.7556675;41
+RT41_d+9;Div1;Leg-;Fine roots;1;Lol_peren;82.4;435;189.4252874;41
+RT41_d+9;Div1;Leg-;Fine roots;2;Lol_peren;54.6;295.8;184.5841785;41
+RT41_d+9;Div1;Leg-;Fine roots;3;Lol_peren;35.5;228.4;155.4290718;41
+RT41_d+9;Div1;Leg-;Fine roots;4;Lol_peren;11.2;70.8;158.1920904;41
+RT41_d0;Div1;Leg-;Fine roots;1;Bra_napus;3.6;27.4;131.3868613;41
+RT41_d0;Div1;Leg-;Taproot;1;Bra_napus;72.3;544.7;132.7336148;41
+RT41_d0;Div1;Leg-;Fine roots;2;Bra_napus;44;263.3;167.1097607;41
+RT41_d0;Div1;Leg-;Taproot;2;Bra_napus;24.7;181.3;136.2382791;41
+RT41_d0;Div1;Leg-;Fine roots;3;Bra_napus;152.7;1047.9;145.7200115;41
+RT41_d0;Div1;Leg-;Taproot;3;Bra_napus;4.2;31;135.483871;41
+RT41_d0;Div1;Leg-;Fine roots;4;Bra_napus;102.2;746.6;136.8872221;41
+RT41_d-12;Div1;Leg-;Fine roots;1;Lol_peren;16;92.3;173.347779;41
+RT41_d-12;Div1;Leg-;Fine roots;2;Lol_peren;16.6;97.3;170.606372;41
+RT41_d-15;Div1;Leg-;Fine roots;1;Bra_napus;8.2;62;132.2580645;41
+RT41_d-15;Div1;Leg-;Taproot;1;Bra_napus;34.7;222;156.3063063;41
+RT41_d-15;Div1;Leg-;Fine roots;2;Bra_napus;52.9;353.8;149.5195025;41
+RT41_d-15;Div1;Leg-;Taproot;2;Bra_napus;8.9;49.6;179.4354839;41
+RT41_d-15;Div1;Leg-;Fine roots;3;Bra_napus;68.5;565.9;121.0461212;41
+RT41_d-15;Div1;Leg-;Fine roots;4;Bra_napus;21;231;90.90909091;41
+RT41_d-18;Div1;Leg-;Fine roots;1;Ver_persi;25.7;209.4;122.7316141;41
+RT41_d-18;Div1;Leg-;Fine roots;2;Ver_persi;2.1;19.4;108.2474227;41
+RT41_d-21;Div1;Leg-;Fine roots;1;Ger_disse;5.5;39.8;138.1909548;41
+RT41_d-21;Div1;Leg-;Fine roots;2;Ger_disse;12.1;89.5;135.1955307;41
+RT41_d-21;Div1;Leg-;Fine roots;3;Ger_disse;2.7;17.9;150.8379888;41
+RT41_d-24;Div1;Leg-;Fine roots;1;Lol_peren;72;350.4;205.4794521;41
+RT41_d-24;Div1;Leg-;Fine roots;2;Lol_peren;62.8;501.9;125.1245268;41
+RT41_d-24;Div1;Leg-;Fine roots;3;Lol_peren;56.9;503.2;113.0763116;41
+RT41_d-24;Div1;Leg-;Fine roots;4;Lol_peren;2.1;14.6;143.8356164;41
+RT41_d-3;Div1;Leg-;Fine roots;1;Lol_peren;34;216.5;157.0438799;41
+RT41_d-3;Div1;Leg-;Fine roots;2;Lol_peren;40.6;222.6;182.3899371;41
+RT41_d-3;Div1;Leg-;Fine roots;3;Lol_peren;3.2;25.8;124.0310078;41
+RT41_d-6;Div1;Leg-;Fine roots;1;Ver_persi;7.4;55.7;132.8545781;41
+RT41_d-9;Div1;Leg-;Fine roots;1;Ger_disse;6.5;48.9;132.9243354;41
+RT41_d-9;Div1;Leg-;Fine roots;2;Ger_disse;1;7.4;135.1351351;41
+RT42_d+15;Div2;Leg+;Fine roots;1;Bra_napus;20.6;192.2;107.1800208;42
+RT42_d+15;Div2;Leg+;Taproot;1;Bra_napus;58.2;438.8;132.6344576;42
+RT42_d+15;Div2;Leg+;Fine roots;2;Bra_napus;37.1;333.9;111.1111111;42
+RT42_d+15;Div2;Leg+;Taproot;2;Bra_napus;18.9;147.3;128.3095723;42
+RT42_d+15;Div2;Leg+;Fine roots;3;Bra_napus;123.9;954.9;129.7518065;42
+RT42_d+15;Div2;Leg+;Taproot;3;Bra_napus;1.7;11.3;150.4424779;42
+RT42_d+15;Div2;Leg+;Fine roots;4;Bra_napus;36.2;376.9;96.04669674;42
+RT42_d+18;Div2;Leg+;Fine roots;1;Ver_persi;11.4;95.4;119.4968553;42
+RT42_d+21;Div2;Leg+;Fine roots;1;Tri_alexa;119.1;1214.8;98.04082977;42
+RT42_d+21;Div2;Leg+;Fine roots;2;Tri_alexa;47.4;361;131.3019391;42
+RT42_d+21;Div2;Leg+;Fine roots;3;Tri_alexa;5.6;75.5;74.17218543;42
+RT42_d+24;Div2;Leg+;Fine roots;1;Ger_disse;3.4;23.6;144.0677966;42
+RT42_d+3;Div2;Leg+;Fine roots;1;Ger_disse;2.9;19.3;150.2590674;42
+RT42_d+3;Div2;Leg+;Fine roots;2;Ger_disse;3.9;34.2;114.0350877;42
+RT42_d+3;Div2;Leg+;Fine roots;3;Ger_disse;2.9;29.9;96.98996656;42
+RT42_d+6;Div2;Leg+;Fine roots;1;Tri_alexa;22.3;163.8;136.1416361;42
+RT42_d+6;Div2;Leg+;Fine roots;2;Tri_alexa;38.8;377.9;102.6726647;42
+RT42_d+6;Div2;Leg+;Fine roots;3;Tri_alexa;5.7;71.6;79.60893855;42
+RT42_d+9;Div2;Leg+;Fine roots;1;Lol_peren;81;536.6;150.9504286;42
+RT42_d+9;Div2;Leg+;Fine roots;2;Lol_peren;86.7;564;153.7234043;42
+RT42_d+9;Div2;Leg+;Fine roots;3;Lol_peren;43.7;394.1;110.885562;42
+RT42_d+9;Div2;Leg+;Fine roots;4;Lol_peren;9.6;90.7;105.8434399;42
+RT42_d0;Div2;Leg+;Fine roots;1;Bra_napus;12.1;172.4;70.18561485;42
+RT42_d0;Div2;Leg+;Taproot;1;Bra_napus;39.6;338.3;117.0558676;42
+RT42_d0;Div2;Leg+;Fine roots;2;Bra_napus;12.4;110.7;112.0144535;42
+RT42_d0;Div2;Leg+;Taproot;2;Bra_napus;14.5;123.4;117.5040519;42
+RT42_d0;Div2;Leg+;Fine roots;3;Bra_napus;16;133.3;120.0300075;42
+RT42_d0;Div2;Leg+;Taproot;3;Bra_napus;6.9;53;130.1886792;42
+RT42_d0;Div2;Leg+;Fine roots;4;Bra_napus;129.2;1138.6;113.4726858;42
+RT42_d-12;Div2;Leg+;Fine roots;1;Lol_peren;72.5;305;237.704918;42
+RT42_d-12;Div2;Leg+;Fine roots;2;Lol_peren;63.3;424;149.2924528;42
+RT42_d-12;Div2;Leg+;Fine roots;3;Lol_peren;40.6;325.8;124.616329;42
+RT42_d-12;Div2;Leg+;Fine roots;4;Lol_peren;13.7;116.2;117.9001721;42
+RT42_d-15;Div2;Leg+;Fine roots;1;Bra_napus;8.3;63.8;130.0940439;42
+RT42_d-15;Div2;Leg+;Taproot;1;Bra_napus;104.1;740.5;140.5806887;42
+RT42_d-15;Div2;Leg+;Fine roots;2;Bra_napus;48.9;390.7;125.1599693;42
+RT42_d-15;Div2;Leg+;Taproot;2;Bra_napus;23.2;179.5;129.2479109;42
+RT42_d-15;Div2;Leg+;Fine roots;3;Bra_napus;140.4;1185.4;118.4410326;42
+RT42_d-15;Div2;Leg+;Taproot;3;Bra_napus;4.3;36.3;118.4573003;42
+RT42_d-15;Div2;Leg+;Fine roots;4;Bra_napus;248.5;2883.2;86.18895671;42
+RT42_d-15;Div2;Leg+;Taproot;4;Bra_napus;10.9;73.2;148.9071038;42
+RT42_d-21;Div2;Leg+;Fine roots;1;Ger_disse;8.4;54;155.5555556;42
+RT42_d-21;Div2;Leg+;Fine roots;2;Ger_disse;12.5;98;127.5510204;42
+RT42_d-21;Div2;Leg+;Fine roots;3;Ger_disse;9.3;83;112.0481928;42
+RT42_d-24;Div2;Leg+;Fine roots;1;Tri_alexa;20.9;185.2;112.8509719;42
+RT42_d-24;Div2;Leg+;Fine roots;2;Tri_alexa;15.3;156.3;97.88867562;42
+RT42_d-9;Div2;Leg+;Fine roots;1;Tri_alexa;30.7;257.4;119.2696193;42
+RT42_d-9;Div2;Leg+;Fine roots;2;Tri_alexa;19.3;240.1;80.38317368;42
+RT42_d-9;Div2;Leg+;Fine roots;3;Tri_alexa;1;9.1;109.8901099;42
