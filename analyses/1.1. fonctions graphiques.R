@@ -85,7 +85,7 @@ myplot_Com_vdt <- function(mdata, vb, mod, ylabl, plot_PAR){
   seFi <- aggregate(newdata$predict, by = list(div = newdata$div, leg = newdata$leg), std.error, na.rm=T)
   moyFi$se <- seFi$x
   
-  INTER <- ggplot(data = moyFi, aes(x = leg,y=x, fill=div)) + 
+  INTER <- ggplot(data = moyFi, aes(x = leg,y=x, fill=div, alpha = leg)) + 
     geom_bar(position = position_dodge(width = 0.8), stat="identity")+
     geom_errorbar(aes(ymin = x - 1.96*se, ymax = x + 1.96*se), width = 0, position=position_dodge(width = 0.8))+
     ylab(ylabl) +    
@@ -101,7 +101,8 @@ myplot_Com_vdt <- function(mdata, vb, mod, ylabl, plot_PAR){
                                margin = margin(), debug = FALSE))+
     theme(axis.text = element_text(color="black", size=14)) +
     theme(axis.title = element_text(color="black", size=14))+
-    scale_x_discrete(labels=c("Div1" = "FR1", "Div2" = "FR2","Div3" = "FR3"))        
+    scale_x_discrete(labels=c("Div1" = "FR1", "Div2" = "FR2","Div3" = "FR3"))  +
+    facet_grid(div~.)
   
   #if (plot_PAR == FALSE) {A <- grid.arrange(DIV, LEG, INTER, ncol = 3)
   #}else{A <- grid.arrange(DIV, LEG, INTER, DIV_PAR, LEG_PAR, ncol = 3, nrow = 2)

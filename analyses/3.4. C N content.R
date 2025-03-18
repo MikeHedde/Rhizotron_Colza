@@ -1,20 +1,28 @@
-
-
-
 #-----------------------------------------------------------
-# 3.2 Effet des traitements ? l'?chelle sp?cifique:   
-#         [N] dans les organes de colza, ray-grass et tr?fle
+# Effet des traitements a l'echelle specifique:   
+#         [N] dans les organes de colza, ray-grass et trefle
 #------------------------------------------------------------
+
+librarian::shelf(ggplot2)
+
+source("analyses/1.0. fonctions stats.R")
+source("analyses/1.1. fonctions graphiques.R")
+
+# Chargement données
+Ncont <- read.csv("data/derived-data/pl_Ncont.csv")
+
+
 #############################################        
-###           Pour les tr?fles            ###
+###           Pour les trefles            ###
 ############################################# 
-Ta_N <- myNcont[myNcont$id_taxo == "Tri_alexa" , ]
+
+Ta_N <- Ncont[Ncont$id_taxo == "Tri_alexa" , ]
 # dans les racines fines
-Ta_N_temp <- Ta_N[!is.na(Ta_N$'Fine roots'),]
-Ta_N_fRoots <- myfun_Leg(mdata = Ta_N_temp, vb = log(Ta_N_temp$'Fine roots'), seuil_prcRE = 30) # pas de transf efficaces
+Ta_N_temp <- Ta_N[!is.na(Ta_N$Fine.roots),]
+Ta_N_fRoots <- myfun_Leg(mdata = Ta_N_temp, vb = log(Ta_N_temp$Fine.roots), seuil_prcRE = 30) # pas de transf efficaces
 Ta_N_fRoots$resum
 Ta_N_fRoots$select
-pTa_N_fRoots <- myplot_Leg(mdata = Ta_N_temp, vb = Ta_N_temp$'Fine roots', mod = Ta_N_fRoots$mod10A, 
+pTa_N_fRoots <- myplot_Leg(mdata = Ta_N_temp, vb = Ta_N_temp$Fine.roots, mod = Ta_N_fRoots$mod10A, 
                            ylabl = "T. alexandrium \n roots N content (mg g-1)", plot_PAR = T)
 pTa_N_fRoots$pDIV
 # dans les limbes matures
@@ -53,13 +61,13 @@ B
 #############################################        
 ###           Pour les colzas             ###
 #############################################
-Bn_N <- myNcont[myNcont$id_taxo == "Bra_napus" , ]
+Bn_N <- Ncont[Ncont$id_taxo == "Bra_napus" , ]
 # dans les racines fines
-Bn_N_temp <- Bn_N[!is.na(Bn_N$'Fine roots'),]
-Bn_N_fRoots <- myfun_Ind(mdata = Bn_N_temp, vb = Bn_N_temp$'Fine roots', seuil_prcRE = 24) 
+Bn_N_temp <- Bn_N[!is.na(Bn_N$Fine.roots),]
+Bn_N_fRoots <- myfun_Ind(mdata = Bn_N_temp, vb = Bn_N_temp$Fine.roots, seuil_prcRE = 24) 
 Bn_N_fRoots$resum # pas de transf efficaces
 Bn_N_fRoots$select
-pBn_N_fRoots <- myplot_Ind(mdata = Bn_N_fRoots, vb = log(Bn_N_fRoots$'Fine roots'), mod = Bn_N_fRoots$mod10A, 
+pBn_N_fRoots <- myplot_Ind(mdata = Bn_N_temp, vb = log(Bn_N_temp$Fine.roots), mod = Bn_N_fRoots$mod10A, 
                            ylabl = "B. napus \nfine roots N content (mg g-1)", plot_PAR = T)
 # v?rifier NA's
 
@@ -113,18 +121,18 @@ D
 #############################################        
 ###           Pour les ray-grass          ###
 #############################################
-Lp_N <- myNcont[myNcont$id_taxo == "Lol_peren" , ]
+Lp_N <- Ncont[Ncont$id_taxo == "Lol_peren" , ]
 # dans les racines fines
-Lp_N_temp <- Lp_N[!is.na(Lp_N$'Fine roots'),]
-Lp_N_fRoots <- myfun_Ind(mdata = Lp_N_temp, vb = sqrt(Lp_N_temp$'Fine roots'), seuil_prcRE = 30) 
+Lp_N_temp <- Lp_N[!is.na(Lp_N$Fine.roots),]
+Lp_N_fRoots <- myfun_Ind(mdata = Lp_N_temp, vb = sqrt(Lp_N_temp$Fine.roots), seuil_prcRE = 30) 
 Lp_N_fRoots$resum # pas de transf efficaces
 Lp_N_fRoots$select
 # test avec les options de filtrage
 Lp_N_fRoots_opt2 <- Lp_N_temp[which(Lp_N_temp$id_loca %in% filter_lp$id_loca[filter_lp$opt2==1]), ]
 Lp_N_fRoots_opt4 <- Lp_N_temp[which(Lp_N_temp$id_loca %in% filter_lp$id_loca[filter_lp$opt4==1]), ]
-Lp_N_fRoots <- myfun_Ind(mdata = Lp_N_fRoots_opt2, vb = sqrt(Lp_N_fRoots_opt2$'Fine roots'), seuil_prcRE = 30)
+Lp_N_fRoots <- myfun_Ind(mdata = Lp_N_fRoots_opt2, vb = sqrt(Lp_N_fRoots_opt2$Fine.roots), seuil_prcRE = 30)
 # aucune n'est satisfaisante => Kruskal-Wallis ?
-pLp_N_fRoots <- myplot_Ind(mdata = Lp_N_temp, vb = Lp_N_temp$'Fine roots', mod = Lp_N_fRoots$mod10A, 
+pLp_N_fRoots <- myplot_Ind(mdata = Lp_N_temp, vb = Lp_N_temp$Fine.roots, mod = Lp_N_fRoots$mod10A, 
                            ylabl = "L. perenne RNC (mg g-1)", plot_PAR = F)
 pLp_N_fRoots$pDIV
 
@@ -136,7 +144,7 @@ Lp_N_limb$select
 # test avec les options de filtrage
 #Lp_N_limb_opt2 <- Lp_N_temp[which(Lp_N_temp$id_loca %in% filter_lp$id_loca[filter_lp$opt2==1]), ]
 #Lp_N_limb_opt4 <- Lp_N_temp[which(Lp_N_temp$id_loca %in% filter_lp$id_loca[filter_lp$opt4==1]), ]
-#Lp_N_limb <- myfun_Ind(mdata = Lp_N_limb_opt4, vb = sqrt(Lp_N_limb_opt4$'Fine roots'), seuil_prcRE = 30)
+#Lp_N_limb <- myfun_Ind(mdata = Lp_N_limb_opt4, vb = sqrt(Lp_N_limb_opt4$Fine.roots), seuil_prcRE = 30)
 # aucune n'est satisfaisante => Kruskal-Wallis ?
 pLp_N_limb <- myplot_Ind(mdata = Lp_N_temp, vb = Lp_N_temp$Limb, mod = Lp_N_limb$mod10A, 
                          ylabl = "L. perenne LNC (mg g-1)", plot_PAR =F)
@@ -150,7 +158,7 @@ Lp_N_leaves$select
 # test avec les options de filtrage
 #Lp_N_leaves_opt2 <- Lp_N_temp[which(Lp_N_temp$id_loca %in% filter_lp$id_loca[filter_lp$opt2==1]), ]
 #Lp_N_leaves_opt4 <- Lp_N_temp[which(Lp_N_temp$id_loca %in% filter_lp$id_loca[filter_lp$opt4==1]), ]
-#Lp_N_leaves <- myfun_Ind(mdata = Lp_N_leaves_opt2, vb = sqrt(Lp_N_leaves_opt2$'Fine roots'), seuil_prcRE = 30)
+#Lp_N_leaves <- myfun_Ind(mdata = Lp_N_leaves_opt2, vb = sqrt(Lp_N_leaves_opt2$Fine.roots), seuil_prcRE = 30)
 # aucune n'est satisfaisante => Kruskal-Wallis ?
 pLp_N_leaves <- myplot_Ind(mdata = Lp_N_temp[!is.na(Lp_N_temp$Leaves),], vb = Lp_N_temp$Leaves[!is.na(Lp_N_temp$Leaves)], mod = Lp_N_leaves$mod10A, 
                            ylabl = "L. perenne leaves N content (mg g-1)", plot_PAR =F)
@@ -168,11 +176,11 @@ pLp_N_leaves <- myplot_Ind(mdata = Lp_N_temp[!is.na(Lp_N_temp$Leaves),], vb = Lp
 ############################################# 
 Ta_P <- myPcont[myPcont$id_taxo == "Tri_alexa" , ]
 # dans les racines fines
-Ta_P_temp <- Ta_P[which(!is.na(Ta_P$'Fine roots') & Ta_P$`Fine roots` > 0.1),]
-Ta_P_fRoots <- myfun_Leg(mdata = Ta_P_temp, vb = log(Ta_P_temp$'Fine roots'), seuil_prcRE = 30) # pas de transf efficaces
+Ta_P_temp <- Ta_P[which(!is.na(Ta_P$Fine.roots) & Ta_P$`Fine roots` > 0.1),]
+Ta_P_fRoots <- myfun_Leg(mdata = Ta_P_temp, vb = log(Ta_P_temp$Fine.roots), seuil_prcRE = 30) # pas de transf efficaces
 Ta_P_fRoots$resum
 Ta_P_fRoots$select
-pTa_P_fRoots <- myplot_Leg(mdata = Ta_P_temp, vb = Ta_P_temp$'Fine roots', mod = Ta_P_fRoots$mod10A, 
+pTa_P_fRoots <- myplot_Leg(mdata = Ta_P_temp, vb = Ta_P_temp$Fine.roots, mod = Ta_P_fRoots$mod10A, 
                            ylabl = "T. alexandrium \n roots P content (mg g-1)", plot_PAR = T)
 pTa_P_fRoots$pDIV
 
@@ -215,8 +223,8 @@ B
 #############################################
 Bn_P <- myPcont[myPcont$id_taxo == "Bra_napus" , ]
 # dans les racines fines
-Bn_P_temp <- Bn_P[!is.na(Bn_P$'Fine roots'),]
-Bn_P_fRoots <- myfun_Ind(mdata = Bn_P_temp, vb = Bn_P_temp$'Fine roots', seuil_prcRE = 24) 
+Bn_P_temp <- Bn_P[!is.na(Bn_P$Fine.roots),]
+Bn_P_fRoots <- myfun_Ind(mdata = Bn_P_temp, vb = Bn_P_temp$Fine.roots, seuil_prcRE = 24) 
 Bn_P_fRoots$resum # pas de transf efficaces
 Bn_P_fRoots$select
 # test avec les options de filtrage
@@ -224,10 +232,10 @@ Bn_P_fRoots$select
 #Bn_P_fRoots_opt7 <- Bn_P_temp[which(Bn_P_temp$id_loca %in% filter_bn$id_loca[filter_bn$opt7==1]), ]
 #Bn_P_fRoots_opt6 <- Bn_P_temp[which(Bn_P_temp$id_loca %in% filter_bn$id_loca[filter_bn$opt6==1]), ]
 #Bn_P_fRoots_opt4 <- Bn_P_temp[which(Bn_P_temp$id_loca %in% filter_bn$id_loca[filter_bn$opt4==1]), ]
-#Bn_P_fRoots <- myfun_Ind(mdata = Bn_P_fRoots_opt4, vb = log(Bn_P_fRoots_opt4$'Fine roots'), seuil_prcRE = 30)  # il faut l'option 4 pour r?ussir ? obtenir des r?sidus normaux
+#Bn_P_fRoots <- myfun_Ind(mdata = Bn_P_fRoots_opt4, vb = log(Bn_P_fRoots_opt4$Fine.roots), seuil_prcRE = 30)  # il faut l'option 4 pour r?ussir ? obtenir des r?sidus normaux
 #Bn_P_fRoots$resum
 #Bn_P_fRoots$select
-pBn_P_fRoots <- myplot_Ind(mdata = Bn_P_temp, vb = Bn_P_temp$'Fine roots', mod = Bn_P_fRoots$mod10A, 
+pBn_P_fRoots <- myplot_Ind(mdata = Bn_P_temp, vb = Bn_P_temp$Fine.roots, mod = Bn_P_fRoots$mod10A, 
                            ylabl = "B. napus \nfine roots P content (mg g-1)", plot_PAR = T)
 pBn_P_fRoots$pDIV_INTER
 
@@ -283,11 +291,11 @@ D
 #############################################
 Lp_P <- myPcont[myPcont$id_taxo == "Lol_peren" , ]
 # dans les racines fines
-Lp_P_temp <- Lp_P[!is.na(Lp_P$'Fine roots'),]
-Lp_P_fRoots <- myfun_Ind(mdata = Lp_P_temp, vb = sqrt(Lp_P_temp$'Fine roots'), seuil_prcRE = 30) 
+Lp_P_temp <- Lp_P[!is.na(Lp_P$Fine.roots),]
+Lp_P_fRoots <- myfun_Ind(mdata = Lp_P_temp, vb = sqrt(Lp_P_temp$Fine.roots), seuil_prcRE = 30) 
 Lp_P_fRoots$resum # pas de transf efficaces
 Lp_P_fRoots$select
-pLp_P_fRoots <- myplot_Ind(mdata = Lp_P_temp, vb = Lp_P_temp$'Fine roots', mod = Lp_P_fRoots$mod10A, 
+pLp_P_fRoots <- myplot_Ind(mdata = Lp_P_temp, vb = Lp_P_temp$Fine.roots, mod = Lp_P_fRoots$mod10A, 
                            ylabl = "L. perenne RPC (mg g-1)", plot_PAR = F)
 pLp_P_fRoots$pDIV
 
@@ -307,7 +315,7 @@ Lp_P_leaves$select
 # test avec les options de filtrage
 #Lp_P_leaves_opt2 <- Lp_P_temp[which(Lp_P_temp$id_loca %in% filter_lp$id_loca[filter_lp$opt2==1]), ]
 #Lp_P_leaves_opt4 <- Lp_P_temp[which(Lp_P_temp$id_loca %in% filter_lp$id_loca[filter_lp$opt4==1]), ]
-#Lp_P_leaves <- myfun_Ind(mdata = Lp_P_leaves_opt2, vb = sqrt(Lp_P_leaves_opt2$'Fine roots'), seuil_prcRE = 30)
+#Lp_P_leaves <- myfun_Ind(mdata = Lp_P_leaves_opt2, vb = sqrt(Lp_P_leaves_opt2$Fine.roots), seuil_prcRE = 30)
 # aucune n'est satisfaisante => Kruskal-Wallis ?
 pLp_P_leaves <- myplot_Ind(mdata = Lp_P_temp[!is.na(Lp_P_temp$Leaves),], vb = Lp_P_temp$Leaves[!is.na(Lp_P_temp$Leaves)], mod = Lp_P_leaves$mod10A, 
                            ylabl = "L. perenne leaves P content (mg g-1)", plot_PAR =F)
@@ -330,7 +338,7 @@ E
 # 3.4 Effet des traitements ? l'?chelle sp?cifique:   
 #        quantit? de N dans les organes de colza, ray-grass et tr?fle
 #------------------------------------------------------------                             
-
+Pcont <- read.csv("data/derived-data/pl_Pcont.csv")
 Pcont$qN <- Pcont$DM*Pcont$Ncont/100
 qttN <- aggregate(qN~distance+RT+leg+div+id_taxo, sum, data = Pcont)
 myqttN <- myprep(qttN)

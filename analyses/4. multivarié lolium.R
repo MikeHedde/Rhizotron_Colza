@@ -32,7 +32,7 @@ biom_pca <- mybiom_Ind %>%
 
 sel <-c("leg", "div", "ShootRoot", "DW_0",  "Ncont_Leaves", "Pcont_Leaves")
 
-prep_pca <- bind_rows(Ncont_pca, Pcont_pca, biom_pca, germ_pca) %>%
+prep_pca <- bind_rows(Ncont_pca, Pcont_pca, biom_pca) %>%
   pivot_wider(names_from = "organes", values_from = "values", values_fill = 0) %>%
   mutate_all(~replace_na(., 0)) %>%
   mutate(DW_R = rowSums(across(c("DW_1", "DW_2", "DW_3", "DW_4"))),
@@ -46,7 +46,7 @@ s.corcircle(pca$co)
 s.class(pca$li, as.factor(paste(prep_pca$leg, prep_pca$div, sep = "_")), 
         cellipse = F, col = 1:8)
 
-pcares <- cbind(Bn_pca$li[, 1:2], prep_pca[,1:7]) 
+pcares <- cbind(pca$li[, 1:2], prep_pca[,1:6]) 
 ggplot(pcares, aes(x = div, y = Axis1))+
   geom_boxplot()+
   facet_grid(leg~.)

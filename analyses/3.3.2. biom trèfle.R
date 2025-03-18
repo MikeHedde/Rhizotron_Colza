@@ -16,7 +16,7 @@ myTa <- read.csv("data/derived-data/pl_Ta_nod.csv", h = T, sep = ",")
   Ta_nod <- myfun_Leg(mdata = myTa_nod_temp, vb = log1p(myTa_nod_temp$NOD), seuil_prcRE = 24) ## log.transformed
   Ta_nod$select
   pTa_nod <- myplot_Leg(mdata = myTa_nod_temp, vb = log1p(myTa_nod_temp$NOD), mod = Ta_nod$mod10A, 
-                        ylabl = "T. alexandrium nodules (total, ind-1, log transf.)", plot_PAR = F)
+                        ylabl = "T. alexandrium nodules (total, no.ind-1, log transf.)", plot_PAR = F)
 
 
       ### nodules strate 1
