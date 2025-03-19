@@ -161,31 +161,7 @@ enz_PR <- ggplot(data = enz_Distri, aes(x = prof, y = x^2, group = div, shape = 
   facet_grid(.~enz, scales = "free_x")
 enz_PR
 
-##################    17/03/2025  ######################
-library(ade4)
-enz_pca <- dudi.pca(myenz[,6:11], scannf = FALSE, nf = 2)
-s.corcircle(enz_pca$co)
-s.class(enz_pca$li, as.factor(myenz$strate))
-s.class(enz_pca$li, as.factor(paste(myenz$div, myenz$leg, sep = "_")))
 
-myenz_long <- myenz %>%
-  pivot_longer(cols = c(hum, phos, ary, glu, ure, NH4), 
-               names_to = "variable", values_to = "value") %>%
-  select(-(c(X, serie, position, PAR))) %>%
-  summarySE(measurevar="value", groupvars=c("leg", "div", "strate" ,"variable")) %>%
-  mutate(strate = case_when(strate == 1 ~-3.5,
-                            strate == 2 ~-18.5,
-                            strate == 3 ~-40.5,
-                            strate == 4 ~-70.5))
-
-ggplot(myenz_long, aes(x = strate, y = value, colour = div))+
-  geom_point(position=position_dodge(width= 4))+
-  geom_line(aes(linetype = div))+
-  geom_errorbar(aes(ymin=value-se, ymax=value+se), 
-                width=.1, position=position_dodge(width= 4))+
-  coord_flip()+
-  facet_grid(leg~variable, scales = "free")+
-  theme_bw()
 
 #############################################        
 ###         Stoechiom enzymatique         ###
