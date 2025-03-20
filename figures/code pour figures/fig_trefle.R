@@ -177,10 +177,10 @@ librarian::shelf(dplyr, ggplot2, Rmisc, tidyr, stringr, ggpubr)
         geom_errorbar(aes(ymin=value-se, ymax=value+se), 
                       width=.1, position=position_dodge(width= 2),
                       colour = "black")+
+        paletteer::scale_fill_paletteer_d("beyonce::X115") +
         labs(x= "", y = "", fill = "Earthworm diversity")+
         facet_grid(element~variable, scales = "free")+
         theme_bw()+
-        paletteer::scale_fill_paletteer_d("beyonce::X115") +
         theme(#axis.text.x = element_blank(),
               axis.title = element_blank())
 

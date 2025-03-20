@@ -1,4 +1,4 @@
-librarian::shelf(tidyverse, dplyr, ggpubr, Rmisc, adde4)
+librarian::shelf(tidyverse, dplyr, ggpubr, Rmisc, ade4)
 
 
 ##################    17/03/2025  ######################
@@ -49,6 +49,9 @@ nutrient_bca_div <- bca(nutrient_pca, as.factor(nutrient_pca_df$code_divstrate),
 nutrient_bca_leg$ratio
 nutrient_bca_div$ratio
 
+leg_eig <- nutrient_bca_leg$eig/sum(nutrient_bca_leg$eig)*100
+div_eig <- nutrient_bca_div$eig/sum(nutrient_bca_div$eig)*100
+
 nutrient_bca_leg_baryc <- nutrient_bca_leg$li[,1:2] %>%
   as_tibble(rownames = "code")
 nutrient_bca_leg_fac <- nutrient_bca_leg$co[,1:2] %>%
@@ -65,18 +68,18 @@ nutrient_pca_fac <- nutrient_pca$co[,1:2]%>%
 
 # Factorial plan BCA leg
 BCA_leg  <- ggplot(nutrient_pca_points, aes(x = Axis1, y = Axis2))+
-  geom_hline(yintercept = 0) + geom_vline(xintercept = 0)+  geom_point()+
+  geom_hline(yintercept = 0) + geom_vline(xintercept = 0)+  geom_point(alpha=0.2)+
   geom_point(data = nutrient_bca_leg_baryc, aes(x = Axis1, y = Axis2), col = "red") +
   geom_text(data = nutrient_bca_leg_baryc, aes(x = Axis1, y = Axis2, label = code), 
-            col = "red", nudge_y = .1, size = 14/.pt, fontface = "bold", hjust=0,vjust=0) +
+            col = "red", nudge_y = .1, size = 10/.pt, hjust=0,vjust=0) +
   annotate("text", x = -2, y = 4, , size = 18/.pt, fontface = "bold", fill = "white",
-           label = paste("Between Legume \nclass inertia % = ", round(nutrient_bca_leg$ratio, 3)))+
+           label = paste("Between Legume \nclass inertia % = ", round(nutrient_bca_leg$ratio, 3)*100))+
   geom_segment(data = nutrient_bca_leg_fac, aes(x = 0, y = 0, xend = Comp1*10, yend = Comp2*10),
                arrow = arrow(length = unit(0.5, "cm")))+
   geom_text(data = nutrient_bca_leg_fac, aes(x = Comp1*10, y = Comp2*10, label = fac), 
             col = "purple", nudge_y = .1, size = 14/.pt, hjust=0,vjust=0) +
-  labs(x = paste("Axis 1 (", round(nutrient_bca_leg$eig[1]*100, 2), "%)", sep =""),
-       y = paste("Axis 2 (", round(nutrient_bca_leg$eig[2]*100, 2), "%)", sep =""))+
+  labs(x = paste("Axis 1 (", round(leg_eig[1], 2), "%)", sep =""),
+       y = paste("Axis 2 (", round(leg_eig[2], 2), "%)", sep =""))+
   xlim(-8,8)+
   theme_bw()
 
@@ -85,15 +88,15 @@ BCA_div <- ggplot(nutrient_pca_points, aes(x = Axis1, y = Axis2))+
   geom_hline(yintercept = 0) + geom_vline(xintercept = 0)+  geom_point(alpha=0.2)+
   geom_point(data = nutrient_bca_div_baryc, aes(x = Axis1, y = Axis2), col = "red") +
   geom_text(data = nutrient_bca_div_baryc, aes(x = Axis1, y = Axis2, label = code), 
-            col = "red", nudge_y = .1, size = 14/.pt, fontface = "bold", hjust=0,vjust=0) +
+            col = "red", nudge_y = .1, size = 10/.pt, hjust=0,vjust=0) +
   annotate("text", x = -2, y = 4, , size = 18/.pt, fontface = "bold", fill = "white",
-           label = paste("Between earthworm diversity \nclass inertia % = ", round(nutrient_bca_div$ratio, 3)))+
+           label = paste("Between earthworm diversity \nclass inertia % = ", round(nutrient_bca_div$ratio, 3)*100))+
   geom_segment(data = nutrient_bca_div_fac, aes(x = 0, y = 0, xend = Comp1*10, yend = Comp2*10),
                arrow = arrow(length = unit(0.5, "cm")))+
   geom_text(data = nutrient_bca_div_fac, aes(x = Comp1*10, y = Comp2*10, label = fac), 
             col = "purple", nudge_y = .1, size = 14/.pt, hjust=0,vjust=0) +
-  labs(x = paste("Axis 1 (", round(nutrient_bca_div$eig[1]*100, 2), "%)", sep =""),
-       y = paste("Axis 2 (", round(nutrient_bca_div$eig[2]*100, 2), "%)", sep =""))+
+  labs(x = paste("Axis 1 (", round(div_eig[1], 2), "%)", sep =""),
+       y = paste("Axis 2 (", round(div_eig[2], 2), "%)", sep =""))+
   xlim(-8,8)+
   theme_bw()
 
